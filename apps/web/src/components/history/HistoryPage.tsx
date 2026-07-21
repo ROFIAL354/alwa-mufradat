@@ -1,24 +1,34 @@
 import React, { useEffect, useState } from "react";
 import { useAppContext } from "../../context/AppContext.tsx";
-import { DailyContent, getHistoryForLevel, LEVEL_LABELS } from "@alwa/core";
+import { PortionContent, getPortionHistory, getPortionForLevel, getMaxPortion, LEVEL_LABELS } from "@alwa/core";
+import { MOCK_WORDS } from "@alwa/data";
 import Header from "../layout/Header.tsx";
 import HistoryList from "./HistoryList.tsx";
 
 /**
  * HistoryPage renders the archive section of the application where Ustadz
- * can retrieve vocabulary sheets shown in the past 30 days for Murajaah (memorization review).
+ * can retrieve completed vocabulary portions for Murajaah (memorization review).
  */
 export const HistoryPage: React.FC = () => {
   const { currentLevel, setView } = useAppContext();
-  const [historyItems, setHistoryItems] = useState<DailyContent[]>([]);
+  const [historyItems, setHistoryItems] = useState<PortionContent[]>([]);
   const [isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {
     if (currentLevel) {
       setIsLoading(true);
       try {
-        // Query last 30 days of localStorage entries
-        const items = getHistoryForLevel(currentLevel, 30);
+        const completedPortions = getPortionHistory(currentLevel);
+        const items: PortionContent[] = completedPortions.map((num) => {
+          const words = getPortionForLevel(currentLevel, MOCK_WORDS, num);
+          const max = getMaxPortion(currentLevel, MOCK_WORDS);
+          return {
+            level: currentLevel,
+            portionNumber: num,
+            words,
+            maxPortion: max
+          };
+        });
         setHistoryItems(items);
       } catch (e) {
         console.error("Gagal memuat riwayat:", e);
@@ -50,7 +60,7 @@ export const HistoryPage: React.FC = () => {
         {/* Title indicating selected grade level */}
         <div className="text-right flex flex-col">
           <span className="text-[9px] font-bold uppercase tracking-widest text-on-surface-variant leading-none">
-            Riwayat Murajaah
+            Riwayat Porsi
           </span>
           <h2 className="text-xs font-extrabold text-on-surface mt-1 leading-none">
             {currentLevel ? LEVEL_LABELS[currentLevel] : "Tanpa Kelas"}

@@ -2,8 +2,8 @@ import { GradeLevel } from "../types";
 
 export const STORAGE_KEYS = {
   AUTH: "auth_session",
-  USAGE: "usage_records",
-  daily: (level: GradeLevel, date: string) => `daily_${level}_${date}`,
+  PORTION: (level: GradeLevel) => `portion_${level}`,
+  PORTION_HISTORY: (level: GradeLevel) => `portion_history_${level}`,
 } as const;
 
 export const storage = {
@@ -16,7 +16,7 @@ export const storage = {
       return null;
     }
   },
-  
+
   set: <T>(key: string, value: T): void => {
     if (typeof window === "undefined" || !window.localStorage) return;
     try {
@@ -25,7 +25,7 @@ export const storage = {
       console.error("Storage set error:", e);
     }
   },
-  
+
   remove: (key: string): void => {
     if (typeof window === "undefined" || !window.localStorage) return;
     try {

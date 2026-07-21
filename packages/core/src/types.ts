@@ -57,15 +57,14 @@ export interface VocabWord {
   createdAt: string;
 }
 
-export interface WordUsageRecord {
-  id: string;
-  wordId: string;
-  language: Language;
-  usedInLevel: GradeLevel;
-  usedAt: string; // ISO 8601 YYYY-MM-DD date string
-  ustadzId: string;
+export interface PortionContent {
+  level: GradeLevel;
+  portionNumber: number;
+  words: VocabWord[];
+  maxPortion: number;
 }
 
+/** @deprecated Use PortionContent instead */
 export interface DailyContent {
   id: string;
   date: string; // "YYYY-MM-DD"

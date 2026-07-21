@@ -2,14 +2,15 @@ import React, { createContext, useContext, useState, useEffect } from "react";
 import { 
   AuthSession, 
   GradeLevel, 
-  DailyContent, 
+  PortionContent, 
   Ustadz, 
-  getAvailableWords, 
-  loadDailyContent, 
-  forceRefreshDailyContent, 
+  getCurrentPortion,
+  setCurrentPortion,
+  getPortionForLevel,
+  getMaxPortion,
+  addPortionToHistory,
   storage, 
-  STORAGE_KEYS,
-  WordUsageRecord
+  STORAGE_KEYS
 } from "@alwa/core";
 import { MOCK_USTADZ, MOCK_WORDS } from "@alwa/data";
 
@@ -30,10 +31,14 @@ interface AppContextType {
   isLoading: boolean;
   error: string | null;
   
-  // Daily content
-  dailyContent: DailyContent | null;
-  stockCount: number;
-  refreshDailyWords: () => void;
+  // Portion-based state
+  currentPortion: number;
+  maxPortion: number;
+  portionContent: PortionContent | null;
+  markCompleteAndAdvance: () => void;
+  goToPreviousPortion: () => void;
+  jumpToPortion: (portion: number) => void;
+  resetToPortionOne: () => void;
 }
 
 const AppContext = createContext<AppContextType | undefined>(undefined);
@@ -63,34 +68,49 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     return null;
   });
   
-  const [dailyContent, setDailyContent] = useState<DailyContent | null>(null);
-  const [stockCount, setStockCount] = useState<number>(0);
+  const [currentPortion, setCurrentPortionState] = useState<number>(1);
+  const [maxPortion, setMaxPortion] = useState<number>(1);
+  const [portionContent, setPortionContent] = useState<PortionContent | null>(null);
+  
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [error, setError] = useState<string | null>(null);
 
-  // Sync state with UI level change and auth session
+  // Sync portion state when level changes
+  useEffect(() => {
+    if (currentLevel) {
+      const portionNum = getCurrentPortion(currentLevel);
+      setCurrentPortionState(portionNum);
+      const max = getMaxPortion(currentLevel, MOCK_WORDS);
+      setMaxPortion(max);
+    } else {
+      setCurrentPortionState(1);
+      setMaxPortion(1);
+    }
+  }, [currentLevel]);
+
+  // Load words when grade level or current portion changes
   useEffect(() => {
     if (session && currentLevel) {
       setIsLoading(true);
       setError(null);
       try {
-        const content = loadDailyContent(currentLevel, session.ustadzId, MOCK_WORDS);
-        setDailyContent(content);
-        
-        // Recalculate stock
-        const usageRecords = storage.get<WordUsageRecord[]>(STORAGE_KEYS.USAGE) ?? [];
-        const pool = getAvailableWords(MOCK_WORDS, usageRecords, currentLevel, "arabic");
-        setStockCount(pool.length);
+        const words = getPortionForLevel(currentLevel, MOCK_WORDS, currentPortion);
+        const max = getMaxPortion(currentLevel, MOCK_WORDS);
+        setPortionContent({
+          level: currentLevel,
+          portionNumber: currentPortion,
+          words,
+          maxPortion: max,
+        });
       } catch (err: any) {
-        setError(err.message || "Gagal memuat materi harian.");
+        setError(err.message || "Gagal memuat materi porsi.");
       } finally {
         setIsLoading(false);
       }
     } else {
-      setDailyContent(null);
-      setStockCount(0);
+      setPortionContent(null);
     }
-  }, [session, currentLevel]);
+  }, [session, currentLevel, currentPortion]);
 
   const setView = (newView: ViewType) => {
     setViewState(newView);
@@ -129,8 +149,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     setSession(null);
     setCurrentUser(null);
     setCurrentLevelState(null);
-    setDailyContent(null);
-    setStockCount(0);
+    setPortionContent(null);
     setView("login");
   };
 
@@ -140,23 +159,37 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
     }
   };
 
-  const refreshDailyWords = () => {
-    if (!session || !currentLevel) return;
-    setIsLoading(true);
-    setError(null);
-    try {
-      const refreshedContent = forceRefreshDailyContent(currentLevel, session.ustadzId, MOCK_WORDS);
-      setDailyContent(refreshedContent);
-      
-      // Recalculate stock after refresh/partial reset
-      const usageRecords = storage.get<WordUsageRecord[]>(STORAGE_KEYS.USAGE) ?? [];
-      const pool = getAvailableWords(MOCK_WORDS, usageRecords, currentLevel, "arabic");
-      setStockCount(pool.length);
-    } catch (err: any) {
-      setError(err.message || "Gagal memperbarui materi harian.");
-    } finally {
-      setIsLoading(false);
+  const markCompleteAndAdvance = () => {
+    if (!currentLevel) return;
+    addPortionToHistory(currentLevel, currentPortion);
+    if (currentPortion < maxPortion) {
+      const nextPortion = currentPortion + 1;
+      setCurrentPortion(currentLevel, nextPortion);
+      setCurrentPortionState(nextPortion);
     }
+  };
+
+  const goToPreviousPortion = () => {
+    if (!currentLevel) return;
+    if (currentPortion > 1) {
+      const prevPortion = currentPortion - 1;
+      setCurrentPortion(currentLevel, prevPortion);
+      setCurrentPortionState(prevPortion);
+    }
+  };
+
+  const jumpToPortion = (portion: number) => {
+    if (!currentLevel) return;
+    if (portion >= 1 && portion <= maxPortion) {
+      setCurrentPortion(currentLevel, portion);
+      setCurrentPortionState(portion);
+    }
+  };
+
+  const resetToPortionOne = () => {
+    if (!currentLevel) return;
+    setCurrentPortion(currentLevel, 1);
+    setCurrentPortionState(1);
   };
 
   return (
@@ -172,9 +205,13 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
         setCurrentLevel,
         isLoading,
         error,
-        dailyContent,
-        stockCount,
-        refreshDailyWords
+        currentPortion,
+        maxPortion,
+        portionContent,
+        markCompleteAndAdvance,
+        goToPreviousPortion,
+        jumpToPortion,
+        resetToPortionOne
       }}
     >
       {children}

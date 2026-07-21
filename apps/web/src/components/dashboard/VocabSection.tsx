@@ -17,8 +17,8 @@ export const VocabSection: React.FC<VocabSectionProps> = ({ words }) => {
         <span className="material-symbols-outlined text-4xl text-outline">
           folder_open
         </span>
-        <p className="text-sm font-semibold">Tidak ada materi hari ini.</p>
-        <p className="text-xs opacity-75">Silakan tekan tombol "Muat Materi" di atas untuk men-generate kosakata harian.</p>
+        <p className="text-sm font-semibold">Tidak ada materi porsi aktif.</p>
+        <p className="text-xs opacity-75">Porsi yang Anda pilih tidak memiliki kosakata yang terdaftar.</p>
       </div>
     );
   }
@@ -28,10 +28,10 @@ export const VocabSection: React.FC<VocabSectionProps> = ({ words }) => {
       {/* Section Header */}
       <div className="flex items-center space-x-2 pb-1.5 border-b border-[#3c4a42]/30">
         <span className="material-symbols-outlined text-sm text-[#10b981]">
-          stars
+          menu_book
         </span>
         <span className="text-[10px] font-bold uppercase tracking-widest text-on-surface-variant">
-          Materi Inti Harian
+          Kosakata Porsi Ini
         </span>
       </div>
 

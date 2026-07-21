@@ -2,16 +2,16 @@ import React from "react";
 import { useAppContext } from "../../context/AppContext.tsx";
 import Header from "../layout/Header.tsx";
 import LevelSelector from "./LevelSelector.tsx";
-import DateBar from "./DateBar.tsx";
+import PortionBar from "./PortionBar.tsx";
 import VocabSection from "./VocabSection.tsx";
-import StockWarningBadge from "../common/StockWarningBadge.tsx";
+import PortionControls from "./PortionControls.tsx";
 
 /**
  * DashboardPage is the central dashboard view for Ustadz. It coordinates
- * loading states, displays warning badges, lists words, and links to the history.
+ * loading states, portion control inputs, lists words, and links to the history.
  */
 export const DashboardPage: React.FC = () => {
-  const { dailyContent, stockCount, setView, isLoading, error } = useAppContext();
+  const { portionContent, setView, isLoading, error } = useAppContext();
 
   return (
     <div className="flex flex-col flex-1 pb-lg w-full animate-fade-in">
@@ -19,7 +19,7 @@ export const DashboardPage: React.FC = () => {
       {/* Top Bars */}
       <Header />
       <LevelSelector />
-      <DateBar />
+      <PortionBar />
 
       {/* Main Container */}
       <main className="flex-1 flex flex-col pt-2 w-full">
@@ -37,18 +37,16 @@ export const DashboardPage: React.FC = () => {
               progress_activity
             </span>
             <span className="text-[10px] font-bold text-on-surface-variant tracking-widest uppercase animate-pulse">
-              Memuat Materi Harian...
+              Memuat Kurikulum Porsi...
             </span>
           </div>
         ) : (
           <div className="flex-1 flex flex-col justify-between w-full">
-            {/* Vocab Section & Warnings */}
+            {/* Vocab Section & Controls */}
             <div className="w-full flex flex-col">
-              <VocabSection words={dailyContent?.arabicWords || []} />
+              <VocabSection words={portionContent?.words || []} />
 
-              <div className="px-md w-full">
-                <StockWarningBadge stockCount={stockCount} />
-              </div>
+              <PortionControls />
             </div>
 
             {/* Navigate to History Page */}
@@ -59,7 +57,7 @@ export const DashboardPage: React.FC = () => {
                 type="button"
               >
                 <span className="material-symbols-outlined text-sm">history_edu</span>
-                <span>Lihat Riwayat Kemarin</span>
+                <span>Lihat Riwayat Porsi</span>
               </button>
             </div>
           </div>
