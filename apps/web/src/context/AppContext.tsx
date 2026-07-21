@@ -119,7 +119,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
   const login = (username: string, passwordHash: string): boolean => {
     setError(null);
     const ustadz = MOCK_USTADZ.find(
-      u => u.username.toLowerCase() === username.toLowerCase() && u.passwordHash === passwordHash
+      u => u.username.toLowerCase() === username.trim().toLowerCase() && u.passwordHash === passwordHash
     );
 
     if (!ustadz) {

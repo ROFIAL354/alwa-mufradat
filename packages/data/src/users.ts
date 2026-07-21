@@ -19,8 +19,8 @@ export const MOCK_USTADZ: Ustadz[] = [
   },
   {
     id: "u-003",
-    name: "Ustadz Ridwan",
-    username: "ridwan",
+    name: "USTADZ ALWA",
+    username: "ustadz alwa",
     passwordHash: "all123",
     assignedLevels: ["1SMP", "2SMP", "3SMP", "1SMA", "2SMA", "3SMA"],
     createdAt: "2026-01-01T00:00:00Z",
