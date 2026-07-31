@@ -8072,5 +8072,545 @@ export const DATA_1SMP: RawWord[] = [
     "type": "ism",
     "tags": ["akhlak", "spiritual", "ibadah"]
   },
+  {
+    "id": "w-1smp-p141-1",
+    "word": "بَلَّلَ - يُبَلِّلُ",
+    "latin": "Ballala - Yuballilu",
+    "meaning": "Membasahi",
+    "sentences": [
+      {
+        "id": "s-1smp-p141-1",
+        "sentence": "أُبَلِّلُ الْفُرْشَاةَ قَبْلَ اسْتِخْدَامِ الْمَعْجُونِ",
+        "latin": "Uballilul-fursyaata qabla-stikhdaamil-ma'juuni",
+        "meaning": "Saya membasahi sikat sebelum memakai pasta gigi"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas", "kebersihan"]
+  },
+  {
+    "id": "w-1smp-p141-2",
+    "word": "فُرْشَاةٌ",
+    "latin": "Fursyaatun",
+    "meaning": "Sikat gigi",
+    "sentences": [
+      {
+        "id": "s-1smp-p141-2",
+        "sentence": "أَحْمِلُ فُرْشَاتِي كُلَّ صَبَاحٍ",
+        "latin": "Ahmilu fursyaatii kulla shabaahin",
+        "meaning": "Saya membawa sikat gigiku setiap pagi"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda", "kebersihan"]
+  },
+  {
+    "id": "w-1smp-p141-3",
+    "word": "مِعْجُونٌ",
+    "latin": "Mi'juunun",
+    "meaning": "Pasta gigi",
+    "sentences": [
+      {
+        "id": "s-1smp-p141-3",
+        "sentence": "الْمَعْجُونُ يُنَظِّفُ الْأَسْنَانَ",
+        "latin": "Al-ma'juunu yunazhzhiful-asnaana",
+        "meaning": "Pasta gigi membersihkan gigi"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda", "kebersihan"]
+  },
+  {
+    "id": "w-1smp-p142-1",
+    "word": "عَصَرَ - يَعْصِرُ",
+    "latin": "'Ashara - Ya'shiru",
+    "meaning": "Memeras",
+    "sentences": [
+      {
+        "id": "s-1smp-p142-1",
+        "sentence": "أَعْصِرُ الْبُرْتُقَالَةَ لِأَشْرَبَ عَصِيرَهَا",
+        "latin": "A'shirul-burtuqaalata li-asyraba 'ashiirahaa",
+        "meaning": "Saya memeras jeruk untuk minum jusnya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas", "makanan"]
+  },
+  {
+    "id": "w-1smp-p142-2",
+    "word": "بُرْتُقَالَةٌ",
+    "latin": "Burtuqaalatun",
+    "meaning": "Jeruk",
+    "sentences": [
+      {
+        "id": "s-1smp-p142-2",
+        "sentence": "الْبُرْتُقَالَةُ فَاكِهَةٌ لَذِيذَةٌ",
+        "latin": "Al-burtuqaalatu faakihatun ladziidzatun",
+        "meaning": "Jeruk adalah buah yang lezat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan", "benda"]
+  },
+  {
+    "id": "w-1smp-p142-3",
+    "word": "تُفَّاحَةٌ",
+    "latin": "Tuffaahatun",
+    "meaning": "Apel",
+    "sentences": [
+      {
+        "id": "s-1smp-p142-3",
+        "sentence": "آكُلُ تُفَّاحَةً بَعْدَ الْغَدَاءِ",
+        "latin": "Aakulu tuffaahatan ba'dal-ghadaa'i",
+        "meaning": "Saya makan apel setelah makan siang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan", "benda"]
+  },
+  {
+    "id": "w-1smp-p143-1",
+    "word": "قَشَّرَ - يُقَشِّرُ",
+    "latin": "Qasysyara - Yuqasysyiru",
+    "meaning": "Mengupas",
+    "sentences": [
+      {
+        "id": "s-1smp-p143-1",
+        "sentence": "تُقَشِّرُ أُمِّي الْمَوْزَةَ لِأَخِي الصَّغِيرِ",
+        "latin": "Tuqasysyiru ummii al-mawzata li-akhish-shaghiiri",
+        "meaning": "Ibuku mengupas pisang untuk adikku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas", "makanan"]
+  },
+  {
+    "id": "w-1smp-p143-2",
+    "word": "مَوْزَةٌ",
+    "latin": "Mawzatun",
+    "meaning": "Pisang",
+    "sentences": [
+      {
+        "id": "s-1smp-p143-2",
+        "sentence": "الْمَوْزَةُ غِذَاءٌ مُفِيدٌ لِلْجِسْمِ",
+        "latin": "Al-mawzatu ghidzaa'un mufiidun lil-jismi",
+        "meaning": "Pisang adalah makanan yang bermanfaat untuk tubuh"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan", "benda"]
+  },
+  {
+    "id": "w-1smp-p143-3",
+    "word": "بَطِّيخٌ",
+    "latin": "Baththiikhun",
+    "meaning": "Semangka",
+    "sentences": [
+      {
+        "id": "s-1smp-p143-3",
+        "sentence": "نَأْكُلُ الْبَطِّيخَ فِي الصَّيْفِ",
+        "latin": "Na'kulul-baththiikha fish-shayfi",
+        "meaning": "Kami makan semangka di musim panas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan", "benda"]
+  },
+  {
+    "id": "w-1smp-p144-1",
+    "word": "نَقَلَ - يَنْقُلُ",
+    "latin": "Naqala - Yanqulu",
+    "meaning": "Memindahkan",
+    "sentences": [
+      {
+        "id": "s-1smp-p144-1",
+        "sentence": "أَنْقُلُ الْجَزَرَ مِنَ السُّوقِ إِلَى الْمَطْبَخِ",
+        "latin": "Anqulul-jazara minas-suuqi ilal-mathbakhi",
+        "meaning": "Saya memindahkan wortel dari pasar ke dapur"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas", "dapur"]
+  },
+  {
+    "id": "w-1smp-p144-2",
+    "word": "جَزَرٌ",
+    "latin": "Jazarun",
+    "meaning": "Wortel",
+    "sentences": [
+      {
+        "id": "s-1smp-p144-2",
+        "sentence": "أُحِبُّ أَكْلَ الْجَزَرِ كَثِيرًا",
+        "latin": "Uhibbu akla al-jazari katsiiran",
+        "meaning": "Saya sangat suka makan wortel"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur", "makanan"]
+  },
+  {
+    "id": "w-1smp-p144-3",
+    "word": "بَصَلٌ",
+    "latin": "Basalun",
+    "meaning": "Bawang",
+    "sentences": [
+      {
+        "id": "s-1smp-p144-3",
+        "sentence": "تَضَعُ أُمِّي الْبَصَلَ فِي الطَّعَامِ",
+        "latin": "Tadha'u ummii al-basala fit-tha'aami",
+        "meaning": "Ibuku menaruh bawang di dalam makanan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur", "makanan"]
+  },
+  {
+    "id": "w-1smp-p145-1",
+    "word": "حَلَبَ - يَحْلُبُ",
+    "latin": "Halaba - Yahlubu",
+    "meaning": "Memerah (susu)",
+    "sentences": [
+      {
+        "id": "s-1smp-p145-1",
+        "sentence": "يَحْلُبُ الْفَلَّاحُ الْبَقَرَةَ كُلَّ يَوْمٍ",
+        "latin": "Yahlubul-fallaahul-baqarata kulla yawmin",
+        "meaning": "Petani memerah sapi setiap hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas", "pertanian"]
+  },
+  {
+    "id": "w-1smp-p145-2",
+    "word": "بَقَرَةٌ",
+    "latin": "Baqaratun",
+    "meaning": "Sapi",
+    "sentences": [
+      {
+        "id": "s-1smp-p145-2",
+        "sentence": "تُعْطِينَا الْبَقَرَةُ حَلِيبًا كَثِيرًا",
+        "latin": "Tu'thiinal-baqaratu haliiban katsiiran",
+        "meaning": "Sapi memberi kita banyak susu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "pertanian"]
+  },
+  {
+    "id": "w-1smp-p145-3",
+    "word": "عَنْزٌ",
+    "latin": "'Anzun",
+    "meaning": "Kambing",
+    "sentences": [
+      {
+        "id": "s-1smp-p145-3",
+        "sentence": "الْعَنْزُ حَيَوَانٌ صَغِيرٌ",
+        "latin": "Al-'anzu hayawaanun shaghiirun",
+        "meaning": "Kambing adalah hewan kecil"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "pertanian"]
+  },
+  {
+    "id": "w-1smp-p146-1",
+    "word": "رَبَطَ - يَرْبُطُ",
+    "latin": "Rabatha - Yarbuthu",
+    "meaning": "Mengikat",
+    "sentences": [
+      {
+        "id": "s-1smp-p146-1",
+        "sentence": "يَرْبُطُ الرَّاعِي الْخَرُوفَ بِالْحَبْلِ",
+        "latin": "Yarbuthur-raa'il-kharuufa bil-habli",
+        "meaning": "Penggembala mengikat domba dengan tali"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas", "pertanian"]
+  },
+  {
+    "id": "w-1smp-p146-2",
+    "word": "خِرُوفٌ",
+    "latin": "Kharuufun",
+    "meaning": "Domba",
+    "sentences": [
+      {
+        "id": "s-1smp-p146-2",
+        "sentence": "صُوفُ الْخَرُوفِ نَاعِمٌ",
+        "latin": "Shuuful-kharuufi naa'imun",
+        "meaning": "Bulu domba itu lembut"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "pertanian"]
+  },
+  {
+    "id": "w-1smp-p146-3",
+    "word": "دَجَاجَةٌ",
+    "latin": "Dajaajatun",
+    "meaning": "Ayam",
+    "sentences": [
+      {
+        "id": "s-1smp-p146-3",
+        "sentence": "تَضَعُ الدَّجَاجَةُ بَيْضًا كُلَّ يَوْمٍ",
+        "latin": "Tadha'ud-dajaajatu baydhan kulla yawmin",
+        "meaning": "Ayam bertelur setiap hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "pertanian"]
+  },
+  {
+    "id": "w-1smp-p147-1",
+    "word": "طَارَ - يَطِيرُ",
+    "latin": "Thaara - Yathiiru",
+    "meaning": "Terbang",
+    "sentences": [
+      {
+        "id": "s-1smp-p147-1",
+        "sentence": "تَطِيرُ الْفَرَاشَةُ فَوْقَ الزُّهُورِ",
+        "latin": "Tathiirul-faraasyatu fawqaz-zuhuuri",
+        "meaning": "Kupu-kupu terbang di atas bunga-bunga"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas", "alam"]
+  },
+  {
+    "id": "w-1smp-p147-2",
+    "word": "فَرَاشَةٌ",
+    "latin": "Faraashatun",
+    "meaning": "Kupu-kupu",
+    "sentences": [
+      {
+        "id": "s-1smp-p147-2",
+        "sentence": "الْفَرَاشَةُ جَمِيلَةُ الْأَلْوَانِ",
+        "latin": "Al-faraashatu jamiilatul-alwaani",
+        "meaning": "Kupu-kupu indah warnanya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "alam"]
+  },
+  {
+    "id": "w-1smp-p147-3",
+    "word": "نَحْلَةٌ",
+    "latin": "Nahlatun",
+    "meaning": "Lebah",
+    "sentences": [
+      {
+        "id": "s-1smp-p147-3",
+        "sentence": "تَصْنَعُ النَّحْلَةُ الْعَسَلَ",
+        "latin": "Tashna'un-nahlatul-'asala",
+        "meaning": "Lebah membuat madu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "alam"]
+  },
+  {
+    "id": "w-1smp-p148-1",
+    "word": "فَكَّ - يَفُكُّ",
+    "latin": "Fakka - Yafukku",
+    "meaning": "Melepas (ikatan/kunci)",
+    "sentences": [
+      {
+        "id": "s-1smp-p148-1",
+        "sentence": "أَفُكُّ الْقُفْلَ بِالْمِفْتَاحِ",
+        "latin": "Afukkul-qufla bil-miftaahi",
+        "meaning": "Saya membuka gembok dengan kunci"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas", "benda"]
+  },
+  {
+    "id": "w-1smp-p148-2",
+    "word": "قُفْلٌ",
+    "latin": "Qufulun",
+    "meaning": "Gembok",
+    "sentences": [
+      {
+        "id": "s-1smp-p148-2",
+        "sentence": "الْقُفْلُ عَلَى الْبَابِ",
+        "latin": "Al-qufulu 'alal-baabi",
+        "meaning": "Gembok itu ada di pintu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda"]
+  },
+  {
+    "id": "w-1smp-p148-3",
+    "word": "جِسْرٌ",
+    "latin": "Jisrun",
+    "meaning": "Jembatan",
+    "sentences": [
+      {
+        "id": "s-1smp-p148-3",
+        "sentence": "نَعْبُرُ الْجِسْرَ إِلَى الْمَدْرَسَةِ",
+        "latin": "Na'burul-jisra ilal-madrasati",
+        "meaning": "Kami menyeberangi jembatan menuju sekolah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tempat", "fasilitas"]
+  },
+  {
+    "id": "w-1smp-p149-1",
+    "word": "هَبَطَ - يَهْبِطُ",
+    "latin": "Habatha - Yahbithu",
+    "meaning": "Turun (dari ketinggian)",
+    "sentences": [
+      {
+        "id": "s-1smp-p149-1",
+        "sentence": "يَهْبِطُ الْعُصْفُورُ عَلَى الشَّجَرَةِ",
+        "latin": "Yahbithul-'ushfuuru 'alasy-syajarati",
+        "meaning": "Burung kecil itu hinggap di pohon"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas", "alam"]
+  },
+  {
+    "id": "w-1smp-p149-2",
+    "word": "عُصْفُورٌ",
+    "latin": "'Ushfuurun",
+    "meaning": "Burung kecil",
+    "sentences": [
+      {
+        "id": "s-1smp-p149-2",
+        "sentence": "يُغَرِّدُ الْعُصْفُورُ فِي الصَّبَاحِ",
+        "latin": "Yughurridul-'ushfuuru fish-shabaahi",
+        "meaning": "Burung kecil itu berkicau di pagi hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "alam"]
+  },
+  {
+    "id": "w-1smp-p149-3",
+    "word": "سَمَكَةٌ",
+    "latin": "Samakatun",
+    "meaning": "Ikan",
+    "sentences": [
+      {
+        "id": "s-1smp-p149-3",
+        "sentence": "تَسْبَحُ السَّمَكَةُ فِي الْمَاءِ",
+        "latin": "Tasbahus-samakatu fil-maa'i",
+        "meaning": "Ikan berenang di dalam air"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "alam"]
+  },
+  {
+    "id": "w-1smp-p150-1",
+    "word": "أَشْعَلَ - يُشْعِلُ",
+    "latin": "Asy'ala - Yusy'ilu",
+    "meaning": "Menyalakan",
+    "sentences": [
+      {
+        "id": "s-1smp-p150-1",
+        "sentence": "أُشْعِلُ مِصْبَاحَ الدَّرَّاجَةِ فِي اللَّيْلِ",
+        "latin": "Usy'ilu mishbaahad-darraajati fil-layli",
+        "meaning": "Saya menyalakan lampu sepeda di malam hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p150-2",
+    "word": "نَجْمَةٌ",
+    "latin": "Najmatun",
+    "meaning": "Bintang",
+    "sentences": [
+      {
+        "id": "s-1smp-p150-2",
+        "sentence": "تَلْمَعُ النَّجْمَةُ فِي السَّمَاءِ",
+        "latin": "Talma'un-najmatu fis-samaa'i",
+        "meaning": "Bintang itu berkilau di langit"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p150-3",
+    "word": "دَرَّاجَةٌ",
+    "latin": "Darraajatun",
+    "meaning": "Sepeda",
+    "sentences": [
+      {
+        "id": "s-1smp-p150-3",
+        "sentence": "أَرْكَبُ الدَّرَّاجَةَ كُلَّ عَصْرٍ",
+        "latin": "Arkabud-darraajata kulla 'ashrin",
+        "meaning": "Saya naik sepeda setiap sore"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda", "aktivitas"]
+  }
 
 ]
