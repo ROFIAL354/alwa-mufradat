@@ -11311,6 +11311,8916 @@ export const DATA_1SMP: RawWord[] = [
     "difficulty": 1,
     "type": "ism",
     "tags": ["profesi"]
+  },
+  {
+    "id": "w-1smp-p201-1",
+    "word": "اِعْتَذَرَ - يَعْتَذِرُ",
+    "latin": "I'tadzara - Ya'tadziru",
+    "meaning": "Meminta maaf",
+    "sentences": [
+      {
+        "id": "s-1smp-p201-1",
+        "sentence": "اعْتَذَرَ الطَّالِبُ عَنْ تَأَخُّرِهِ",
+        "latin": "I'tadzara ath-thaalibu 'an ta'akhkhurihi",
+        "meaning": "Siswa itu meminta maaf atas keterlambatannya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["adab"]
+  },
+  {
+    "id": "w-1smp-p201-2",
+    "word": "دُلْفِينٌ",
+    "latin": "Dulfiinun",
+    "meaning": "Lumba-lumba",
+    "sentences": [
+      {
+        "id": "s-1smp-p201-2",
+        "sentence": "الدُّلْفِينُ حَيَوَانٌ ذَكِيٌّ يَعِيشُ فِي الْبَحْرِ",
+        "latin": "Ad-dulfiinu hayawaanun dzakiyyun ya'iisyu fil-bahri",
+        "meaning": "Lumba-lumba adalah hewan cerdas yang hidup di laut"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "alam"]
+  },
+  {
+    "id": "w-1smp-p201-3",
+    "word": "حُوتٌ",
+    "latin": "Huutun",
+    "meaning": "Paus",
+    "sentences": [
+      {
+        "id": "s-1smp-p201-3",
+        "sentence": "الْحُوتُ أَكْبَرُ حَيَوَانٍ فِي الْبَحْرِ",
+        "latin": "Al-huutu akbaru hayawaanin fil-bahri",
+        "meaning": "Paus adalah hewan terbesar di laut"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "alam"]
+  },
+  {
+    "id": "w-1smp-p202-1",
+    "word": "وَعَدَ - يَعِدُ",
+    "latin": "Wa'ada - Ya'idu",
+    "meaning": "Berjanji",
+    "sentences": [
+      {
+        "id": "s-1smp-p202-1",
+        "sentence": "وَعَدَ أَبِي أَنْ يَشْتَرِيَ لِي دَرَّاجَةً",
+        "latin": "Wa'ada abii an yasytariya lii darraajatan",
+        "meaning": "Ayahku berjanji akan membelikanku sepeda"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p202-2",
+    "word": "قِرْشٌ",
+    "latin": "Qirsyun",
+    "meaning": "Hiu",
+    "sentences": [
+      {
+        "id": "s-1smp-p202-2",
+        "sentence": "الْقِرْشُ سَمَكَةٌ كَبِيرَةٌ وَخَطِيرَةٌ",
+        "latin": "Al-qirsyu samakatun kabiiratun wa-khathiiratun",
+        "meaning": "Hiu adalah ikan besar yang berbahaya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p202-3",
+    "word": "سَرَطَانٌ",
+    "latin": "Sarathaanun",
+    "meaning": "Kepiting",
+    "sentences": [
+      {
+        "id": "s-1smp-p202-3",
+        "sentence": "يَمْشِي السَّرَطَانُ عَلَى الشَّاطِئِ",
+        "latin": "Yamsyis-sarathaanu 'alasy-syaathi'i",
+        "meaning": "Kepiting berjalan di pantai"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "alam"]
+  },
+  {
+    "id": "w-1smp-p203-1",
+    "word": "اِسْتَأْذَنَ - يَسْتَأْذِنُ",
+    "latin": "Ista'dzana - Yasta'dzinu",
+    "meaning": "Meminta izin",
+    "sentences": [
+      {
+        "id": "s-1smp-p203-1",
+        "sentence": "اسْتَأْذَنَ الطَّالِبُ لِلْخُرُوجِ مِنَ الْفَصْلِ",
+        "latin": "Ista'dzana ath-thaalibu lil-khuruuji minal-fashli",
+        "meaning": "Siswa itu meminta izin untuk keluar dari kelas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["adab", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p203-2",
+    "word": "رَبِيَانٌ",
+    "latin": "Rabyaanun",
+    "meaning": "Udang",
+    "sentences": [
+      {
+        "id": "s-1smp-p203-2",
+        "sentence": "يَأْكُلُ النَّاسُ الرَّبْيَانَ الْمَشْوِيَّ",
+        "latin": "Ya'kulun-naasur-rabyaanal-masyiyya",
+        "meaning": "Orang-orang makan udang bakar"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "makanan"]
+  },
+  {
+    "id": "w-1smp-p203-3",
+    "word": "أَخْطَبُوطٌ",
+    "latin": "Ukhthubuutun",
+    "meaning": "Gurita",
+    "sentences": [
+      {
+        "id": "s-1smp-p203-3",
+        "sentence": "لِلْأُخْطُبُوطِ ثَمَانِيَةُ أَذْرُعٍ",
+        "latin": "Lil-ukhthubuuti tsamaaniyatu adzru'in",
+        "meaning": "Gurita memiliki delapan lengan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p204-1",
+    "word": "عَرَّفَ - يُعَرِّفُ",
+    "latin": "'Arrafa - Yu'arrifu",
+    "meaning": "Memperkenalkan",
+    "sentences": [
+      {
+        "id": "s-1smp-p204-1",
+        "sentence": "عَرَّفَنِي الْأُسْتَاذُ بِصَدِيقِي الْجَدِيدِ",
+        "latin": "'Arrafanil-ustaadzu bi-shadiiqil-jadiidi",
+        "meaning": "Ustadz memperkenalkanku dengan teman baruku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah", "adab"]
+  },
+  {
+    "id": "w-1smp-p204-2",
+    "word": "نَجْمُ الْبَحْرِ",
+    "latin": "Najmul-Bahri",
+    "meaning": "Bintang laut",
+    "sentences": [
+      {
+        "id": "s-1smp-p204-2",
+        "sentence": "وَجَدْتُ نَجْمَ الْبَحْرِ عَلَى الرَّمْلِ",
+        "latin": "Wajadtu najmal-bahri 'alar-ramli",
+        "meaning": "Saya menemukan bintang laut di atas pasir"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "alam"]
+  },
+  {
+    "id": "w-1smp-p204-3",
+    "word": "بَطْرِيقٌ",
+    "latin": "Bathriiqun",
+    "meaning": "Penguin",
+    "sentences": [
+      {
+        "id": "s-1smp-p204-3",
+        "sentence": "يَعِيشُ الْبَطْرِيقُ فِي الْمَنَاطِقِ الْبَارِدَةِ",
+        "latin": "Ya'iisyul-bathriiqu fil-manaathiqil-baaridati",
+        "meaning": "Penguin hidup di daerah yang dingin"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p205-1",
+    "word": "نَاقَشَ - يُنَاقِشُ",
+    "latin": "Naaqasya - Yunaaqisyu",
+    "meaning": "Berdiskusi",
+    "sentences": [
+      {
+        "id": "s-1smp-p205-1",
+        "sentence": "نَاقَشَ الطُّلَّابُ الْمَوْضُوعَ فِي الْفَصْلِ",
+        "latin": "Naaqasyat-tullaabul-mawdhuu'a fil-fashli",
+        "meaning": "Para siswa mendiskusikan topik itu di kelas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p205-2",
+    "word": "كَنْغُرُ",
+    "latin": "Kangguru",
+    "meaning": "Kanguru",
+    "sentences": [
+      {
+        "id": "s-1smp-p205-2",
+        "sentence": "يَقْفِزُ الْكَنْغُرُ بِرِجْلَيْهِ الْقَوِيَّتَيْنِ",
+        "latin": "Yaqfizul-kangguru bi-rijlayhil-qawiyyatayni",
+        "meaning": "Kanguru melompat dengan kedua kakinya yang kuat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p205-3",
+    "word": "جَمَلٌ",
+    "latin": "Jamalun",
+    "meaning": "Unta",
+    "sentences": [
+      {
+        "id": "s-1smp-p205-3",
+        "sentence": "يَتَحَمَّلُ الْجَمَلُ الْعَطَشَ طَوِيلًا",
+        "latin": "Yatahammalul-jamalul-'athasya thawiilan",
+        "meaning": "Unta mampu menahan haus dalam waktu lama"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p206-1",
+    "word": "اِتَّفَقَ - يَتَّفِقُ",
+    "latin": "Ittafaqa - Yattafiqu",
+    "meaning": "Bersepakat",
+    "sentences": [
+      {
+        "id": "s-1smp-p206-1",
+        "sentence": "اتَّفَقَ الْأَصْدِقَاءُ عَلَى اللَّعِبِ مَعًا",
+        "latin": "Ittafaqal-ashdiqaa'u 'alal-la'ibi ma'an",
+        "meaning": "Teman-teman itu sepakat untuk bermain bersama"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sosial"]
+  },
+  {
+    "id": "w-1smp-p206-2",
+    "word": "حِمَارٌ",
+    "latin": "Himaarun",
+    "meaning": "Keledai",
+    "sentences": [
+      {
+        "id": "s-1smp-p206-2",
+        "sentence": "يَحْمِلُ الْحِمَارُ الْأَثْقَالَ فِي الْقَرْيَةِ",
+        "latin": "Yahmilul-himaarul-atsqaala fil-qaryati",
+        "meaning": "Keledai membawa barang-barang berat di desa"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p206-3",
+    "word": "بَغْلٌ",
+    "latin": "Baghlun",
+    "meaning": "Bagal",
+    "sentences": [
+      {
+        "id": "s-1smp-p206-3",
+        "sentence": "الْبَغْلُ حَيَوَانٌ قَوِيٌّ يُسَاعِدُ الْفَلَّاحَ",
+        "latin": "Al-baghlu hayawaanun qawiyyun yusaa'idul-fallaaha",
+        "meaning": "Bagal adalah hewan kuat yang membantu petani"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "pertanian"]
+  },
+  {
+    "id": "w-1smp-p207-1",
+    "word": "اِخْتَلَفَ - يَخْتَلِفُ",
+    "latin": "Ikhtalafa - Yakhtalifu",
+    "meaning": "Berbeda pendapat",
+    "sentences": [
+      {
+        "id": "s-1smp-p207-1",
+        "sentence": "اخْتَلَفَ الْوَلَدَانِ فِي الرَّأْيِ",
+        "latin": "Ikhtalafal-waladaani fir-ra'yi",
+        "meaning": "Kedua anak itu berbeda pendapat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sosial"]
+  },
+  {
+    "id": "w-1smp-p207-2",
+    "word": "خِنْزِيرٌ بَرِّيٌّ",
+    "latin": "Khinziirun Barriyyun",
+    "meaning": "Babi hutan",
+    "sentences": [
+      {
+        "id": "s-1smp-p207-2",
+        "sentence": "رَأَيْتُ خِنْزِيرًا بَرِّيًّا فِي الْغَابَةِ",
+        "latin": "Ra'aytu khinziiran barriyyan fil-ghaabati",
+        "meaning": "Saya melihat babi hutan di dalam hutan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "alam"]
+  },
+  {
+    "id": "w-1smp-p207-3",
+    "word": "غَزَالٌ",
+    "latin": "Ghazaalun",
+    "meaning": "Rusa / kijang",
+    "sentences": [
+      {
+        "id": "s-1smp-p207-3",
+        "sentence": "يَجْرِي الْغَزَالُ بِسُرْعَةٍ فِي الصَّحْرَاءِ",
+        "latin": "Yajril-ghazaalu bi-sur'atin fis-sahraa'i",
+        "meaning": "Kijang berlari cepat di gurun"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "alam"]
+  },
+  {
+    "id": "w-1smp-p208-1",
+    "word": "وَافَقَ - يُوَافِقُ",
+    "latin": "Waafaqa - Yuwaafiqu",
+    "meaning": "Setuju",
+    "sentences": [
+      {
+        "id": "s-1smp-p208-1",
+        "sentence": "وَافَقَ الْمُدِيرُ عَلَى الطَّلَبِ",
+        "latin": "Waafaqal-mudiiru 'alat-talabi",
+        "meaning": "Direktur menyetujui permintaan itu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["administrasi"]
+  },
+  {
+    "id": "w-1smp-p208-2",
+    "word": "وَعْلٌ",
+    "latin": "Wa'lun",
+    "meaning": "Kambing gunung",
+    "sentences": [
+      {
+        "id": "s-1smp-p208-2",
+        "sentence": "يَعِيشُ الْوَعْلُ فِي أَعَالِي الْجِبَالِ",
+        "latin": "Ya'iisyul-wa'lu fii a'aalil-jibaali",
+        "meaning": "Kambing gunung hidup di puncak-puncak gunung"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "alam"]
+  },
+  {
+    "id": "w-1smp-p208-3",
+    "word": "قُنْفُذٌ",
+    "latin": "Qunfudzun",
+    "meaning": "Landak",
+    "sentences": [
+      {
+        "id": "s-1smp-p208-3",
+        "sentence": "لِلْقُنْفُذِ أَشْوَاكٌ كَثِيرَةٌ عَلَى ظَهْرِهِ",
+        "latin": "Lil-qunfudzi asywaakun katsiiratun 'alaa zhahrihi",
+        "meaning": "Landak memiliki banyak duri di punggungnya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p209-1",
+    "word": "رَفَضَ - يَرْفُضُ",
+    "latin": "Rafadha - Yarfudhu",
+    "meaning": "Menolak",
+    "sentences": [
+      {
+        "id": "s-1smp-p209-1",
+        "sentence": "رَفَضَ الطِّفْلُ أَنْ يَأْكُلَ الْخُضَارَ",
+        "latin": "Rafadhat-tiflu an ya'kulal-khudhaara",
+        "meaning": "Anak itu menolak untuk makan sayur"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p209-2",
+    "word": "سِنْجَابٌ",
+    "latin": "Sinjaabun",
+    "meaning": "Tupai",
+    "sentences": [
+      {
+        "id": "s-1smp-p209-2",
+        "sentence": "يَقْفِزُ السِّنْجَابُ بَيْنَ أَغْصَانِ الشَّجَرَةِ",
+        "latin": "Yaqfizus-sinjaabu bayna aghshaanisy-syajarati",
+        "meaning": "Tupai melompat di antara ranting-ranting pohon"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p209-3",
+    "word": "خُفَّاشٌ",
+    "latin": "Khuffaasyun",
+    "meaning": "Kelelawar",
+    "sentences": [
+      {
+        "id": "s-1smp-p209-3",
+        "sentence": "يَطِيرُ الْخُفَّاشُ فِي اللَّيْلِ",
+        "latin": "Yathiirul-khuffaasyu fil-layli",
+        "meaning": "Kelelawar terbang di malam hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p210-1",
+    "word": "اِقْتَرَحَ - يَقْتَرِحُ",
+    "latin": "Iqtaraha - Yaqtarihu",
+    "meaning": "Mengusulkan",
+    "sentences": [
+      {
+        "id": "s-1smp-p210-1",
+        "sentence": "اقْتَرَحَ الطَّالِبُ فِكْرَةً جَدِيدَةً",
+        "latin": "Iqtaraha-thaalibu fikratan jadiidatan",
+        "meaning": "Siswa itu mengusulkan ide baru"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p210-2",
+    "word": "يَرَقَةٌ",
+    "latin": "Yaraqatun",
+    "meaning": "Ulat",
+    "sentences": [
+      {
+        "id": "s-1smp-p210-2",
+        "sentence": "تَتَحَوَّلُ الْيَرَقَةُ إِلَى فَرَاشَةٍ",
+        "latin": "Tatahawwalul-yaraqatu ilaa faraasyatin",
+        "meaning": "Ulat berubah menjadi kupu-kupu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "sains"]
+  },
+  {
+    "id": "w-1smp-p210-3",
+    "word": "حَلَزُونٌ",
+    "latin": "Halazuunun",
+    "meaning": "Siput",
+    "sentences": [
+      {
+        "id": "s-1smp-p210-3",
+        "sentence": "يَمْشِي الْحَلَزُونُ بِبُطْءٍ شَدِيدٍ",
+        "latin": "Yamsyil-halazuunu bi-buth'in syadiidin",
+        "meaning": "Siput berjalan dengan sangat lambat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p211-1",
+    "word": "خَطَّطَ - يُخَطِّطُ",
+    "latin": "Khaththatha - Yukhaththitu",
+    "meaning": "Merencanakan",
+    "sentences": [
+      {
+        "id": "s-1smp-p211-1",
+        "sentence": "خَطَّطْنَا لِرِحْلَةٍ مُمْتِعَةٍ",
+        "latin": "Khaththathnaa li-rihlatin mumti'atin",
+        "meaning": "Kami merencanakan perjalanan yang menyenangkan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p211-2",
+    "word": "جُرَادٌ",
+    "latin": "Jaraadun",
+    "meaning": "Belalang",
+    "sentences": [
+      {
+        "id": "s-1smp-p211-2",
+        "sentence": "هَاجَمَ الْجُرَادُ الْمَزَارِعَ",
+        "latin": "Haajamal-jaraadul-mazaari'a",
+        "meaning": "Belalang menyerang perkebunan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "pertanian"]
+  },
+  {
+    "id": "w-1smp-p211-3",
+    "word": "يَعْسُوبٌ",
+    "latin": "Ya'suubun",
+    "meaning": "Capung",
+    "sentences": [
+      {
+        "id": "s-1smp-p211-3",
+        "sentence": "يَطِيرُ الْيَعْسُوبُ فَوْقَ النَّهْرِ",
+        "latin": "Yathiirul-ya'suubu fawqan-nahri",
+        "meaning": "Capung terbang di atas sungai"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "alam"]
+  },
+  {
+    "id": "w-1smp-p212-1",
+    "word": "قَرَّرَ - يُقَرِّرُ",
+    "latin": "Qarrara - Yuqarriru",
+    "meaning": "Memutuskan",
+    "sentences": [
+      {
+        "id": "s-1smp-p212-1",
+        "sentence": "قَرَّرَ الطَّالِبُ أَنْ يَجْتَهِدَ فِي دِرَاسَتِهِ",
+        "latin": "Qarrara-thaalibu an yajtahida fii diraasatihi",
+        "meaning": "Siswa itu memutuskan untuk bersungguh-sungguh dalam belajarnya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah", "motivasi"]
+  },
+  {
+    "id": "w-1smp-p212-2",
+    "word": "دُودَةٌ",
+    "latin": "Duudatun",
+    "meaning": "Cacing",
+    "sentences": [
+      {
+        "id": "s-1smp-p212-2",
+        "sentence": "تَعِيشُ الدُّودَةُ تَحْتَ التُّرَابِ",
+        "latin": "Ta'iisyud-duudatu tahtat-turaabi",
+        "meaning": "Cacing hidup di bawah tanah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "alam"]
+  },
+  {
+    "id": "w-1smp-p212-3",
+    "word": "فَأْرٌ",
+    "latin": "Fa'run",
+    "meaning": "Tikus",
+    "sentences": [
+      {
+        "id": "s-1smp-p212-3",
+        "sentence": "رَأَيْتُ فَأْرًا صَغِيرًا فِي الْمَخْزَنِ",
+        "latin": "Ra'aytu fa'ran shaghiiran fil-makhzani",
+        "meaning": "Saya melihat tikus kecil di gudang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p213-1",
+    "word": "تَخَيَّلَ - يَتَخَيَّلُ",
+    "latin": "Takhayyala - Yatakhayyalu",
+    "meaning": "Membayangkan",
+    "sentences": [
+      {
+        "id": "s-1smp-p213-1",
+        "sentence": "تَخَيَّلْتُ نَفْسِي طَبِيبًا فِي الْمُسْتَقْبَلِ",
+        "latin": "Takhayyaltu nafsii thabiiban fil-mustaqbali",
+        "meaning": "Saya membayangkan diriku menjadi dokter di masa depan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["motivasi"]
+  },
+  {
+    "id": "w-1smp-p213-2",
+    "word": "وَزَغَةٌ",
+    "latin": "Wazaghatun",
+    "meaning": "Cicak",
+    "sentences": [
+      {
+        "id": "s-1smp-p213-2",
+        "sentence": "تَتَسَلَّقُ الْوَزَغَةُ الْجِدَارَ",
+        "latin": "Tatasallaqul-wazaghatul-jidaara",
+        "meaning": "Cicak memanjat dinding"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p213-3",
+    "word": "تِمْسَاحٌ",
+    "latin": "Timsaahun",
+    "meaning": "Buaya",
+    "sentences": [
+      {
+        "id": "s-1smp-p213-3",
+        "sentence": "يَعِيشُ التِّمْسَاحُ فِي النَّهْرِ",
+        "latin": "Ya'iisyut-timsaahu fin-nahri",
+        "meaning": "Buaya hidup di sungai"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "alam"]
+  },
+  {
+    "id": "w-1smp-p214-1",
+    "word": "شَكَّ - يَشُكُّ",
+    "latin": "Syakka - Yasyukku",
+    "meaning": "Meragukan",
+    "sentences": [
+      {
+        "id": "s-1smp-p214-1",
+        "sentence": "شَكَّ الْمُعَلِّمُ فِي إِجَابَةِ الطَّالِبِ",
+        "latin": "Syakkal-mu'allimu fii ijaabatith-thaalibi",
+        "meaning": "Guru itu meragukan jawaban siswa"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p214-2",
+    "word": "سَحْلِيَّةٌ",
+    "latin": "Sahliyyatun",
+    "meaning": "Kadal",
+    "sentences": [
+      {
+        "id": "s-1smp-p214-2",
+        "sentence": "تَتَحَرَّكُ السَّحْلِيَّةُ بِسُرْعَةٍ عَلَى الرَّمْلِ",
+        "latin": "Tataharrakus-sahliyyatu bi-sur'atin 'alar-ramli",
+        "meaning": "Kadal bergerak dengan cepat di atas pasir"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p214-3",
+    "word": "جَبِينٌ",
+    "latin": "Jabiinun",
+    "meaning": "Dahi",
+    "sentences": [
+      {
+        "id": "s-1smp-p214-3",
+        "sentence": "يَعْرَقُ جَبِينُ الْعَامِلِ مِنَ التَّعَبِ",
+        "latin": "Ya'raqu jabiinul-'aamili minat-ta'abi",
+        "meaning": "Dahi pekerja itu berkeringat karena lelah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh"]
+  },
+  {
+    "id": "w-1smp-p215-1",
+    "word": "تَأَكَّدَ - يَتَأَكَّدُ",
+    "latin": "Ta'akkada - Yata'akkadu",
+    "meaning": "Memastikan",
+    "sentences": [
+      {
+        "id": "s-1smp-p215-1",
+        "sentence": "تَأَكَّدْتُ مِنْ إِغْلَاقِ الْبَابِ",
+        "latin": "Ta'akkadtu min ighlaaqil-baabi",
+        "meaning": "Saya memastikan pintu telah tertutup"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p215-2",
+    "word": "خَدٌّ",
+    "latin": "Khaddun",
+    "meaning": "Pipi",
+    "sentences": [
+      {
+        "id": "s-1smp-p215-2",
+        "sentence": "قَبَّلَتِ الْأُمُّ خَدَّ طِفْلِهَا",
+        "latin": "Qabbalatil-ummu khadda thiflihaa",
+        "meaning": "Ibu itu mencium pipi anaknya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh", "keluarga"]
+  },
+  {
+    "id": "w-1smp-p215-3",
+    "word": "ذَقَنٌ",
+    "latin": "Dzaqanun",
+    "meaning": "Dagu",
+    "sentences": [
+      {
+        "id": "s-1smp-p215-3",
+        "sentence": "لِجَدِّي لِحْيَةٌ بَيْضَاءُ عَلَى ذَقَنِهِ",
+        "latin": "Li-jaddii lihyatun baydhaa'u 'alaa dzaqanihi",
+        "meaning": "Kakekku memiliki jenggot putih di dagunya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh"]
+  },
+  {
+    "id": "w-1smp-p216-1",
+    "word": "تَذَكَّرَ - يَتَذَكَّرُ",
+    "latin": "Tadzakkara - Yatadzakkaru",
+    "meaning": "Mengenang / teringat",
+    "sentences": [
+      {
+        "id": "s-1smp-p216-1",
+        "sentence": "تَذَكَّرْتُ اسْمَ صَدِيقِي الْقَدِيمِ",
+        "latin": "Tadzakkartu isma shadiiqil-qadiimi",
+        "meaning": "Saya teringat nama temanku yang lama"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sosial"]
+  },
+  {
+    "id": "w-1smp-p216-2",
+    "word": "رَقَبَةٌ",
+    "latin": "Raqabatun",
+    "meaning": "Leher",
+    "sentences": [
+      {
+        "id": "s-1smp-p216-2",
+        "sentence": "وَضَعَ الطَّالِبُ الْمِنْشَفَةَ عَلَى رَقَبَتِهِ",
+        "latin": "Wadha'a-thaalibul-minsyafata 'alaa raqabatihi",
+        "meaning": "Siswa itu meletakkan handuk di lehernya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh"]
+  },
+  {
+    "id": "w-1smp-p216-3",
+    "word": "كَتِفٌ",
+    "latin": "Katifun",
+    "meaning": "Bahu",
+    "sentences": [
+      {
+        "id": "s-1smp-p216-3",
+        "sentence": "حَمَلَ الْوَلَدُ الْحَقِيبَةَ عَلَى كَتِفِهِ",
+        "latin": "Hamala-waladul-haqiibata 'alaa katifihi",
+        "meaning": "Anak itu membawa tas di bahunya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh"]
+  },
+  {
+    "id": "w-1smp-p217-1",
+    "word": "لَاحَظَ - يُلَاحِظُ",
+    "latin": "Laahazha - Yulaahizhu",
+    "meaning": "Memperhatikan",
+    "sentences": [
+      {
+        "id": "s-1smp-p217-1",
+        "sentence": "لَاحَظَ الْمُعَلِّمُ تَقَدُّمَ الطَّالِبِ",
+        "latin": "Laahazhal-mu'allimu taqaddumath-thaalibi",
+        "meaning": "Guru itu memperhatikan kemajuan siswa"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p217-2",
+    "word": "مِرْفَقٌ",
+    "latin": "Mirfaqun",
+    "meaning": "Siku",
+    "sentences": [
+      {
+        "id": "s-1smp-p217-2",
+        "sentence": "أَصَابَ الْوَلَدَ أَلَمٌ فِي مِرْفَقِهِ",
+        "latin": "Ashaaba-walada alamun fii mirfaqihi",
+        "meaning": "Anak itu merasakan sakit di sikunya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh", "kesehatan"]
+  },
+  {
+    "id": "w-1smp-p217-3",
+    "word": "رُكْبَةٌ",
+    "latin": "Rukbatun",
+    "meaning": "Lutut",
+    "sentences": [
+      {
+        "id": "s-1smp-p217-3",
+        "sentence": "جَلَسَ الطِّفْلُ عَلَى رُكْبَةِ أَبِيهِ",
+        "latin": "Jalasat-tiflu 'alaa rukbati abiihi",
+        "meaning": "Anak kecil itu duduk di lutut ayahnya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh", "keluarga"]
+  },
+  {
+    "id": "w-1smp-p218-1",
+    "word": "اِنْتَبَهَ - يَنْتَبِهُ",
+    "latin": "Intabaha - Yantabihu",
+    "meaning": "Waspada / memperhatikan",
+    "sentences": [
+      {
+        "id": "s-1smp-p218-1",
+        "sentence": "انْتَبِهْ إِلَى السَّيَّارَاتِ عِنْدَ عُبُورِ الشَّارِعِ",
+        "latin": "Intabih ilas-sayyaaraati 'inda 'ubuuris-syaari'i",
+        "meaning": "Perhatikanlah mobil-mobil saat menyeberang jalan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["adab"]
+  },
+  {
+    "id": "w-1smp-p218-2",
+    "word": "مِعْصَمٌ",
+    "latin": "Mi'shamun",
+    "meaning": "Pergelangan tangan",
+    "sentences": [
+      {
+        "id": "s-1smp-p218-2",
+        "sentence": "أَلْبَسُ سَاعَةً فِي مِعْصَمِي",
+        "latin": "Albasu saa'atan fii mi'shamii",
+        "meaning": "Saya memakai jam di pergelangan tanganku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh"]
+  },
+  {
+    "id": "w-1smp-p218-3",
+    "word": "إِصْبَعٌ",
+    "latin": "Ishba'un",
+    "meaning": "Jari",
+    "sentences": [
+      {
+        "id": "s-1smp-p218-3",
+        "sentence": "جُرِحَ إِصْبَعِي أَثْنَاءَ الطَّبْخِ",
+        "latin": "Juriha ishba'ii atsnaa'ath-thabkhi",
+        "meaning": "Jariku terluka saat memasak"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh"]
+  },
+  {
+    "id": "w-1smp-p219-1",
+    "word": "قَارَنَ - يُقَارِنُ",
+    "latin": "Qaarana - Yuqaarinu",
+    "meaning": "Membandingkan",
+    "sentences": [
+      {
+        "id": "s-1smp-p219-1",
+        "sentence": "قَارَنَ الطَّالِبُ بَيْنَ الْإِجَابَتَيْنِ",
+        "latin": "Qaarana-thaalibu bayna-l-ijaabatayni",
+        "meaning": "Siswa itu membandingkan antara dua jawaban"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p219-2",
+    "word": "ظُفْرٌ",
+    "latin": "Zhufrun",
+    "meaning": "Kuku",
+    "sentences": [
+      {
+        "id": "s-1smp-p219-2",
+        "sentence": "أَقُصُّ ظُفْرِي كُلَّ أُسْبُوعٍ",
+        "latin": "Aqushshu zhufrii kulla usbuu'in",
+        "meaning": "Saya memotong kukuku setiap minggu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh", "kebersihan"]
+  },
+  {
+    "id": "w-1smp-p219-3",
+    "word": "حَاجِبٌ",
+    "latin": "Haajibun",
+    "meaning": "Alis",
+    "sentences": [
+      {
+        "id": "s-1smp-p219-3",
+        "sentence": "لِأَبِي حَاجِبَانِ كَثِيفَانِ",
+        "latin": "Li-abii haajibaani katsiifaani",
+        "meaning": "Ayahku memiliki dua alis yang tebal"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh"]
+  },
+  {
+    "id": "w-1smp-p220-1",
+    "word": "كَرَّرَ - يُكَرِّرُ",
+    "latin": "Karrara - Yukarriru",
+    "meaning": "Mengulang",
+    "sentences": [
+      {
+        "id": "s-1smp-p220-1",
+        "sentence": "كَرَّرْتُ الدَّرْسَ حَتَّى حَفِظْتُهُ",
+        "latin": "Karrartud-darsa hattaa hafizhtuhu",
+        "meaning": "Saya mengulang pelajaran hingga menghafalnya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah", "akademik"]
+  },
+  {
+    "id": "w-1smp-p220-2",
+    "word": "رِمْشٌ",
+    "latin": "Rimsyun",
+    "meaning": "Bulu mata",
+    "sentences": [
+      {
+        "id": "s-1smp-p220-2",
+        "sentence": "رِمْشُ عَيْنِهَا طَوِيلٌ وَجَمِيلٌ",
+        "latin": "Rimsyu 'aynihaa thawiilun wa-jamiilun",
+        "meaning": "Bulu matanya panjang dan indah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh"]
+  },
+  {
+    "id": "w-1smp-p220-3",
+    "word": "خَصْرٌ",
+    "latin": "Khasrun",
+    "meaning": "Pinggang",
+    "sentences": [
+      {
+        "id": "s-1smp-p220-3",
+        "sentence": "وَضَعَ الرَّجُلُ يَدَيْهِ عَلَى خَصْرِهِ",
+        "latin": "Wadha'ar-rajulu yadayhi 'alaa khasrihi",
+        "meaning": "Laki-laki itu meletakkan kedua tangannya di pinggangnya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh"]
+  },
+  {
+    "id": "w-1smp-p221-1",
+    "word": "رَكَلَ - يَرْكُلُ",
+    "latin": "Rakala - Yarkulu",
+    "meaning": "Menendang",
+    "sentences": [
+      {
+        "id": "s-1smp-p221-1",
+        "sentence": "رَكَلَ الْوَلَدُ الْكُرَةَ بِقُوَّةٍ",
+        "latin": "Rakala-waladul-kurata bi-quwwatin",
+        "meaning": "Anak itu menendang bola dengan kuat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p221-2",
+    "word": "كَعْبٌ",
+    "latin": "Ka'bun",
+    "meaning": "Tumit",
+    "sentences": [
+      {
+        "id": "s-1smp-p221-2",
+        "sentence": "أَلَمٌ فِي كَعْبِي بَعْدَ الْجَرْيِ",
+        "latin": "Alamun fii ka'bii ba'dal-jaryi",
+        "meaning": "Ada sakit di tumitku setelah berlari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh", "olahraga"]
+  },
+  {
+    "id": "w-1smp-p221-3",
+    "word": "كَفٌّ",
+    "latin": "Kaffun",
+    "meaning": "Telapak tangan",
+    "sentences": [
+      {
+        "id": "s-1smp-p221-3",
+        "sentence": "صَفَّقَ بِكَفَّيْهِ فَرَحًا",
+        "latin": "Shaffaqa bi-kaffayhi farahan",
+        "meaning": "Ia bertepuk dengan kedua telapak tangannya karena gembira"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh", "emosi"]
+  },
+  {
+    "id": "w-1smp-p222-1",
+    "word": "أَمْسَكَ - يُمْسِكُ",
+    "latin": "Amsaka - Yumsiku",
+    "meaning": "Menangkap / memegang",
+    "sentences": [
+      {
+        "id": "s-1smp-p222-1",
+        "sentence": "أَمْسَكَ الْحَارِسُ الْكُرَةَ بِيَدَيْهِ",
+        "latin": "Amsakal-haarisul-kurata bi-yadayhi",
+        "meaning": "Kiper itu menangkap bola dengan kedua tangannya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p222-2",
+    "word": "صَدْرٌ",
+    "latin": "Shadrun",
+    "meaning": "Dada",
+    "sentences": [
+      {
+        "id": "s-1smp-p222-2",
+        "sentence": "يَضَعُ الْمُصَلِّي يَدَيْهِ عَلَى صَدْرِهِ",
+        "latin": "Yadha'ul-mushallii yadayhi 'alaa shadrihi",
+        "meaning": "Orang yang shalat meletakkan kedua tangannya di dadanya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p222-3",
+    "word": "ظَهْرٌ",
+    "latin": "Zhahrun",
+    "meaning": "Punggung",
+    "sentences": [
+      {
+        "id": "s-1smp-p222-3",
+        "sentence": "حَمَلَ الطَّالِبُ حَقِيبَتَهُ عَلَى ظَهْرِهِ",
+        "latin": "Hamala-thaalibu haqiibatahu 'alaa zhahrihi",
+        "meaning": "Siswa itu membawa tasnya di punggungnya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p223-1",
+    "word": "ضَرَبَ - يَضْرِبُ",
+    "latin": "Dharaba - Yadhribu",
+    "meaning": "Memukul",
+    "sentences": [
+      {
+        "id": "s-1smp-p223-1",
+        "sentence": "ضَرَبَ اللَّاعِبُ الْكُرَةَ بِرَأْسِهِ",
+        "latin": "Dharaba-laa'ibul-kurata bi-ra'sihi",
+        "meaning": "Pemain itu memukul (menyundul) bola dengan kepalanya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p223-2",
+    "word": "بَطْنٌ",
+    "latin": "Bathnun",
+    "meaning": "Perut",
+    "sentences": [
+      {
+        "id": "s-1smp-p223-2",
+        "sentence": "شَعَرَ الطِّفْلُ بِأَلَمٍ فِي بَطْنِهِ",
+        "latin": "Sya'ara-tiflu bi-alamin fii bathnihi",
+        "meaning": "Anak kecil itu merasakan sakit di perutnya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh", "kesehatan"]
+  },
+  {
+    "id": "w-1smp-p223-3",
+    "word": "جُبَّةٌ",
+    "latin": "Jubbatun",
+    "meaning": "Jubah",
+    "sentences": [
+      {
+        "id": "s-1smp-p223-3",
+        "sentence": "يَلْبَسُ الشَّيْخُ جُبَّةً بَيْضَاءَ",
+        "latin": "Yalbasusy-syaykhu jubbatan baydhaa'a",
+        "meaning": "Syaikh itu memakai jubah putih"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pakaian"]
+  },
+  {
+    "id": "w-1smp-p224-1",
+    "word": "دَفَعَ - يَدْفَعُ",
+    "latin": "Dafa'a - Yadfa'u",
+    "meaning": "Mendorong",
+    "sentences": [
+      {
+        "id": "s-1smp-p224-1",
+        "sentence": "دَفَعْتُ الْبَابَ لِأَفْتَحَهُ",
+        "latin": "Dafa'tul-baaba li-aftahahu",
+        "meaning": "Saya mendorong pintu untuk membukanya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p224-2",
+    "word": "عَبَاءَةٌ",
+    "latin": "'Abaa'atun",
+    "meaning": "Abaya",
+    "sentences": [
+      {
+        "id": "s-1smp-p224-2",
+        "sentence": "تَلْبَسُ الْمَرْأَةُ عَبَاءَةً سَوْدَاءَ",
+        "latin": "Talbasul-mar'atu 'abaa'atan sawdaa'a",
+        "meaning": "Wanita itu memakai abaya hitam"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pakaian"]
+  },
+  {
+    "id": "w-1smp-p224-3",
+    "word": "طَاقِيَّةٌ",
+    "latin": "Thaaqiyyatun",
+    "meaning": "Peci",
+    "sentences": [
+      {
+        "id": "s-1smp-p224-3",
+        "sentence": "يَضَعُ الطَّالِبُ طَاقِيَّةً بَيْضَاءَ عَلَى رَأْسِهِ",
+        "latin": "Yadha'u-thaalibu thaaqiyyatan baydhaa'a 'alaa ra'sihi",
+        "meaning": "Siswa itu memakai peci putih di kepalanya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pakaian"]
+  },
+  {
+    "id": "w-1smp-p225-1",
+    "word": "جَذَبَ - يَجْذِبُ",
+    "latin": "Jadzaba - Yajdzibu",
+    "meaning": "Menarik",
+    "sentences": [
+      {
+        "id": "s-1smp-p225-1",
+        "sentence": "جَذَبَ الْوَلَدُ الْحَبْلَ نَحْوَهُ",
+        "latin": "Jadzaba-waladul-habla nahwahu",
+        "meaning": "Anak itu menarik tali ke arahnya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p225-2",
+    "word": "شَالٌ",
+    "latin": "Syaalun",
+    "meaning": "Selendang",
+    "sentences": [
+      {
+        "id": "s-1smp-p225-2",
+        "sentence": "لَفَّتِ الْجَدَّةُ شَالًا حَوْلَ رَقَبَتِهَا",
+        "latin": "Laffatil-jaddatu syaalan hawla raqabatihaa",
+        "meaning": "Nenek itu melilitkan selendang di lehernya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pakaian"]
+  },
+  {
+    "id": "w-1smp-p225-3",
+    "word": "تَنُّورَةٌ",
+    "latin": "Tannuuratun",
+    "meaning": "Rok",
+    "sentences": [
+      {
+        "id": "s-1smp-p225-3",
+        "sentence": "تَلْبَسُ الْبِنْتُ تَنُّورَةً زَرْقَاءَ",
+        "latin": "Talbasul-bintu tannuuratan zarqaa'a",
+        "meaning": "Anak perempuan itu memakai rok biru"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pakaian"]
+  },
+  {
+    "id": "w-1smp-p226-1",
+    "word": "تَسَلَّقَ - يَتَسَلَّقُ",
+    "latin": "Tasallaqa - Yatasallaqu",
+    "meaning": "Memanjat",
+    "sentences": [
+      {
+        "id": "s-1smp-p226-1",
+        "sentence": "تَسَلَّقَ الْوَلَدُ الشَّجَرَةَ بِمَهَارَةٍ",
+        "latin": "Tasallaqa-waladusy-syajarata bi-mahaaratin",
+        "meaning": "Anak itu memanjat pohon dengan mahir"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p226-2",
+    "word": "زِيٌّ مَدْرَسِيٌّ",
+    "latin": "Ziyyun Madrasiyyun",
+    "meaning": "Seragam sekolah",
+    "sentences": [
+      {
+        "id": "s-1smp-p226-2",
+        "sentence": "يَلْبَسُ الطُّلَّابُ الزِّيَّ الْمَدْرَسِيَّ كُلَّ يَوْمٍ",
+        "latin": "Yalbasut-tullaabuz-ziyyal-madrasiyya kulla yawmin",
+        "meaning": "Para siswa memakai seragam sekolah setiap hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pakaian", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p226-3",
+    "word": "مِعْطَفٌ",
+    "latin": "Mi'thafun",
+    "meaning": "Mantel",
+    "sentences": [
+      {
+        "id": "s-1smp-p226-3",
+        "sentence": "أَلْبَسُ مِعْطَفًا فِي الشِّتَاءِ",
+        "latin": "Albasu mi'thafan fisy-syitaa'i",
+        "meaning": "Saya memakai mantel di musim dingin"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pakaian", "cuaca"]
+  },
+  {
+    "id": "w-1smp-p227-1",
+    "word": "تَعَثَّرَ - يَتَعَثَّرُ",
+    "latin": "Ta'atsara - Yata'atsaru",
+    "meaning": "Tersandung",
+    "sentences": [
+      {
+        "id": "s-1smp-p227-1",
+        "sentence": "تَعَثَّرَ الْوَلَدُ بِالْحَجَرِ فَسَقَطَ",
+        "latin": "Ta'atstsara-waladu bil-hajari fa-saqatha",
+        "meaning": "Anak itu tersandung batu lalu jatuh"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p227-2",
+    "word": "مِفْرَشٌ",
+    "latin": "Mifrasyun",
+    "meaning": "Taplak / alas",
+    "sentences": [
+      {
+        "id": "s-1smp-p227-2",
+        "sentence": "فَرَشْتُ الْمِفْرَشَ عَلَى الْمَائِدَةِ",
+        "latin": "Farasytul-mifrasya 'alal-maa'idati",
+        "meaning": "Saya menghamparkan taplak di atas meja makan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["rumah"]
+  },
+  {
+    "id": "w-1smp-p227-3",
+    "word": "مِسْنَدٌ",
+    "latin": "Misnadun",
+    "meaning": "Sandaran",
+    "sentences": [
+      {
+        "id": "s-1smp-p227-3",
+        "sentence": "اسْتَنَدَ الْمَرِيضُ إِلَى الْمِسْنَدِ",
+        "latin": "Istanadal-mariidhu ilal-misnadi",
+        "meaning": "Orang sakit itu bersandar pada sandaran"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["rumah", "kesehatan"]
+  },
+  {
+    "id": "w-1smp-p228-1",
+    "word": "اِهْتَزَّ - يَهْتَزُّ",
+    "latin": "Ihtazza - Yahtazzu",
+    "meaning": "Bergoyang / bergetar",
+    "sentences": [
+      {
+        "id": "s-1smp-p228-1",
+        "sentence": "اهْتَزَّتِ الْأَشْجَارُ بِسَبَبِ الرِّيحِ",
+        "latin": "Ihtazzatil-asyjaaru bi-sababir-riihi",
+        "meaning": "Pohon-pohon itu bergoyang karena angin"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p228-2",
+    "word": "رَفٌّ لِلْكُتُبِ",
+    "latin": "Raffun lil-Kutubi",
+    "meaning": "Rak buku",
+    "sentences": [
+      {
+        "id": "s-1smp-p228-2",
+        "sentence": "رَتَّبْتُ كُتُبِي عَلَى رَفِّ الْكُتُبِ",
+        "latin": "Rattabtu kutubii 'alaa raffil-kutubi",
+        "meaning": "Saya merapikan buku-bukuku di rak buku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "rumah"]
+  },
+  {
+    "id": "w-1smp-p228-3",
+    "word": "شُرْفَةٌ",
+    "latin": "Syurfatun",
+    "meaning": "Balkon",
+    "sentences": [
+      {
+        "id": "s-1smp-p228-3",
+        "sentence": "أَجْلِسُ فِي الشُّرْفَةِ مَسَاءً",
+        "latin": "Ajlisu fisy-syurfati masaa'an",
+        "meaning": "Saya duduk di balkon pada sore hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["rumah"]
+  },
+  {
+    "id": "w-1smp-p229-1",
+    "word": "اِعْتَنَى - يَعْتَنِي",
+    "latin": "I'tanaa - Ya'tanii",
+    "meaning": "Memperhatikan / merawat",
+    "sentences": [
+      {
+        "id": "s-1smp-p229-1",
+        "sentence": "تَعْتَنِي أُمِّي بِأَخِي الصَّغِيرِ",
+        "latin": "Ta'tanii ummii bi-akhish-shaghiiri",
+        "meaning": "Ibuku merawat adikku yang kecil"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p229-2",
+    "word": "فِنَاءٌ",
+    "latin": "Finaa'un",
+    "meaning": "Halaman rumah",
+    "sentences": [
+      {
+        "id": "s-1smp-p229-2",
+        "sentence": "يَلْعَبُ الْأَطْفَالُ فِي فِنَاءِ الْبَيْتِ",
+        "latin": "Yal'abul-athfaalu fii finaa'il-bayti",
+        "meaning": "Anak-anak bermain di halaman rumah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["rumah"]
+  },
+  {
+    "id": "w-1smp-p229-3",
+    "word": "بَوَّابَةٌ",
+    "latin": "Bawwaabatun",
+    "meaning": "Gerbang",
+    "sentences": [
+      {
+        "id": "s-1smp-p229-3",
+        "sentence": "وَقَفَ الْحَارِسُ عِنْدَ بَوَّابَةِ الْمَعْهَدِ",
+        "latin": "Waqafal-haarisu 'inda bawwaabatil-ma'hadi",
+        "meaning": "Penjaga berdiri di gerbang pondok"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["fasilitas"]
+  },
+  {
+    "id": "w-1smp-p230-1",
+    "word": "حَمَّمَ - يُحَمِّمُ",
+    "latin": "Hammama - Yuhammimu",
+    "meaning": "Memandikan",
+    "sentences": [
+      {
+        "id": "s-1smp-p230-1",
+        "sentence": "تُحَمِّمُ الْأُمُّ طِفْلَهَا كُلَّ صَبَاحٍ",
+        "latin": "Tuhammimul-ummu thiflahaa kulla shabaahin",
+        "meaning": "Ibu memandikan anaknya setiap pagi"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keluarga", "kebersihan"]
+  },
+  {
+    "id": "w-1smp-p230-2",
+    "word": "سِيَاجٌ",
+    "latin": "Siyaajun",
+    "meaning": "Pagar",
+    "sentences": [
+      {
+        "id": "s-1smp-p230-2",
+        "sentence": "بَنَى الْفَلَّاحُ سِيَاجًا حَوْلَ الْحَقْلِ",
+        "latin": "Banal-fallaahu siyaajan hawlal-haqli",
+        "meaning": "Petani membangun pagar mengelilingi ladang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pertanian"]
+  },
+  {
+    "id": "w-1smp-p230-3",
+    "word": "رِيَاضِيَّاتٌ",
+    "latin": "Riyaadhiyyaatun",
+    "meaning": "Matematika",
+    "sentences": [
+      {
+        "id": "s-1smp-p230-3",
+        "sentence": "أُحِبُّ مَادَّةَ الرِّيَاضِيَّاتِ كَثِيرًا",
+        "latin": "Uhibbu maaddatar-riyaadhiyyaati katsiiran",
+        "meaning": "Saya sangat menyukai mata pelajaran matematika"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "akademik"]
+  },
+  {
+    "id": "w-1smp-p231-1",
+    "word": "أَصْلَحَ - يُصْلِحُ",
+    "latin": "Ashlaha - Yushlihu",
+    "meaning": "Memperbaiki",
+    "sentences": [
+      {
+        "id": "s-1smp-p231-1",
+        "sentence": "أَصْلَحَ أَبِي الدَّرَّاجَةَ الْمَكْسُورَةَ",
+        "latin": "Ashlaha abid-darraajatal-maksuurata",
+        "meaning": "Ayahku memperbaiki sepeda yang rusak"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p231-2",
+    "word": "عُلُومٌ",
+    "latin": "'Uluumun",
+    "meaning": "Sains",
+    "sentences": [
+      {
+        "id": "s-1smp-p231-2",
+        "sentence": "نَتَعَلَّمُ الْعُلُومَ فِي الْمَعْمَلِ",
+        "latin": "Nata'allamul-'uluuma fil-ma'mali",
+        "meaning": "Kami belajar sains di laboratorium"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "akademik"]
+  },
+  {
+    "id": "w-1smp-p231-3",
+    "word": "تَارِيخٌ",
+    "latin": "Taariikhun",
+    "meaning": "Sejarah",
+    "sentences": [
+      {
+        "id": "s-1smp-p231-3",
+        "sentence": "يُحِبُّ أَخِي دِرَاسَةَ التَّارِيخِ",
+        "latin": "Yuhibbu akhii diraasatat-taariikhi",
+        "meaning": "Kakakku suka mempelajari sejarah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "akademik"]
+  },
+  {
+    "id": "w-1smp-p232-1",
+    "word": "كَسَرَ - يَكْسِرُ",
+    "latin": "Kasara - Yaksiru",
+    "meaning": "Mematahkan / memecahkan",
+    "sentences": [
+      {
+        "id": "s-1smp-p232-1",
+        "sentence": "كَسَرَ الطِّفْلُ الْكُوبَ بِالْخَطَإِ",
+        "latin": "Kasara-tiflul-kuuba bil-khatha'i",
+        "meaning": "Anak itu memecahkan gelas secara tidak sengaja"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p232-2",
+    "word": "جُغْرَافِيَا",
+    "latin": "Jughraafiyaa",
+    "meaning": "Geografi",
+    "sentences": [
+      {
+        "id": "s-1smp-p232-2",
+        "sentence": "نَدْرُسُ خَرَائِطَ الْعَالَمِ فِي الْجُغْرَافِيَا",
+        "latin": "Nadrusu kharaa'ithal-'aalami fil-jughraafiyaa",
+        "meaning": "Kami mempelajari peta dunia dalam geografi"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "akademik"]
+  },
+  {
+    "id": "w-1smp-p232-3",
+    "word": "لُغَةٌ عَرَبِيَّةٌ",
+    "latin": "Lughatun 'Arabiyyatun",
+    "meaning": "Bahasa Arab",
+    "sentences": [
+      {
+        "id": "s-1smp-p232-3",
+        "sentence": "اللُّغَةُ الْعَرَبِيَّةُ لُغَةُ الْقُرْآنِ الْكَرِيمِ",
+        "latin": "Al-lughatul-'arabiyyatu lughatul-qur'aanil-kariimi",
+        "meaning": "Bahasa Arab adalah bahasa Al-Qur'an yang mulia"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "bahasa"]
+  },
+  {
+    "id": "w-1smp-p233-1",
+    "word": "قَطَعَ - يَقْطَعُ",
+    "latin": "Qatha'a - Yaqtha'u",
+    "meaning": "Memotong",
+    "sentences": [
+      {
+        "id": "s-1smp-p233-1",
+        "sentence": "قَطَعْتُ الْقُمَاشَ بِالْمِقَصِّ",
+        "latin": "Qatha'tul-qumaasya bil-miqashshi",
+        "meaning": "Saya memotong kain dengan gunting"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p233-2",
+    "word": "نَحْوٌ",
+    "latin": "Nahwun",
+    "meaning": "Ilmu nahwu",
+    "sentences": [
+      {
+        "id": "s-1smp-p233-2",
+        "sentence": "نَتَعَلَّمُ النَّحْوَ لِنَفْهَمَ الْقَوَاعِدَ",
+        "latin": "Nata'allamun-nahwa li-nafhamal-qawaa'ida",
+        "meaning": "Kami belajar ilmu nahwu untuk memahami kaidah-kaidah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "akademik"]
+  },
+  {
+    "id": "w-1smp-p233-3",
+    "word": "صَرْفٌ",
+    "latin": "Sharfun",
+    "meaning": "Ilmu sharaf",
+    "sentences": [
+      {
+        "id": "s-1smp-p233-3",
+        "sentence": "عِلْمُ الصَّرْفِ يُعَلِّمُنَا تَحْوِيلَ الْكَلِمَاتِ",
+        "latin": "'Ilmusts-tsarfi yu'allimunaa tahwiilal-kalimaati",
+        "meaning": "Ilmu sharaf mengajarkan kami perubahan kata"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "akademik"]
+  },
+  {
+    "id": "w-1smp-p234-1",
+    "word": "ثَقَبَ - يَثْقُبُ",
+    "latin": "Tsaqaba - Yatsqubu",
+    "meaning": "Melubangi",
+    "sentences": [
+      {
+        "id": "s-1smp-p234-1",
+        "sentence": "ثَقَبَ النَّجَّارُ الْخَشَبَ بِالْمِثْقَابِ",
+        "latin": "Tsaqaban-najjaarul-khasyaba bil-mitsqaabi",
+        "meaning": "Tukang kayu melubangi kayu dengan bor"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p234-2",
+    "word": "فِقْهٌ",
+    "latin": "Fiqhun",
+    "meaning": "Fikih",
+    "sentences": [
+      {
+        "id": "s-1smp-p234-2",
+        "sentence": "نَدْرُسُ الْفِقْهَ لِنَعْرِفَ أَحْكَامَ الْعِبَادَاتِ",
+        "latin": "Nadrusul-fiqha li-na'rifa ahkaamal-'ibaadaati",
+        "meaning": "Kami mempelajari fikih untuk mengetahui hukum-hukum ibadah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p234-3",
+    "word": "تَفْسِيرٌ",
+    "latin": "Tafsiirun",
+    "meaning": "Tafsir",
+    "sentences": [
+      {
+        "id": "s-1smp-p234-3",
+        "sentence": "يَشْرَحُ الْأُسْتَاذُ تَفْسِيرَ الْآيَةِ",
+        "latin": "Yasyrahul-ustaadzu tafsiiral-aayati",
+        "meaning": "Ustadz menjelaskan tafsir ayat itu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p235-1",
+    "word": "كَوَّمَ - يُكَوِّمُ",
+    "latin": "Kawwama - Yukawwimu",
+    "meaning": "Menumpuk",
+    "sentences": [
+      {
+        "id": "s-1smp-p235-1",
+        "sentence": "كَوَّمَ الْفَلَّاحُ التِّبْنَ فِي الْحَقْلِ",
+        "latin": "Kawwamal-fallaahut-tibna fil-haqli",
+        "meaning": "Petani menumpuk jerami di ladang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["pertanian"]
+  },
+  {
+    "id": "w-1smp-p235-2",
+    "word": "عَقِيدَةٌ",
+    "latin": "'Aqiidatun",
+    "meaning": "Akidah",
+    "sentences": [
+      {
+        "id": "s-1smp-p235-2",
+        "sentence": "الْعَقِيدَةُ أَسَاسُ الدِّينِ الْإِسْلَامِيِّ",
+        "latin": "Al-'aqiidatu asaasud-diinil-islaamiyyi",
+        "meaning": "Akidah adalah dasar agama Islam"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p235-3",
+    "word": "مَكْتَبُ الْبَرِيدِ",
+    "latin": "Maktabul-Bariidi",
+    "meaning": "Kantor pos",
+    "sentences": [
+      {
+        "id": "s-1smp-p235-3",
+        "sentence": "أَرْسَلْتُ الطَّرْدَ مِنْ مَكْتَبِ الْبَرِيدِ",
+        "latin": "Arsaltut-tarda min maktabil-bariidi",
+        "meaning": "Saya mengirim paket dari kantor pos"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["fasilitas"]
+  },
+  {
+    "id": "w-1smp-p236-1",
+    "word": "نَبَتَ - يَنْبُتُ",
+    "latin": "Nabata - Yanbutu",
+    "meaning": "Tumbuh (tanaman)",
+    "sentences": [
+      {
+        "id": "s-1smp-p236-1",
+        "sentence": "نَبَتَتِ الْبَذْرَةُ بَعْدَ أُسْبُوعٍ",
+        "latin": "Nabatatil-badzratu ba'da usbuu'in",
+        "meaning": "Benih itu tumbuh setelah satu minggu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p236-2",
+    "word": "مَطَارٌ",
+    "latin": "Mathaarun",
+    "meaning": "Bandara",
+    "sentences": [
+      {
+        "id": "s-1smp-p236-2",
+        "sentence": "وَصَلْنَا إِلَى الْمَطَارِ قَبْلَ مَوْعِدِ الطَّائِرَةِ",
+        "latin": "Washalnaa ilal-mathaari qabla maw'idith-thaa'irati",
+        "meaning": "Kami tiba di bandara sebelum jadwal pesawat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tempat", "transportasi"]
+  },
+  {
+    "id": "w-1smp-p236-3",
+    "word": "مَحَطَّةٌ",
+    "latin": "Mahaththatun",
+    "meaning": "Stasiun",
+    "sentences": [
+      {
+        "id": "s-1smp-p236-3",
+        "sentence": "يَنْتَظِرُ الرُّكَّابُ فِي الْمَحَطَّةِ",
+        "latin": "Yantazhirur-rukkaabu fil-mahaththati",
+        "meaning": "Para penumpang menunggu di stasiun"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tempat", "transportasi"]
+  },
+  {
+    "id": "w-1smp-p237-1",
+    "word": "ذَبُلَ - يَذْبُلُ",
+    "latin": "Dzabula - Yadzbulu",
+    "meaning": "Layu",
+    "sentences": [
+      {
+        "id": "s-1smp-p237-1",
+        "sentence": "ذَبُلَتِ الزَّهْرَةُ لِعَدَمِ السَّقْيِ",
+        "latin": "Dzabulatiz-zahratu li-'adamis-saqyi",
+        "meaning": "Bunga itu layu karena tidak disiram"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p237-2",
+    "word": "مَوْقِفٌ",
+    "latin": "Mawqifun",
+    "meaning": "Terminal / halte",
+    "sentences": [
+      {
+        "id": "s-1smp-p237-2",
+        "sentence": "وَقَفَ الطُّلَّابُ فِي مَوْقِفِ الْحَافِلَاتِ",
+        "latin": "Waqafat-tullaabu fii mawqifil-haafilaati",
+        "meaning": "Para siswa berdiri di halte bus"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tempat", "transportasi"]
+  },
+  {
+    "id": "w-1smp-p237-3",
+    "word": "مِينَاءٌ",
+    "latin": "Miinaa'un",
+    "meaning": "Pelabuhan",
+    "sentences": [
+      {
+        "id": "s-1smp-p237-3",
+        "sentence": "تَصِلُ السُّفُنُ إِلَى الْمِينَاءِ كُلَّ يَوْمٍ",
+        "latin": "Tashilus-sufunu ilal-miinaa'i kulla yawmin",
+        "meaning": "Kapal-kapal tiba di pelabuhan setiap hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tempat", "transportasi"]
+  },
+  {
+    "id": "w-1smp-p238-1",
+    "word": "أَزْهَرَ - يُزْهِرُ",
+    "latin": "Azhara - Yuzhiru",
+    "meaning": "Berbunga",
+    "sentences": [
+      {
+        "id": "s-1smp-p238-1",
+        "sentence": "أَزْهَرَتِ الشَّجَرَةُ فِي فَصْلِ الرَّبِيعِ",
+        "latin": "Azharatisy-syajaratu fii fashlir-rabii'i",
+        "meaning": "Pohon itu berbunga di musim semi"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p238-2",
+    "word": "مَتْحَفٌ",
+    "latin": "Mat-hafun",
+    "meaning": "Museum",
+    "sentences": [
+      {
+        "id": "s-1smp-p238-2",
+        "sentence": "زُرْنَا الْمَتْحَفَ لِمُشَاهَدَةِ الْآثَارِ",
+        "latin": "Zurnal-mat-hafa li-musyaahadatil-aatsaari",
+        "meaning": "Kami mengunjungi museum untuk melihat benda-benda kuno"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tempat", "akademik"]
+  },
+  {
+    "id": "w-1smp-p238-3",
+    "word": "مَطْعَمٌ",
+    "latin": "Math'amun",
+    "meaning": "Restoran",
+    "sentences": [
+      {
+        "id": "s-1smp-p238-3",
+        "sentence": "تَنَاوَلْنَا الْعَشَاءَ فِي مَطْعَمٍ جَمِيلٍ",
+        "latin": "Tanaawalnal-'asyaa'a fii math'amin jamiilin",
+        "meaning": "Kami menyantap makan malam di restoran yang indah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tempat", "makanan"]
+  },
+  {
+    "id": "w-1smp-p239-1",
+    "word": "أَثْمَرَ - يُثْمِرُ",
+    "latin": "Atsmara - Yutsmiru",
+    "meaning": "Berbuah",
+    "sentences": [
+      {
+        "id": "s-1smp-p239-1",
+        "sentence": "أَثْمَرَتِ النَّخْلَةُ ثِمَارًا كَثِيرَةً",
+        "latin": "Atsmaratin-nakhlatu tsimaaran katsiiratan",
+        "meaning": "Pohon kurma itu berbuah lebat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["alam", "pertanian"]
+  },
+  {
+    "id": "w-1smp-p239-2",
+    "word": "فُنْدُقٌ",
+    "latin": "Funduqun",
+    "meaning": "Hotel",
+    "sentences": [
+      {
+        "id": "s-1smp-p239-2",
+        "sentence": "أَقَامَ الضُّيُوفُ فِي فُنْدُقٍ قَرِيبٍ",
+        "latin": "Aqaamadh-dhuyuufu fii funduqin qariibin",
+        "meaning": "Para tamu menginap di hotel yang dekat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tempat"]
+  },
+  {
+    "id": "w-1smp-p239-3",
+    "word": "حَيٌّ",
+    "latin": "Hayyun",
+    "meaning": "Kampung / distrik",
+    "sentences": [
+      {
+        "id": "s-1smp-p239-3",
+        "sentence": "يَسْكُنُ صَدِيقِي فِي حَيٍّ هَادِئٍ",
+        "latin": "Yaskunu shadiiqii fii hayyin haadi'in",
+        "meaning": "Temanku tinggal di kampung yang tenang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tempat"]
+  },
+  {
+    "id": "w-1smp-p240-1",
+    "word": "هَبَّتْ - تَهُبُّ",
+    "latin": "Habbat - Tahubbu",
+    "meaning": "Bertiup (angin)",
+    "sentences": [
+      {
+        "id": "s-1smp-p240-1",
+        "sentence": "هَبَّتِ الرِّيحُ بِقُوَّةٍ فِي اللَّيْلِ",
+        "latin": "Habbatir-riihu bi-quwwatin fil-layli",
+        "meaning": "Angin berhembus kencang di malam hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["cuaca"]
+  },
+  {
+    "id": "w-1smp-p240-2",
+    "word": "مُحَافَظَةٌ",
+    "latin": "Muhaafazhatun",
+    "meaning": "Provinsi",
+    "sentences": [
+      {
+        "id": "s-1smp-p240-2",
+        "sentence": "تَقَعُ قَرْيَتُنَا فِي هَذِهِ الْمُحَافَظَةِ",
+        "latin": "Taqa'u qaryatunaa fii haadzihil-muhaafazhati",
+        "meaning": "Desa kami terletak di provinsi ini"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tempat"]
+  },
+  {
+    "id": "w-1smp-p240-3",
+    "word": "عَاصِمَةٌ",
+    "latin": "'Aashimatun",
+    "meaning": "Ibu kota",
+    "sentences": [
+      {
+        "id": "s-1smp-p240-3",
+        "sentence": "جَاكَرْتَا عَاصِمَةُ إِنْدُونِيسِيَا سَابِقًا",
+        "latin": "Jaakartaa 'aashimatu induniisiyaa saabiqan",
+        "meaning": "Jakarta adalah ibu kota Indonesia dahulu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tempat", "akademik"]
+  },
+  {
+    "id": "w-1smp-p241-1",
+    "word": "أَشْرَقَتْ - تُشْرِقُ",
+    "latin": "Asyraqat - Tusyriqu",
+    "meaning": "Bersinar / terbit",
+    "sentences": [
+      {
+        "id": "s-1smp-p241-1",
+        "sentence": "أَشْرَقَتِ الشَّمْسُ فِي الصَّبَاحِ الْبَاكِرِ",
+        "latin": "Asyraqatisy-syamsu fis-shabaahil-baakiri",
+        "meaning": "Matahari bersinar terbit di pagi buta"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["alam", "waktu"]
+  },
+  {
+    "id": "w-1smp-p241-2",
+    "word": "تَلَّةٌ",
+    "latin": "Tallatun",
+    "meaning": "Bukit",
+    "sentences": [
+      {
+        "id": "s-1smp-p241-2",
+        "sentence": "صَعِدْنَا التَّلَّةَ لِمُشَاهَدَةِ الْمَنْظَرِ",
+        "latin": "Sha'idnat-tallata li-musyaahadatil-manzhari",
+        "meaning": "Kami mendaki bukit untuk melihat pemandangan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p241-3",
+    "word": "سَهْلٌ",
+    "latin": "Sahlun",
+    "meaning": "Dataran",
+    "sentences": [
+      {
+        "id": "s-1smp-p241-3",
+        "sentence": "تَمْتَدُّ الْمَزَارِعُ عَلَى السَّهْلِ الْوَاسِعِ",
+        "latin": "Tamtaddul-mazaari'u 'alas-sahlil-waasi'i",
+        "meaning": "Perkebunan-perkebunan itu terhampar di dataran yang luas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam", "pertanian"]
+  },
+  {
+    "id": "w-1smp-p242-1",
+    "word": "غَرَبَتْ - تَغْرُبُ",
+    "latin": "Gharabat - Taghrubu",
+    "meaning": "Terbenam (matahari)",
+    "sentences": [
+      {
+        "id": "s-1smp-p242-1",
+        "sentence": "غَرَبَتِ الشَّمْسُ خَلْفَ الْجَبَلِ",
+        "latin": "Gharabatisy-syamsu khalfal-jabali",
+        "meaning": "Matahari terbenam di balik gunung"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["alam", "waktu"]
+  },
+  {
+    "id": "w-1smp-p242-2",
+    "word": "يَنْبُوعٌ",
+    "latin": "Yanbuu'un",
+    "meaning": "Mata air",
+    "sentences": [
+      {
+        "id": "s-1smp-p242-2",
+        "sentence": "يَخْرُجُ الْمَاءُ الصَّافِي مِنَ الْيَنْبُوعِ",
+        "latin": "Yakhrujul-maa'us-shaafii minal-yanbuu'i",
+        "meaning": "Air yang jernih keluar dari mata air"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p242-3",
+    "word": "شَلَّالٌ",
+    "latin": "Syallaalun",
+    "meaning": "Air terjun",
+    "sentences": [
+      {
+        "id": "s-1smp-p242-3",
+        "sentence": "يَنْزِلُ الْمَاءُ مِنْ أَعْلَى الشَّلَّالِ",
+        "latin": "Yanzilul-maa'u min a'lasy-syallaali",
+        "meaning": "Air turun dari puncak air terjun"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p243-1",
+    "word": "تَجَمَّدَ - يَتَجَمَّدُ",
+    "latin": "Tajammada - Yatajammadu",
+    "meaning": "Membeku",
+    "sentences": [
+      {
+        "id": "s-1smp-p243-1",
+        "sentence": "تَجَمَّدَ الْمَاءُ فِي الثَّلَّاجَةِ",
+        "latin": "Tajammadal-maa'u fits-tsallaajati",
+        "meaning": "Air itu membeku di dalam kulkas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["dapur", "sains"]
+  },
+  {
+    "id": "w-1smp-p243-2",
+    "word": "مَوْجٌ",
+    "latin": "Mawjun",
+    "meaning": "Ombak",
+    "sentences": [
+      {
+        "id": "s-1smp-p243-2",
+        "sentence": "ارْتَفَعَ الْمَوْجُ فَوْقَ الشَّاطِئِ",
+        "latin": "Irtafa'al-mawju fawqasy-syaathi'i",
+        "meaning": "Ombak itu menggulung tinggi di atas pantai"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p243-3",
+    "word": "مَرْجَانٌ",
+    "latin": "Marjaanun",
+    "meaning": "Karang",
+    "sentences": [
+      {
+        "id": "s-1smp-p243-3",
+        "sentence": "يَعِيشُ السَّمَكُ الْمُلَوَّنُ بَيْنَ الْمَرْجَانِ",
+        "latin": "Ya'iisyus-samakul-mulawwanu bayanl-marjaani",
+        "meaning": "Ikan-ikan berwarna hidup di antara terumbu karang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p244-1",
+    "word": "ذَابَ - يَذُوبُ",
+    "latin": "Dzaaba - Yadzuubu",
+    "meaning": "Meleleh / mencair",
+    "sentences": [
+      {
+        "id": "s-1smp-p244-1",
+        "sentence": "ذَابَ الثَّلْجُ تَحْتَ أَشِعَّةِ الشَّمْسِ",
+        "latin": "Dzaabats-tsalju tahta asyi'atisy-syamsi",
+        "meaning": "Salju itu mencair di bawah sinar matahari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["alam", "sains"]
+  },
+  {
+    "id": "w-1smp-p244-2",
+    "word": "لُؤْلُؤٌ",
+    "latin": "Lu'lu'un",
+    "meaning": "Mutiara",
+    "sentences": [
+      {
+        "id": "s-1smp-p244-2",
+        "sentence": "يُوجَدُ اللُّؤْلُؤُ دَاخِلَ الْمَحَارِ",
+        "latin": "Yuujadul-lu'lu'u daakhilal-mahaari",
+        "meaning": "Mutiara ditemukan di dalam kerang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p244-3",
+    "word": "حَصَاةٌ",
+    "latin": "Hashaatun",
+    "meaning": "Kerikil",
+    "sentences": [
+      {
+        "id": "s-1smp-p244-3",
+        "sentence": "رَمَى الْوَلَدُ حَصَاةً فِي النَّهْرِ",
+        "latin": "Ramal-waladu hashaatan fin-nahri",
+        "meaning": "Anak itu melempar kerikil ke sungai"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p245-1",
+    "word": "تَبَخَّرَ - يَتَبَخَّرُ",
+    "latin": "Tabakhkhara - Yatabakhkharu",
+    "meaning": "Menguap (air)",
+    "sentences": [
+      {
+        "id": "s-1smp-p245-1",
+        "sentence": "تَبَخَّرَ الْمَاءُ بِسَبَبِ الْحَرَارَةِ",
+        "latin": "Tabakhkharal-maa'u bi-sababil-haraarati",
+        "meaning": "Air itu menguap karena panas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sains"]
+  },
+  {
+    "id": "w-1smp-p245-2",
+    "word": "بُرْكَانٌ",
+    "latin": "Burkaanun",
+    "meaning": "Gunung berapi",
+    "sentences": [
+      {
+        "id": "s-1smp-p245-2",
+        "sentence": "ثَارَ الْبُرْكَانُ فَخَافَ النَّاسُ",
+        "latin": "Tsaaral-burkaanu fa-khaafan-naasu",
+        "meaning": "Gunung berapi itu meletus lalu orang-orang ketakutan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p245-3",
+    "word": "زِلْزَالٌ",
+    "latin": "Zilzaalun",
+    "meaning": "Gempa bumi",
+    "sentences": [
+      {
+        "id": "s-1smp-p245-3",
+        "sentence": "شَعَرْنَا بِزِلْزَالٍ خَفِيفٍ فِي اللَّيْلِ",
+        "latin": "Sya'arnaa bi-zilzaalin khafiifin fil-layli",
+        "meaning": "Kami merasakan gempa ringan di malam hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p246-1",
+    "word": "اِسْتَأْجَرَ - يَسْتَأْجِرُ",
+    "latin": "Ista'jara - Yasta'jiru",
+    "meaning": "Menyewa",
+    "sentences": [
+      {
+        "id": "s-1smp-p246-1",
+        "sentence": "اسْتَأْجَرَ أَبِي بَيْتًا جَدِيدًا",
+        "latin": "Ista'jara abii baytan jadiidan",
+        "meaning": "Ayahku menyewa rumah baru"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["rumah"]
+  },
+  {
+    "id": "w-1smp-p246-2",
+    "word": "كُسُوفٌ",
+    "latin": "Kusuufun",
+    "meaning": "Gerhana matahari",
+    "sentences": [
+      {
+        "id": "s-1smp-p246-2",
+        "sentence": "شَاهَدَ النَّاسُ كُسُوفَ الشَّمْسِ بِالنَّظَّارَاتِ الْخَاصَّةِ",
+        "latin": "Syaahadan-naasu kusuufasy-syamsi bin-nazhzhaaraatil-khaassati",
+        "meaning": "Orang-orang menyaksikan gerhana matahari dengan kacamata khusus"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam", "sains"]
+  },
+  {
+    "id": "w-1smp-p246-3",
+    "word": "يَوْمُ الِاثْنَيْنِ",
+    "latin": "Yawmul-Itsnayni",
+    "meaning": "Hari Senin",
+    "sentences": [
+      {
+        "id": "s-1smp-p246-3",
+        "sentence": "أَذْهَبُ إِلَى الْمَدْرَسَةِ يَوْمَ الِاثْنَيْنِ",
+        "latin": "Adzhabu ilal-madrasati yawmal-itsnayni",
+        "meaning": "Saya pergi ke sekolah pada hari Senin"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["waktu", "kalender"]
+  },
+  {
+    "id": "w-1smp-p247-1",
+    "word": "اِسْتَعَارَ - يَسْتَعِيرُ",
+    "latin": "Ista'aara - Yasta'iiru",
+    "meaning": "Meminjam",
+    "sentences": [
+      {
+        "id": "s-1smp-p247-1",
+        "sentence": "اسْتَعَرْتُ كِتَابًا مِنَ الْمَكْتَبَةِ",
+        "latin": "Ista'artu kitaaban minal-maktabati",
+        "meaning": "Saya meminjam buku dari perpustakaan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p247-2",
+    "word": "يَوْمُ الثُّلَاثَاءِ",
+    "latin": "Yawmuts-Tsulaatsaa'i",
+    "meaning": "Hari Selasa",
+    "sentences": [
+      {
+        "id": "s-1smp-p247-2",
+        "sentence": "لَنَا اخْتِبَارٌ يَوْمَ الثُّلَاثَاءِ",
+        "latin": "Lanaakhtibaarun yawmats-tsulaatsaa'i",
+        "meaning": "Kami ada ujian pada hari Selasa"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["waktu", "kalender"]
+  },
+  {
+    "id": "w-1smp-p247-3",
+    "word": "يَوْمُ الْأَرْبِعَاءِ",
+    "latin": "Yawmul-Arbi'aa'i",
+    "meaning": "Hari Rabu",
+    "sentences": [
+      {
+        "id": "s-1smp-p247-3",
+        "sentence": "نَلْعَبُ كُرَةَ الْقَدَمِ يَوْمَ الْأَرْبِعَاءِ",
+        "latin": "Nal'abu kuratal-qadami yawmal-arbi'aa'i",
+        "meaning": "Kami bermain sepak bola pada hari Rabu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["waktu", "kalender"]
+  },
+  {
+    "id": "w-1smp-p248-1",
+    "word": "أَعَادَ - يُعِيدُ",
+    "latin": "A'aada - Yu'iidu",
+    "meaning": "Mengembalikan",
+    "sentences": [
+      {
+        "id": "s-1smp-p248-1",
+        "sentence": "أَعَدْتُ الْكِتَابَ إِلَى الْمَكْتَبَةِ",
+        "latin": "A'adtul-kitaaba ilal-maktabati",
+        "meaning": "Saya mengembalikan buku ke perpustakaan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p248-2",
+    "word": "يَوْمُ الْخَمِيسِ",
+    "latin": "Yawmul-Khamiisi",
+    "meaning": "Hari Kamis",
+    "sentences": [
+      {
+        "id": "s-1smp-p248-2",
+        "sentence": "نَحْفَظُ الْقُرْآنَ يَوْمَ الْخَمِيسِ",
+        "latin": "Nahfazhul-qur'aana yawmal-khamiisi",
+        "meaning": "Kami menghafal Al-Quran pada hari Kamis"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["waktu", "kalender", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p248-3",
+    "word": "يَوْمُ الْجُمُعَةِ",
+    "latin": "Yawmul-Jumu'ati",
+    "meaning": "Hari Jumat",
+    "sentences": [
+      {
+        "id": "s-1smp-p248-3",
+        "sentence": "نُصَلِّي الْجُمُعَةَ فِي الْمَسْجِدِ",
+        "latin": "Nushallil-jumu'ata fil-masjidi",
+        "meaning": "Kami sholat Jumat di masjid"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["waktu", "kalender", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p249-1",
+    "word": "بَدَّلَ - يُبَدِّلُ",
+    "latin": "Baddala - Yubaddilu",
+    "meaning": "Menukar",
+    "sentences": [
+      {
+        "id": "s-1smp-p249-1",
+        "sentence": "بَدَّلْتُ مَلَابِسِي بَعْدَ الرِّيَاضَةِ",
+        "latin": "Baddaltu malaabisii ba'dar-riyaadhati",
+        "meaning": "Saya mengganti pakaianku setelah berolahraga"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p249-2",
+    "word": "يَوْمُ السَّبْتِ",
+    "latin": "Yawmus-Sabti",
+    "meaning": "Hari Sabtu",
+    "sentences": [
+      {
+        "id": "s-1smp-p249-2",
+        "sentence": "نَنَظِّفُ الْمَعْهَدَ يَوْمَ السَّبْتِ",
+        "latin": "Nunazhzhiful-ma'hada yawmas-sabti",
+        "meaning": "Kami membersihkan pondok pada hari Sabtu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["waktu", "kalender"]
+  },
+  {
+    "id": "w-1smp-p249-3",
+    "word": "يَوْمُ الْأَحَدِ",
+    "latin": "Yawmul-Ahadi",
+    "meaning": "Hari Ahad",
+    "sentences": [
+      {
+        "id": "s-1smp-p249-3",
+        "sentence": "يَزُورُنَا وَالِدَانَا يَوْمَ الْأَحَدِ",
+        "latin": "Yazuurunaa waalidaanaa yawmal-ahadi",
+        "meaning": "Kedua orang tua kami mengunjungi kami pada hari Ahad"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["waktu", "kalender", "keluarga"]
+  },
+  {
+    "id": "w-1smp-p250-1",
+    "word": "وَفَّرَ - يُوَفِّرُ",
+    "latin": "Waffara - Yuwaffiru",
+    "meaning": "Menghemat",
+    "sentences": [
+      {
+        "id": "s-1smp-p250-1",
+        "sentence": "وَفَّرْتُ بَعْضَ الْمَالِ مِنْ مَصْرُوفِي",
+        "latin": "Waffartu ba'dhal-maali min mashruufii",
+        "meaning": "Saya menghemat sebagian uang dari uang jajanku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["ekonomi"]
+  },
+  {
+    "id": "w-1smp-p250-2",
+    "word": "فَصْلُ الرَّبِيعِ",
+    "latin": "Fashlur-Rabii'i",
+    "meaning": "Musim semi",
+    "sentences": [
+      {
+        "id": "s-1smp-p250-2",
+        "sentence": "تُزْهِرُ الْأَشْجَارُ فِي فَصْلِ الرَّبِيعِ",
+        "latin": "Tuzhirul-asyjaaru fii fashlir-rabii'i",
+        "meaning": "Pohon-pohon berbunga di musim semi"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["cuaca", "alam"]
+  },
+  {
+    "id": "w-1smp-p250-3",
+    "word": "فَصْلُ الصَّيْفِ",
+    "latin": "Fashlush-Shayfi",
+    "meaning": "Musim panas",
+    "sentences": [
+      {
+        "id": "s-1smp-p250-3",
+        "sentence": "يَكُونُ الْجَوُّ حَارًّا فِي فَصْلِ الصَّيْفِ",
+        "latin": "Yakuunul-jawwu haarran fii fashlish-shayfi",
+        "meaning": "Cuaca menjadi panas di musim panas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["cuaca", "alam"]
+  },
+  {
+    "id": "w-1smp-p251-1",
+    "word": "اِنْدَهَشَ - يَنْدَهِشُ",
+    "latin": "Indahasya - Yandahisyu",
+    "meaning": "Terkejut / takjub",
+    "sentences": [
+      {
+        "id": "s-1smp-p251-1",
+        "sentence": "انْدَهَشَ الطُّلَّابُ مِنَ التَّجْرِبَةِ الْعِلْمِيَّةِ",
+        "latin": "Indahasyat-tullaabu minat-tajribatil-'ilmiyyati",
+        "meaning": "Para siswa terkejut takjub dengan percobaan ilmiah itu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah", "sains"]
+  },
+  {
+    "id": "w-1smp-p251-2",
+    "word": "سِتَّةٌ",
+    "latin": "Sittatun",
+    "meaning": "Enam",
+    "sentences": [
+      {
+        "id": "s-1smp-p251-2",
+        "sentence": "فِي الْأُسْبُوعِ سِتَّةُ أَيَّامِ دِرَاسَةٍ",
+        "latin": "Fil-usbuu'i sittatu ayyaami diraasatin",
+        "meaning": "Dalam sepekan ada enam hari belajar"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "kalender"]
+  },
+  {
+    "id": "w-1smp-p251-3",
+    "word": "سَبْعَةٌ",
+    "latin": "Sab'atun",
+    "meaning": "Tujuh",
+    "sentences": [
+      {
+        "id": "s-1smp-p251-3",
+        "sentence": "خُلِقَتِ السَّمَاوَاتُ سَبْعًا",
+        "latin": "Khuliqatis-samaawaatu sab'an",
+        "meaning": "Langit diciptakan berjumlah tujuh"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p252-1",
+    "word": "قَلِقَ - يَقْلَقُ",
+    "latin": "Qaliqa - Yaqlaqu",
+    "meaning": "Khawatir",
+    "sentences": [
+      {
+        "id": "s-1smp-p252-1",
+        "sentence": "قَلِقَتِ الْأُمُّ عَلَى ابْنِهَا الْمَرِيضِ",
+        "latin": "Qaliqatil-ummu 'alabnihal-mariidhi",
+        "meaning": "Ibu itu khawatir terhadap anaknya yang sakit"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keluarga", "kesehatan"]
+  },
+  {
+    "id": "w-1smp-p252-2",
+    "word": "ثَمَانِيَةٌ",
+    "latin": "Tsamaaniyatun",
+    "meaning": "Delapan",
+    "sentences": [
+      {
+        "id": "s-1smp-p252-2",
+        "sentence": "لِلْعَنْكَبُوتِ ثَمَانِيَةُ أَرْجُلٍ",
+        "latin": "Lil-'ankabuuti tsamaaniyatu arjulin",
+        "meaning": "Laba-laba memiliki delapan kaki"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "hewan"]
+  },
+  {
+    "id": "w-1smp-p252-3",
+    "word": "تِسْعَةٌ",
+    "latin": "Tis'atun",
+    "meaning": "Sembilan",
+    "sentences": [
+      {
+        "id": "s-1smp-p252-3",
+        "sentence": "فِي الْفَصْلِ تِسْعَةُ طُلَّابٍ جُدُدٍ",
+        "latin": "Fil-fashli tis'atu tullaabin juddin",
+        "meaning": "Di kelas ada sembilan siswa baru"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p253-1",
+    "word": "اِسْتَحَى - يَسْتَحِي",
+    "latin": "Istahaa - Yastahii",
+    "meaning": "Malu",
+    "sentences": [
+      {
+        "id": "s-1smp-p253-1",
+        "sentence": "اسْتَحَى الْوَلَدُ مِنْ خَطَئِهِ",
+        "latin": "Istahaa-waladu min khatha'ihi",
+        "meaning": "Anak itu malu atas kesalahannya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak"]
+  },
+  {
+    "id": "w-1smp-p253-2",
+    "word": "عَشَرَةٌ",
+    "latin": "'Asyaratun",
+    "meaning": "Sepuluh",
+    "sentences": [
+      {
+        "id": "s-1smp-p253-2",
+        "sentence": "عَدَدُ أَصَابِعِ الْيَدَيْنِ عَشَرَةٌ",
+        "latin": "'Adadu ashaabi'il-yadayni 'asyaratun",
+        "meaning": "Jumlah jari kedua tangan ada sepuluh"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "tubuh"]
+  },
+  {
+    "id": "w-1smp-p253-3",
+    "word": "عِشْرُونَ",
+    "latin": "'Isyruuna",
+    "meaning": "Dua puluh",
+    "sentences": [
+      {
+        "id": "s-1smp-p253-3",
+        "sentence": "عُمْرُ أَخِي الْكَبِيرِ عِشْرُونَ سَنَةً",
+        "latin": "'Umru akhiil-kabiiri 'isyruuna sanatan",
+        "meaning": "Umur kakakku dua puluh tahun"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "keluarga"]
+  },
+  {
+    "id": "w-1smp-p254-1",
+    "word": "اِفْتَخَرَ - يَفْتَخِرُ",
+    "latin": "Iftakhara - Yaftakhiru",
+    "meaning": "Bangga",
+    "sentences": [
+      {
+        "id": "s-1smp-p254-1",
+        "sentence": "افْتَخَرَ الطَّالِبُ بِنَجَاحِهِ",
+        "latin": "Iftakhara-thaalibu bi-najaahihi",
+        "meaning": "Siswa itu bangga dengan keberhasilannya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["motivasi"]
+  },
+  {
+    "id": "w-1smp-p254-2",
+    "word": "ثَلَاثُونَ",
+    "latin": "Tsalaatsuuna",
+    "meaning": "Tiga puluh",
+    "sentences": [
+      {
+        "id": "s-1smp-p254-2",
+        "sentence": "فِي الشَّهْرِ ثَلَاثُونَ يَوْمًا تَقْرِيبًا",
+        "latin": "Fisy-syahri tsalaatsuuna yawman taqriiban",
+        "meaning": "Dalam sebulan ada sekitar tiga puluh hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "kalender"]
+  },
+  {
+    "id": "w-1smp-p254-3",
+    "word": "مِئَةٌ",
+    "latin": "Mi'atun",
+    "meaning": "Seratus",
+    "sentences": [
+      {
+        "id": "s-1smp-p254-3",
+        "sentence": "حَصَلَ الطَّالِبُ عَلَى مِئَةِ دَرَجَةٍ",
+        "latin": "Hashala-thaalibu 'alaa mi'ati darajatin",
+        "meaning": "Siswa itu mendapatkan nilai seratus"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p255-1",
+    "word": "حَسَدَ - يَحْسُدُ",
+    "latin": "Hasada - Yahsudu",
+    "meaning": "Iri / dengki",
+    "sentences": [
+      {
+        "id": "s-1smp-p255-1",
+        "sentence": "لَا يَجُوزُ أَنْ يَحْسُدَ الْمَرْءُ أَخَاهُ",
+        "latin": "Laa yajuuzu an yahsudal-mar'u akhaahu",
+        "meaning": "Tidak boleh seseorang mendengki saudaranya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak"]
+  },
+  {
+    "id": "w-1smp-p255-2",
+    "word": "أَلْفٌ",
+    "latin": "Alfun",
+    "meaning": "Seribu",
+    "sentences": [
+      {
+        "id": "s-1smp-p255-2",
+        "sentence": "قَرَأَ الشَّيْخُ أَلْفَ حَدِيثٍ",
+        "latin": "Qara'asy-syaykhu alfa hadiitsin",
+        "meaning": "Syaikh itu membaca seribu hadits"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p255-3",
+    "word": "مِنْشَارٌ",
+    "latin": "Minsyaarun",
+    "meaning": "Gergaji",
+    "sentences": [
+      {
+        "id": "s-1smp-p255-3",
+        "sentence": "قَطَعَ النَّجَّارُ الْخَشَبَ بِالْمِنْشَارِ",
+        "latin": "Qatha'an-najjaarul-khasyaba bil-minsyaari",
+        "meaning": "Tukang kayu memotong kayu dengan gergaji"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pembangunan"]
+  },
+  {
+    "id": "w-1smp-p256-1",
+    "word": "صَحَّحَ - يُصَحِّحُ",
+    "latin": "Shahhaha - Yushahhihu",
+    "meaning": "Membetulkan / mengoreksi",
+    "sentences": [
+      {
+        "id": "s-1smp-p256-1",
+        "sentence": "صَحَّحَ الْمُعَلِّمُ أَخْطَاءَ الطُّلَّابِ",
+        "latin": "Shahhaha-mu'allimu akhthaa'at-tullaabi",
+        "meaning": "Guru membetulkan kesalahan-kesalahan siswa"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p256-2",
+    "word": "مِفَكٌّ",
+    "latin": "Mifakkun",
+    "meaning": "Obeng",
+    "sentences": [
+      {
+        "id": "s-1smp-p256-2",
+        "sentence": "فَكَّ الْعَامِلُ الْبُرْغِيَّ بِالْمِفَكِّ",
+        "latin": "Fakkal-'aamilul-burghiyya bil-mifakki",
+        "meaning": "Pekerja itu melepas baut dengan obeng"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pembangunan"]
+  },
+  {
+    "id": "w-1smp-p256-3",
+    "word": "كَمَّاشَةٌ",
+    "latin": "Kammaasyatun",
+    "meaning": "Tang",
+    "sentences": [
+      {
+        "id": "s-1smp-p256-3",
+        "sentence": "اسْتَخْدَمَ أَبِي الْكَمَّاشَةَ لِإِصْلَاحِ السِّلْكِ",
+        "latin": "Istakhdama abil-kammaasyata li-islaahis-silki",
+        "meaning": "Ayahku menggunakan tang untuk memperbaiki kabel"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pembangunan"]
+  },
+  {
+    "id": "w-1smp-p257-1",
+    "word": "شَرَحَ - يَشْرَحُ",
+    "latin": "Syaraha - Yasyrahu",
+    "meaning": "Menjelaskan",
+    "sentences": [
+      {
+        "id": "s-1smp-p257-1",
+        "sentence": "شَرَحَ الْأُسْتَاذُ الدَّرْسَ بِوُضُوحٍ",
+        "latin": "Syaraha-ustaadzud-darsa bi-wudhuuhin",
+        "meaning": "Ustadz menjelaskan pelajaran dengan jelas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p257-2",
+    "word": "فَأْسٌ",
+    "latin": "Fa'sun",
+    "meaning": "Kapak",
+    "sentences": [
+      {
+        "id": "s-1smp-p257-2",
+        "sentence": "قَطَعَ الْفَلَّاحُ الشَّجَرَةَ بِالْفَأْسِ",
+        "latin": "Qatha'al-fallaahusy-syajarata bil-fa'si",
+        "meaning": "Petani menebang pohon dengan kapak"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pertanian"]
+  },
+  {
+    "id": "w-1smp-p257-3",
+    "word": "مِجْرَفَةٌ",
+    "latin": "Mijrafatun",
+    "meaning": "Sekop",
+    "sentences": [
+      {
+        "id": "s-1smp-p257-3",
+        "sentence": "حَفَرَ الْعَامِلُ الْأَرْضَ بِالْمِجْرَفَةِ",
+        "latin": "Hafaral-'aamilul-ardha bil-mijrafati",
+        "meaning": "Pekerja itu menggali tanah dengan sekop"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pertanian"]
+  },
+  {
+    "id": "w-1smp-p258-1",
+    "word": "لَخَّصَ - يُلَخِّصُ",
+    "latin": "Lakhkhasha - Yulakhkhishu",
+    "meaning": "Meringkas",
+    "sentences": [
+      {
+        "id": "s-1smp-p258-1",
+        "sentence": "لَخَّصَ الطَّالِبُ الْقِصَّةَ فِي أَسْطُرٍ قَلِيلَةٍ",
+        "latin": "Lakhkhasha-thaalibul-qishshata fii asthurin qaliilatin",
+        "meaning": "Siswa itu meringkas cerita dalam beberapa baris"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah", "akademik"]
+  },
+  {
+    "id": "w-1smp-p258-2",
+    "word": "مِنْقَلَةٌ",
+    "latin": "Minqalatun",
+    "meaning": "Wajan / anglo",
+    "sentences": [
+      {
+        "id": "s-1smp-p258-2",
+        "sentence": "شَوَى أَبِي اللَّحْمَ عَلَى الْمِنْقَلَةِ",
+        "latin": "Syawaa abil-lahma 'alal-minqalati",
+        "meaning": "Ayahku memanggang daging di atas anglo"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p258-3",
+    "word": "غِرْبَالٌ",
+    "latin": "Ghirbaalun",
+    "meaning": "Ayakan",
+    "sentences": [
+      {
+        "id": "s-1smp-p258-3",
+        "sentence": "نَخَلَتِ الْجَدَّةُ الدَّقِيقَ بِالْغِرْبَالِ",
+        "latin": "Nakhalatil-jaddatud-daqiiqa bil-ghirbaali",
+        "meaning": "Nenek mengayak tepung dengan ayakan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p259-1",
+    "word": "اِخْتَبَرَ - يَخْتَبِرُ",
+    "latin": "Ikhtabara - Yakhtabiru",
+    "meaning": "Menguji",
+    "sentences": [
+      {
+        "id": "s-1smp-p259-1",
+        "sentence": "اخْتَبَرَ الْمُعَلِّمُ فَهْمَ الطُّلَّابِ",
+        "latin": "Ikhtabara-mu'allimu fahmath-thullaabi",
+        "meaning": "Guru menguji pemahaman para siswa"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p259-2",
+    "word": "شَاحِنَةٌ",
+    "latin": "Syaahinatun",
+    "meaning": "Truk",
+    "sentences": [
+      {
+        "id": "s-1smp-p259-2",
+        "sentence": "تَحْمِلُ الشَّاحِنَةُ الْبَضَائِعَ إِلَى السُّوقِ",
+        "latin": "Tahmilusy-syaahinatul-badhaa'i'a ilas-suuqi",
+        "meaning": "Truk membawa barang-barang ke pasar"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["transportasi"]
+  },
+  {
+    "id": "w-1smp-p259-3",
+    "word": "دَبَّابَةٌ",
+    "latin": "Dabbaabatun",
+    "meaning": "Tank",
+    "sentences": [
+      {
+        "id": "s-1smp-p259-3",
+        "sentence": "رَأَيْتُ صُورَةَ دَبَّابَةٍ فِي الْكِتَابِ",
+        "latin": "Ra'aytu shuurata dabbaabatin fil-kitaabi",
+        "meaning": "Saya melihat gambar tank di dalam buku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["transportasi"]
+  },
+  {
+    "id": "w-1smp-p260-1",
+    "word": "تَخَرَّجَ - يَتَخَرَّجُ",
+    "latin": "Takharraja - Yatakharraju",
+    "meaning": "Lulus (sekolah)",
+    "sentences": [
+      {
+        "id": "s-1smp-p260-1",
+        "sentence": "سَيَتَخَرَّجُ أَخِي مِنَ الْجَامِعَةِ قَرِيبًا",
+        "latin": "Sayatakharraju akhii minal-jaami'ati qariiban",
+        "meaning": "Kakakku akan lulus dari universitas sebentar lagi"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p260-2",
+    "word": "طَائِرَةٌ هِلِيكُوبْتَرَ",
+    "latin": "Thaa'iratun Hiliikuubtar",
+    "meaning": "Helikopter",
+    "sentences": [
+      {
+        "id": "s-1smp-p260-2",
+        "sentence": "حَلَّقَتِ الطَّائِرَةُ الْهِلِيكُوبْتَرُ فَوْقَ الْمَدِينَةِ",
+        "latin": "Hallaqatith-thaa'iratul-hiliikuubtaru fawqal-madiinati",
+        "meaning": "Helikopter itu terbang di atas kota"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["transportasi"]
+  },
+  {
+    "id": "w-1smp-p260-3",
+    "word": "زَوْرَقٌ",
+    "latin": "Zawraqun",
+    "meaning": "Perahu",
+    "sentences": [
+      {
+        "id": "s-1smp-p260-3",
+        "sentence": "أَبْحَرَ الصَّيَّادُ بِزَوْرَقٍ صَغِيرٍ",
+        "latin": "Abhara-shayyaadu bi-zawraqin shaghiirin",
+        "meaning": "Nelayan itu berlayar dengan perahu kecil"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["transportasi"]
+  },
+  {
+    "id": "w-1smp-p261-1",
+    "word": "سَجَّلَ - يُسَجِّلُ",
+    "latin": "Sajjala - Yusajjilu",
+    "meaning": "Mendaftar / mencatat",
+    "sentences": [
+      {
+        "id": "s-1smp-p261-1",
+        "sentence": "سَجَّلْتُ اسْمِي فِي قَائِمَةِ الْحُضُورِ",
+        "latin": "Sajjaltu-smii fii qaa'imatil-hudhuuri",
+        "meaning": "Saya mendaftarkan namaku di daftar hadir"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah", "administrasi"]
+  },
+  {
+    "id": "w-1smp-p261-2",
+    "word": "يَخْتٌ",
+    "latin": "Yakhtun",
+    "meaning": "Yacht / kapal pesiar",
+    "sentences": [
+      {
+        "id": "s-1smp-p261-2",
+        "sentence": "رَأَيْنَا يَخْتًا فَخْمًا فِي الْمِينَاءِ",
+        "latin": "Ra'aynaa yakhtan fakhman fil-miinaa'i",
+        "meaning": "Kami melihat kapal pesiar mewah di pelabuhan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["transportasi"]
+  },
+  {
+    "id": "w-1smp-p261-3",
+    "word": "عَرَبَةُ الْأُجْرَةِ",
+    "latin": "'Arabatul-Ujrati",
+    "meaning": "Taksi",
+    "sentences": [
+      {
+        "id": "s-1smp-p261-3",
+        "sentence": "رَكِبْنَا عَرَبَةَ الْأُجْرَةِ إِلَى الْمَطَارِ",
+        "latin": "Rakibnaa 'arabatal-ujrati ilal-mathaari",
+        "meaning": "Kami naik taksi menuju bandara"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["transportasi"]
+  },
+  {
+    "id": "w-1smp-p262-1",
+    "word": "تَبَّلَ - يُتَبِّلُ",
+    "latin": "Tabbala - Yutabbilu",
+    "meaning": "Membumbui",
+    "sentences": [
+      {
+        "id": "s-1smp-p262-1",
+        "sentence": "تُتَبِّلُ أُمِّي الطَّعَامَ بِالتَّوَابِلِ",
+        "latin": "Tutabbilu ummit-tha'aama bit-tawaabili",
+        "meaning": "Ibuku membumbui makanan dengan rempah-rempah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p262-2",
+    "word": "سَعَادَةٌ",
+    "latin": "Sa'aadatun",
+    "meaning": "Kebahagiaan",
+    "sentences": [
+      {
+        "id": "s-1smp-p262-2",
+        "sentence": "امْتَلَأَ قَلْبِي بِالسَّعَادَةِ يَوْمَ الْعِيدِ",
+        "latin": "Imtala'a qalbii bis-sa'aadati yawmal-'iidi",
+        "meaning": "Hatiku dipenuhi kebahagiaan di hari raya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["emosi", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p262-3",
+    "word": "حَيْرَةٌ",
+    "latin": "Hayratun",
+    "meaning": "Kebingungan",
+    "sentences": [
+      {
+        "id": "s-1smp-p262-3",
+        "sentence": "وَقَفَ الطَّالِبُ فِي حَيْرَةٍ أَمَامَ السُّؤَالِ",
+        "latin": "Waqafa-thaalibu fii hayratin amaamas-su'aali",
+        "meaning": "Siswa itu berdiri kebingungan menghadapi soal"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["emosi", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p263-1",
+    "word": "رَشَّ - يَرُشُّ",
+    "latin": "Rasysya - Yarusysyu",
+    "meaning": "Menaburkan (sedikit)",
+    "sentences": [
+      {
+        "id": "s-1smp-p263-1",
+        "sentence": "رَشَّ الْبُسْتَانِيُّ الْمَاءَ عَلَى الْأَزْهَارِ",
+        "latin": "Rasysyal-bustaaniyyul-maa'a 'alal-azhaari",
+        "meaning": "Tukang kebun menaburkan air pada bunga-bunga"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["pertanian"]
+  },
+  {
+    "id": "w-1smp-p263-2",
+    "word": "دَهْشَةٌ",
+    "latin": "Dahsyatun",
+    "meaning": "Keterkejutan",
+    "sentences": [
+      {
+        "id": "s-1smp-p263-2",
+        "sentence": "نَظَرَ إِلَيَّ فِي دَهْشَةٍ",
+        "latin": "Nazhara ilayya fii dahsyatin",
+        "meaning": "Ia memandangku dengan keterkejutan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["emosi"]
+  },
+  {
+    "id": "w-1smp-p263-3",
+    "word": "حَسَدٌ",
+    "latin": "Hasadun",
+    "meaning": "Kedengkian",
+    "sentences": [
+      {
+        "id": "s-1smp-p263-3",
+        "sentence": "الْحَسَدُ يُفْسِدُ الْحَسَنَاتِ",
+        "latin": "Al-hasadu yufsidul-hasanaati",
+        "meaning": "Kedengkian merusak amal-amal kebaikan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akhlak"]
+  },
+  {
+    "id": "w-1smp-p264-1",
+    "word": "جَفَّفَ - يُجَفِّفُ",
+    "latin": "Jaffafa - Yujaffifu",
+    "meaning": "Mengeringkan",
+    "sentences": [
+      {
+        "id": "s-1smp-p264-1",
+        "sentence": "جَفَّفْتُ يَدَيَّ بِالْمِنْشَفَةِ",
+        "latin": "Jaffaftu yadayya bil-minsyafati",
+        "meaning": "Saya mengeringkan kedua tanganku dengan handuk"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["kebersihan"]
+  },
+  {
+    "id": "w-1smp-p264-2",
+    "word": "غَيْرَةٌ",
+    "latin": "Ghayratun",
+    "meaning": "Kecemburuan",
+    "sentences": [
+      {
+        "id": "s-1smp-p264-2",
+        "sentence": "شَعَرَ الْأَخُ الصَّغِيرُ بِالْغَيْرَةِ مِنْ أَخِيهِ",
+        "latin": "Sya'ara-akhush-shaghiiru bil-ghayrati min akhiihi",
+        "meaning": "Adik kecil itu merasa cemburu terhadap kakaknya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["emosi", "keluarga"]
+  },
+  {
+    "id": "w-1smp-p264-3",
+    "word": "طُمَأْنِينَةٌ",
+    "latin": "Thuma'niinatun",
+    "meaning": "Ketenangan",
+    "sentences": [
+      {
+        "id": "s-1smp-p264-3",
+        "sentence": "يَشْعُرُ الْمُسْلِمُ بِالطُّمَأْنِينَةِ فِي الصَّلَاةِ",
+        "latin": "Yasy'urul-muslimu bith-thuma'niinati fish-shalaati",
+        "meaning": "Muslim itu merasakan ketenangan saat shalat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["ibadah", "emosi"]
+  },
+  {
+    "id": "w-1smp-p265-1",
+    "word": "اِسْتَدَارَ - يَسْتَدِيرُ",
+    "latin": "Istadaara - Yastadiiru",
+    "meaning": "Berputar arah",
+    "sentences": [
+      {
+        "id": "s-1smp-p265-1",
+        "sentence": "اسْتَدَارَ السَّائِقُ يَمِينًا عِنْدَ التَّقَاطُعِ",
+        "latin": "Istadaaras-saa'iqu yamiinan 'indat-taqaathu'i",
+        "meaning": "Sopir itu berputar ke kanan di persimpangan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["transportasi"]
+  },
+  {
+    "id": "w-1smp-p265-2",
+    "word": "حَمَاسٌ",
+    "latin": "Hamaasun",
+    "meaning": "Semangat / antusiasme",
+    "sentences": [
+      {
+        "id": "s-1smp-p265-2",
+        "sentence": "شَارَكَ الطُّلَّابُ بِحَمَاسٍ كَبِيرٍ",
+        "latin": "Syaaraka-tullaabu bi-hamaasin kabiirin",
+        "meaning": "Para siswa berpartisipasi dengan semangat yang besar"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["emosi", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p265-3",
+    "word": "يَأْسٌ",
+    "latin": "Ya'sun",
+    "meaning": "Keputusasaan",
+    "sentences": [
+      {
+        "id": "s-1smp-p265-3",
+        "sentence": "لَا مَكَانَ لِلْيَأْسِ عِنْدَ الْمُؤْمِنِ",
+        "latin": "Laa makaana lil-ya'si 'indal-mu'mini",
+        "meaning": "Tidak ada tempat bagi keputusasaan pada orang beriman"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["ibadah", "emosi"]
+  },
+  {
+    "id": "w-1smp-p266-1",
+    "word": "تَوَقَّفَ - يَتَوَقَّفُ",
+    "latin": "Tawaqqafa - Yatawaqqafu",
+    "meaning": "Berhenti",
+    "sentences": [
+      {
+        "id": "s-1smp-p266-1",
+        "sentence": "تَوَقَّفَتِ السَّيَّارَةُ عِنْدَ الْإِشَارَةِ الْحَمْرَاءِ",
+        "latin": "Tawaqqafatis-sayyaaratu 'indal-isyaaratil-hamraa'i",
+        "meaning": "Mobil itu berhenti di lampu merah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["transportasi"]
+  },
+  {
+    "id": "w-1smp-p266-2",
+    "word": "كَنَّةٌ",
+    "latin": "Kannatun",
+    "meaning": "Menantu perempuan",
+    "sentences": [
+      {
+        "id": "s-1smp-p266-2",
+        "sentence": "تُسَاعِدُ الْكَنَّةُ حَمَاتَهَا فِي الْبَيْتِ",
+        "latin": "Tusaa'idul-kannatu hamaatahaa fil-bayti",
+        "meaning": "Menantu perempuan itu membantu ibu mertuanya di rumah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p266-3",
+    "word": "صِهْرٌ",
+    "latin": "Shihrun",
+    "meaning": "Menantu / ipar laki-laki",
+    "sentences": [
+      {
+        "id": "s-1smp-p266-3",
+        "sentence": "زَارَنَا صِهْرِي يَوْمَ الْعِيدِ",
+        "latin": "Zaaranaa shihrii yawmal-'iidi",
+        "meaning": "Menantu laki-lakiku mengunjungi kami di hari raya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p267-1",
+    "word": "تَابَعَ - يُتَابِعُ",
+    "latin": "Taaba'a - Yutaabi'u",
+    "meaning": "Melanjutkan / mengikuti",
+    "sentences": [
+      {
+        "id": "s-1smp-p267-1",
+        "sentence": "تَابَعَ الطَّالِبُ دُرُوسَهُ بِاجْتِهَادٍ",
+        "latin": "Taaba'a-thaalibu duruusahu bi-ijtihaadin",
+        "meaning": "Siswa itu melanjutkan pelajarannya dengan tekun"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p267-2",
+    "word": "حَمَاةٌ",
+    "latin": "Hamaatun",
+    "meaning": "Ibu mertua",
+    "sentences": [
+      {
+        "id": "s-1smp-p267-2",
+        "sentence": "تُحِبُّ حَمَاتِي زِيَارَتَنَا كُلَّ أُسْبُوعٍ",
+        "latin": "Tuhibbu hamaatii ziyaaratanaa kulla usbuu'in",
+        "meaning": "Ibu mertuaku suka mengunjungi kami setiap minggu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p267-3",
+    "word": "اِبْنٌ وَحِيدٌ",
+    "latin": "Ibnun Wahiidun",
+    "meaning": "Anak tunggal",
+    "sentences": [
+      {
+        "id": "s-1smp-p267-3",
+        "sentence": "هُوَ ابْنٌ وَحِيدٌ لِوَالِدَيْهِ",
+        "latin": "Huwa-bnun wahiidun li-waalidayhi",
+        "meaning": "Ia adalah anak tunggal bagi kedua orang tuanya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p268-1",
+    "word": "عَبَرَ - يَعْبُرُ",
+    "latin": "'Abara - Ya'buru",
+    "meaning": "Menyeberang",
+    "sentences": [
+      {
+        "id": "s-1smp-p268-1",
+        "sentence": "عَبَرْنَا الشَّارِعَ مِنْ مَكَانٍ آمِنٍ",
+        "latin": "'Abarnaasy-syaari'a min makaanin aaminin",
+        "meaning": "Kami menyeberang jalan dari tempat yang aman"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["adab"]
+  },
+  {
+    "id": "w-1smp-p268-2",
+    "word": "اِبْنٌ بِكْرٌ",
+    "latin": "Ibnun Bikrun",
+    "meaning": "Anak sulung",
+    "sentences": [
+      {
+        "id": "s-1smp-p268-2",
+        "sentence": "أَخِي الْكَبِيرُ هُوَ الِابْنُ الْبِكْرُ",
+        "latin": "Akhiil-kabiiru huwal-ibnul-bikru",
+        "meaning": "Kakakku adalah anak sulung"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p268-3",
+    "word": "اِبْنٌ أَصْغَرُ",
+    "latin": "Ibnun Ashgharu",
+    "meaning": "Anak bungsu",
+    "sentences": [
+      {
+        "id": "s-1smp-p268-3",
+        "sentence": "أَنَا الِابْنُ الْأَصْغَرُ فِي أُسْرَتِي",
+        "latin": "Anal-ibnul-ashgharu fii usratii",
+        "meaning": "Saya adalah anak bungsu di keluargaku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p269-1",
+    "word": "اِخْتَبَأَ - يَخْتَبِئُ",
+    "latin": "Ikhtaba'a - Yakhtabi'u",
+    "meaning": "Bersembunyi",
+    "sentences": [
+      {
+        "id": "s-1smp-p269-1",
+        "sentence": "اخْتَبَأَ الْوَلَدُ خَلْفَ الشَّجَرَةِ",
+        "latin": "Ikhtaba'a-waladu khalfasy-syajarati",
+        "meaning": "Anak itu bersembunyi di belakang pohon"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p269-2",
+    "word": "تَوْأَمٌ",
+    "latin": "Taw'amun",
+    "meaning": "Kembar",
+    "sentences": [
+      {
+        "id": "s-1smp-p269-2",
+        "sentence": "لِصَدِيقِي أَخٌ تَوْأَمٌ يُشْبِهُهُ تَمَامًا",
+        "latin": "Li-shadiiqii akhun taw'amun yusybihuhu tamaaman",
+        "meaning": "Temanku memiliki saudara kembar yang sangat mirip dengannya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p269-3",
+    "word": "كَاتِبٌ",
+    "latin": "Kaatibun",
+    "meaning": "Penulis",
+    "sentences": [
+      {
+        "id": "s-1smp-p269-3",
+        "sentence": "الْكَاتِبُ يُؤَلِّفُ قِصَصًا جَمِيلَةً",
+        "latin": "Al-kaatibu yu'allifu qishashan jamiilatan",
+        "meaning": "Penulis itu mengarang kisah-kisah yang indah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["profesi"]
+  },
+  {
+    "id": "w-1smp-p270-1",
+    "word": "هَمَسَ - يَهْمِسُ",
+    "latin": "Hamasa - Yahmisu",
+    "meaning": "Berbisik",
+    "sentences": [
+      {
+        "id": "s-1smp-p270-1",
+        "sentence": "هَمَسَ الْوَلَدُ فِي أُذُنِ صَدِيقِهِ",
+        "latin": "Hamasa-waladu fii udzuni shadiiqihi",
+        "meaning": "Anak itu berbisik di telinga temannya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sosial"]
+  },
+  {
+    "id": "w-1smp-p270-2",
+    "word": "رَسَّامٌ",
+    "latin": "Rassaamun",
+    "meaning": "Pelukis",
+    "sentences": [
+      {
+        "id": "s-1smp-p270-2",
+        "sentence": "يَرْسُمُ الرَّسَّامُ لَوْحَةً جَمِيلَةً",
+        "latin": "Yarsumur-rassaamu lawhatan jamiilatan",
+        "meaning": "Pelukis itu menggambar lukisan yang indah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["profesi", "seni"]
+  },
+  {
+    "id": "w-1smp-p270-3",
+    "word": "مُغَنٍّ",
+    "latin": "Mughannin",
+    "meaning": "Penyanyi",
+    "sentences": [
+      {
+        "id": "s-1smp-p270-3",
+        "sentence": "يُغَنِّي الْمُغَنِّي أَنَاشِيدَ إِسْلَامِيَّةً",
+        "latin": "Yughannil-mughannii anaasyiida islaamiyyatan",
+        "meaning": "Penyanyi itu menyanyikan nasyid-nasyid Islami"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["profesi", "seni"]
+  },
+  {
+    "id": "w-1smp-p271-1",
+    "word": "صَرَخَ - يَصْرُخُ",
+    "latin": "Sharakha - Yashrukhu",
+    "meaning": "Berteriak",
+    "sentences": [
+      {
+        "id": "s-1smp-p271-1",
+        "sentence": "صَرَخَ الطِّفْلُ مِنَ الْخَوْفِ",
+        "latin": "Sharakha-tiflu minal-khawfi",
+        "meaning": "Anak kecil itu berteriak karena takut"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["emosi"]
+  },
+  {
+    "id": "w-1smp-p271-2",
+    "word": "مُمَثِّلٌ",
+    "latin": "Mumatstsilun",
+    "meaning": "Aktor",
+    "sentences": [
+      {
+        "id": "s-1smp-p271-2",
+        "sentence": "يُمَثِّلُ الْمُمَثِّلُ دَوْرًا فِي الْمَسْرَحِيَّةِ",
+        "latin": "Yumatstsilul-mumatstsilu dawran fil-masrahiyyati",
+        "meaning": "Aktor itu memerankan peran dalam drama panggung"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["profesi", "seni"]
+  },
+  {
+    "id": "w-1smp-p271-3",
+    "word": "مُصَوِّرٌ",
+    "latin": "Mushawwirun",
+    "meaning": "Fotografer",
+    "sentences": [
+      {
+        "id": "s-1smp-p271-3",
+        "sentence": "يَلْتَقِطُ الْمُصَوِّرُ صُوَرًا جَمِيلَةً",
+        "latin": "Yaltaqithul-mushawwiru shuwaran jamiilatan",
+        "meaning": "Fotografer itu mengambil gambar-gambar yang indah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["profesi"]
+  },
+  {
+    "id": "w-1smp-p272-1",
+    "word": "تَمْتَمَ - يُتَمْتِمُ",
+    "latin": "Tamtama - Yutamtimu",
+    "meaning": "Menggumam",
+    "sentences": [
+      {
+        "id": "s-1smp-p272-1",
+        "sentence": "تَمْتَمَ الرَّجُلُ بِكَلِمَاتٍ غَيْرِ وَاضِحَةٍ",
+        "latin": "Tamtamar-rajulu bi-kalimaatin ghayri waadhihatin",
+        "meaning": "Laki-laki itu menggumam dengan kata-kata yang tidak jelas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p272-2",
+    "word": "حَلَّاقٌ",
+    "latin": "Hallaaqun",
+    "meaning": "Tukang cukur",
+    "sentences": [
+      {
+        "id": "s-1smp-p272-2",
+        "sentence": "قَصَّ الْحَلَّاقُ شَعْرِي الْيَوْمَ",
+        "latin": "Qashal-hallaaqu sya'rii al-yawma",
+        "meaning": "Tukang cukur memotong rambutku hari ini"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["profesi"]
+  },
+  {
+    "id": "w-1smp-p272-3",
+    "word": "بَيْطَرِيٌّ",
+    "latin": "Baythariyyun",
+    "meaning": "Dokter hewan",
+    "sentences": [
+      {
+        "id": "s-1smp-p272-3",
+        "sentence": "عَالَجَ الْبَيْطَرِيُّ الْقِطَّةَ الْمَرِيضَةَ",
+        "latin": "'Aalajal-baythariyyul-qitthatal-mariidhata",
+        "meaning": "Dokter hewan mengobati kucing yang sakit"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["profesi", "hewan"]
+  },
+  {
+    "id": "w-1smp-p273-1",
+    "word": "أَعْلَنَ - يُعْلِنُ",
+    "latin": "A'lana - Yu'linu",
+    "meaning": "Mengumumkan",
+    "sentences": [
+      {
+        "id": "s-1smp-p273-1",
+        "sentence": "أَعْلَنَ الْمُدِيرُ عَنْ عُطْلَةٍ جَدِيدَةٍ",
+        "latin": "A'lana-mudiiru 'an 'uthlatin jadiidatin",
+        "meaning": "Direktur mengumumkan libur baru"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["administrasi", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p273-2",
+    "word": "نُحَاسٌ",
+    "latin": "Nuhaasun",
+    "meaning": "Tembaga",
+    "sentences": [
+      {
+        "id": "s-1smp-p273-2",
+        "sentence": "صُنِعَ الْجَرَسُ مِنَ النُّحَاسِ",
+        "latin": "Shuni'al-jarasu minan-nuhaasi",
+        "meaning": "Lonceng itu dibuat dari tembaga"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda"]
+  },
+  {
+    "id": "w-1smp-p273-3",
+    "word": "مَطَّاطٌ",
+    "latin": "Mathaathun",
+    "meaning": "Karet",
+    "sentences": [
+      {
+        "id": "s-1smp-p273-3",
+        "sentence": "عَجَلَاتُ الدَّرَّاجَةِ مَصْنُوعَةٌ مِنَ الْمَطَّاطِ",
+        "latin": "'Ajalaatud-darraajati mashnuu'atun minal-mathaathi",
+        "meaning": "Roda-roda sepeda terbuat dari karet"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda"]
+  },
+  {
+    "id": "w-1smp-p274-1",
+    "word": "غَمَزَ - يَغْمِزُ",
+    "latin": "Ghamaza - Yaghmizu",
+    "meaning": "Berkedip / mengedipkan mata",
+    "sentences": [
+      {
+        "id": "s-1smp-p274-1",
+        "sentence": "غَمَزَ الْوَلَدُ بِعَيْنِهِ مَازِحًا",
+        "latin": "Ghamaza-waladu bi-'aynihi maazihan",
+        "meaning": "Anak itu berkedip mata sambil bercanda"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p274-2",
+    "word": "جِلْدٌ",
+    "latin": "Jildun",
+    "meaning": "Kulit",
+    "sentences": [
+      {
+        "id": "s-1smp-p274-2",
+        "sentence": "هَذِهِ الْحَقِيبَةُ مَصْنُوعَةٌ مِنَ الْجِلْدِ",
+        "latin": "Haadzihil-haqiibatu mashnuu'atun minal-jildi",
+        "meaning": "Tas ini terbuat dari kulit"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda", "pakaian"]
+  },
+  {
+    "id": "w-1smp-p274-3",
+    "word": "وَرَقٌ",
+    "latin": "Waraqun",
+    "meaning": "Kertas",
+    "sentences": [
+      {
+        "id": "s-1smp-p274-3",
+        "sentence": "أَكْتُبُ الدَّرْسَ عَلَى الْوَرَقِ",
+        "latin": "Aktubud-darsa 'alal-waraqi",
+        "meaning": "Saya menulis pelajaran di atas kertas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p275-1",
+    "word": "عَضَّ - يَعَضُّ",
+    "latin": "'Adhdha - Ya'adhdhu",
+    "meaning": "Menggigit",
+    "sentences": [
+      {
+        "id": "s-1smp-p275-1",
+        "sentence": "عَضَّ الْكَلْبُ عَلَى الْعَظْمِ",
+        "latin": "'Adhdhal-kalbu 'alal-'azhmi",
+        "meaning": "Anjing itu menggigit tulang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p275-2",
+    "word": "شِطْرَنْجٌ",
+    "latin": "Syithranjun",
+    "meaning": "Catur",
+    "sentences": [
+      {
+        "id": "s-1smp-p275-2",
+        "sentence": "يَلْعَبُ أَخِي الشِّطْرَنْجَ مَعَ جَدِّي",
+        "latin": "Yal'abu akhisy-syithranja ma'a jaddii",
+        "meaning": "Kakakku bermain catur bersama kakekku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["olahraga", "keluarga"]
+  },
+  {
+    "id": "w-1smp-p275-3",
+    "word": "طَائِرَةٌ وَرَقِيَّةٌ",
+    "latin": "Thaa'iratun Waraqiyyatun",
+    "meaning": "Layang-layang",
+    "sentences": [
+      {
+        "id": "s-1smp-p275-3",
+        "sentence": "يُطَيِّرُ الْأَوْلَادُ الطَّائِرَةَ الْوَرَقِيَّةَ فِي الْحَقْلِ",
+        "latin": "Yuthayyirul-awlaadut-thaa'iratal-waraqiyyata fil-haqli",
+        "meaning": "Anak-anak menerbangkan layang-layang di ladang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p276-1",
+    "word": "خَدَشَ - يَخْدِشُ",
+    "latin": "Khadasya - Yakhdisyu",
+    "meaning": "Mencakar / menggores",
+    "sentences": [
+      {
+        "id": "s-1smp-p276-1",
+        "sentence": "خَدَشَتِ الْقِطَّةُ يَدَ الْوَلَدِ",
+        "latin": "Khadasyatil-qitthatu yadal-waladi",
+        "meaning": "Kucing itu mencakar tangan anak itu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p276-2",
+    "word": "دَوَّامَةٌ",
+    "latin": "Dawwaamatun",
+    "meaning": "Gasing",
+    "sentences": [
+      {
+        "id": "s-1smp-p276-2",
+        "sentence": "تَدُورُ الدَّوَّامَةُ بِسُرْعَةٍ عَلَى الْأَرْضِ",
+        "latin": "Taduurud-dawwaamatu bi-sur'atin 'alal-ardhi",
+        "meaning": "Gasing berputar cepat di atas tanah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p276-3",
+    "word": "بِلْيَاردُو",
+    "latin": "Bilyaarduu",
+    "meaning": "Bola bekel / kelereng",
+    "sentences": [
+      {
+        "id": "s-1smp-p276-3",
+        "sentence": "يَلْعَبُ الْأَطْفَالُ بِالْبِلْيَارْدُو فِي الْفِنَاءِ",
+        "latin": "Yal'abul-athfaalu bil-bilyaarduu fil-finaa'i",
+        "meaning": "Anak-anak bermain kelereng di halaman"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p277-1",
+    "word": "اِرْتَجَفَ - يَرْتَجِفُ",
+    "latin": "Irtajafa - Yartajifu",
+    "meaning": "Menggigil / gemetar",
+    "sentences": [
+      {
+        "id": "s-1smp-p277-1",
+        "sentence": "ارْتَجَفَ الطِّفْلُ مِنَ الْبَرْدِ",
+        "latin": "Irtajafat-tiflu minal-bardi",
+        "meaning": "Anak kecil itu menggigil karena dingin"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["cuaca", "kesehatan"]
+  },
+  {
+    "id": "w-1smp-p277-2",
+    "word": "مِزْلَاجٌ",
+    "latin": "Mizlaajun",
+    "meaning": "Papan luncur / skateboard",
+    "sentences": [
+      {
+        "id": "s-1smp-p277-2",
+        "sentence": "يَتَزَلَّجُ الْوَلَدُ بِالْمِزْلَاجِ فِي الشَّارِعِ",
+        "latin": "Yatazallaju-waladu bil-mizlaaji fisy-syaari'i",
+        "meaning": "Anak itu bermain skateboard di jalan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p277-3",
+    "word": "سِبَاحَةٌ",
+    "latin": "Sibaahatun",
+    "meaning": "Renang (olahraga)",
+    "sentences": [
+      {
+        "id": "s-1smp-p277-3",
+        "sentence": "السِّبَاحَةُ رِيَاضَةٌ مُفِيدَةٌ لِلْجِسْمِ",
+        "latin": "As-sibaahatu riyaadhatun mufiidatun lil-jismi",
+        "meaning": "Renang adalah olahraga yang bermanfaat untuk tubuh"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["olahraga", "kesehatan"]
+  },
+  {
+    "id": "w-1smp-p278-1",
+    "word": "أَرْضَعَتْ - تُرْضِعُ",
+    "latin": "Ardha'at - Turdhi'u",
+    "meaning": "Menyusui",
+    "sentences": [
+      {
+        "id": "s-1smp-p278-1",
+        "sentence": "تُرْضِعُ الْأُمُّ طِفْلَهَا الرَّضِيعَ",
+        "latin": "Turdhi'ul-ummu thiflahar-radhii'a",
+        "meaning": "Ibu itu menyusui bayinya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p278-2",
+    "word": "جَرْيٌ",
+    "latin": "Jaryun",
+    "meaning": "Lari (olahraga)",
+    "sentences": [
+      {
+        "id": "s-1smp-p278-2",
+        "sentence": "الْجَرْيُ كُلَّ صَبَاحٍ يُقَوِّي الْجِسْمَ",
+        "latin": "Al-jaryu kulla shabaahin yuqawwil-jisma",
+        "meaning": "Berlari setiap pagi menguatkan tubuh"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["olahraga", "kesehatan"]
+  },
+  {
+    "id": "w-1smp-p278-3",
+    "word": "مُصَارَعَةٌ",
+    "latin": "Mushaara'atun",
+    "meaning": "Gulat",
+    "sentences": [
+      {
+        "id": "s-1smp-p278-3",
+        "sentence": "شَاهَدْنَا مُبَارَاةَ الْمُصَارَعَةِ فِي التِّلْفَازِ",
+        "latin": "Syaahadnaa mubaaratal-mushaara'ati fit-tilfaazi",
+        "meaning": "Kami menyaksikan pertandingan gulat di televisi"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p279-1",
+    "word": "هَدْهَدَ - يُهَدْهِدُ",
+    "latin": "Hadhada - Yuhadhidu",
+    "meaning": "Menimang (bayi)",
+    "sentences": [
+      {
+        "id": "s-1smp-p279-1",
+        "sentence": "هَدْهَدَتِ الْأُمُّ طِفْلَهَا لِيَنَامَ",
+        "latin": "Hadhadatil-ummu thiflahaa li-yanaama",
+        "meaning": "Ibu itu menimang anaknya agar tidur"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p279-2",
+    "word": "مُلَاكَمَةٌ",
+    "latin": "Mulaakamatun",
+    "meaning": "Tinju",
+    "sentences": [
+      {
+        "id": "s-1smp-p279-2",
+        "sentence": "الْمُلَاكَمَةُ رِيَاضَةٌ تَحْتَاجُ إِلَى قُوَّةٍ",
+        "latin": "Al-mulaakamatu riyaadhatun tahtaaju ilaa quwwatin",
+        "meaning": "Tinju adalah olahraga yang membutuhkan kekuatan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p279-3",
+    "word": "حَاسُوبٌ لَوْحِيٌّ",
+    "latin": "Haasuubun Lawhiyyun",
+    "meaning": "Tablet / komputer tablet",
+    "sentences": [
+      {
+        "id": "s-1smp-p279-3",
+        "sentence": "يَسْتَخْدِمُ أَخِي الْحَاسُوبَ اللَّوْحِيَّ لِلدِّرَاسَةِ",
+        "latin": "Yastakhdimu akhil-haasuubal-lawhiyya lid-diraasati",
+        "meaning": "Kakakku menggunakan tablet untuk belajar"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["teknologi", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p280-1",
+    "word": "أَبْحَرَتْ - تُبْحِرُ",
+    "latin": "Abharat - Tubhiru",
+    "meaning": "Berlayar",
+    "sentences": [
+      {
+        "id": "s-1smp-p280-1",
+        "sentence": "أَبْحَرَتِ السَّفِينَةُ نَحْوَ الْجَزِيرَةِ",
+        "latin": "Abharatis-safiinatu nahwal-jaziirati",
+        "meaning": "Kapal itu berlayar menuju pulau"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["transportasi"]
+  },
+  {
+    "id": "w-1smp-p280-2",
+    "word": "كَامِيرَا",
+    "latin": "Kaamiiraa",
+    "meaning": "Kamera",
+    "sentences": [
+      {
+        "id": "s-1smp-p280-2",
+        "sentence": "صَوَّرَ أَبِي الْحَفْلَةَ بِالْكَامِيرَا",
+        "latin": "Shawwara abil-haflata bil-kaamiiraa",
+        "meaning": "Ayahku memotret acara itu dengan kamera"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["teknologi"]
+  },
+  {
+    "id": "w-1smp-p280-3",
+    "word": "سَمَّاعَةٌ",
+    "latin": "Sammaa'atun",
+    "meaning": "Headphone / speaker",
+    "sentences": [
+      {
+        "id": "s-1smp-p280-3",
+        "sentence": "أَسْتَمِعُ إِلَى الدَّرْسِ بِالسَّمَّاعَةِ",
+        "latin": "Astami'u ilad-darsi bis-sammaa'ati",
+        "meaning": "Saya mendengarkan pelajaran dengan headphone"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["teknologi", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p281-1",
+    "word": "أَقْلَعَتِ - تُقْلِعُ",
+    "latin": "Aqla'ati - Tuqli'u",
+    "meaning": "Lepas landas",
+    "sentences": [
+      {
+        "id": "s-1smp-p281-1",
+        "sentence": "أَقْلَعَتِ الطَّائِرَةُ فِي مَوْعِدِهَا",
+        "latin": "Aqla'atit-thaa'iratu fii maw'idihaa",
+        "meaning": "Pesawat itu lepas landas tepat waktu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["transportasi"]
+  },
+  {
+    "id": "w-1smp-p281-2",
+    "word": "طَابِعَةٌ",
+    "latin": "Thaabi'atun",
+    "meaning": "Printer",
+    "sentences": [
+      {
+        "id": "s-1smp-p281-2",
+        "sentence": "طَبَعْتُ الْبَحْثَ بِالطَّابِعَةِ",
+        "latin": "Thaba'tul-bahtsa bith-thaabi'ati",
+        "meaning": "Saya mencetak makalah dengan printer"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["teknologi", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p281-3",
+    "word": "لَوْحَةُ مَفَاتِيحَ",
+    "latin": "Lawhatu Mafaatiiha",
+    "meaning": "Keyboard",
+    "sentences": [
+      {
+        "id": "s-1smp-p281-3",
+        "sentence": "أَكْتُبُ عَلَى لَوْحَةِ الْمَفَاتِيحِ بِسُرْعَةٍ",
+        "latin": "Aktubu 'alaa lawhatil-mafaatiihi bi-sur'atin",
+        "meaning": "Saya mengetik di keyboard dengan cepat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["teknologi"]
+  },
+  {
+    "id": "w-1smp-p282-1",
+    "word": "خَفَقَ - يَخْفُقُ",
+    "latin": "Khafaqa - Yakhfuqu",
+    "meaning": "Mengocok",
+    "sentences": [
+      {
+        "id": "s-1smp-p282-1",
+        "sentence": "تَخْفِقُ أُمِّي الْبَيْضَ لِصُنْعِ الْكَعْكِ",
+        "latin": "Takhfiqu ummil-baydha li-shun'il-ka'ki",
+        "meaning": "Ibuku mengocok telur untuk membuat kue"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p282-2",
+    "word": "نِصْفٌ",
+    "latin": "Nishfun",
+    "meaning": "Setengah",
+    "sentences": [
+      {
+        "id": "s-1smp-p282-2",
+        "sentence": "أَكَلْتُ نِصْفَ التُّفَّاحَةِ",
+        "latin": "Akaltu nishfat-tuffaahati",
+        "meaning": "Saya makan setengah apel"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "makanan"]
+  },
+  {
+    "id": "w-1smp-p282-3",
+    "word": "رُبْعٌ",
+    "latin": "Rub'un",
+    "meaning": "Seperempat",
+    "sentences": [
+      {
+        "id": "s-1smp-p282-3",
+        "sentence": "قَرَأْتُ رُبْعَ الْكِتَابِ",
+        "latin": "Qara'tu rub'al-kitaabi",
+        "meaning": "Saya membaca seperempat buku itu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p283-1",
+    "word": "عَجَنَ - يَعْجِنُ",
+    "latin": "'Ajana - Ya'jinu",
+    "meaning": "Menguleni (adonan)",
+    "sentences": [
+      {
+        "id": "s-1smp-p283-1",
+        "sentence": "يَعْجِنُ الْخَبَّازُ الدَّقِيقَ صَبَاحًا",
+        "latin": "Ya'jinul-khabbaazud-daqiiqa shabaahan",
+        "meaning": "Tukang roti menguleni tepung di pagi hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p283-2",
+    "word": "ثُلُثٌ",
+    "latin": "Tsulutsun",
+    "meaning": "Sepertiga",
+    "sentences": [
+      {
+        "id": "s-1smp-p283-2",
+        "sentence": "قَامَ ثُلُثُ الطُّلَّابِ بِالْإِجَابَةِ الصَّحِيحَةِ",
+        "latin": "Qaama tsuluts-tullaabi bil-ijaabatish-shahiihati",
+        "meaning": "Sepertiga siswa menjawab dengan benar"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p283-3",
+    "word": "طُولٌ",
+    "latin": "Thuulun",
+    "meaning": "Panjang (ukuran)",
+    "sentences": [
+      {
+        "id": "s-1smp-p283-3",
+        "sentence": "طُولُ هَذَا الشَّارِعِ كِيلُومِتْرٌ وَاحِدٌ",
+        "latin": "Thuulu haadzasy-syaari'i kiiluumitrun waahidun",
+        "meaning": "Panjang jalan ini satu kilometer"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p284-1",
+    "word": "حَمَّصَ - يُحَمِّصُ",
+    "latin": "Hammasha - Yuhammishu",
+    "meaning": "Menyangrai / memanggang",
+    "sentences": [
+      {
+        "id": "s-1smp-p284-1",
+        "sentence": "حَمَّصْتُ الْخُبْزَ فِي الْفُطُورِ",
+        "latin": "Hammashtul-khubza fil-futhuuri",
+        "meaning": "Saya memanggang roti di waktu sarapan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p284-2",
+    "word": "عَرْضٌ",
+    "latin": "'Ardhun",
+    "meaning": "Lebar",
+    "sentences": [
+      {
+        "id": "s-1smp-p284-2",
+        "sentence": "عَرْضُ الْغُرْفَةِ ثَلَاثَةُ أَمْتَارٍ",
+        "latin": "'Ardhul-ghurfati tsalaatsatu amtaarin",
+        "meaning": "Lebar kamar itu tiga meter"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p284-3",
+    "word": "اِرْتِفَاعٌ",
+    "latin": "Irtifaa'un",
+    "meaning": "Ketinggian",
+    "sentences": [
+      {
+        "id": "s-1smp-p284-3",
+        "sentence": "ارْتِفَاعُ الْجَبَلِ كَبِيرٌ جِدًّا",
+        "latin": "Irtifaa'ul-jabali kabiirun jiddan",
+        "meaning": "Ketinggian gunung itu sangat besar"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "alam"]
+  },
+  {
+    "id": "w-1smp-p285-1",
+    "word": "غَلَى - يَغْلِي",
+    "latin": "Ghalaa - Yaghlii",
+    "meaning": "Mendidih",
+    "sentences": [
+      {
+        "id": "s-1smp-p285-1",
+        "sentence": "يَغْلِي الْمَاءُ فِي الْإِبْرِيقِ",
+        "latin": "Yaghlil-maa'u fil-ibriiqi",
+        "meaning": "Air mendidih di dalam teko"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p285-2",
+    "word": "عُمْقٌ",
+    "latin": "'Umqun",
+    "meaning": "Kedalaman",
+    "sentences": [
+      {
+        "id": "s-1smp-p285-2",
+        "sentence": "عُمْقُ الْبُحَيْرَةِ يَخْتَلِفُ مِنْ مَكَانٍ إِلَى آخَرَ",
+        "latin": "'Umqul-buhayrati yakhtalifu min makaanin ilaa aakhara",
+        "meaning": "Kedalaman danau itu berbeda dari satu tempat ke tempat lain"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "alam"]
+  },
+  {
+    "id": "w-1smp-p285-3",
+    "word": "وَزْنٌ",
+    "latin": "Waznun",
+    "meaning": "Berat",
+    "sentences": [
+      {
+        "id": "s-1smp-p285-3",
+        "sentence": "وَزْنُ هَذِهِ الْحَقِيبَةِ ثَقِيلٌ",
+        "latin": "Waznu haadzihil-haqiibati tsaqiilun",
+        "meaning": "Berat tas ini berat sekali"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p286-1",
+    "word": "تَدَرَّبَ - يَتَدَرَّبُ",
+    "latin": "Tadarraba - Yatadarrabu",
+    "meaning": "Berlatih",
+    "sentences": [
+      {
+        "id": "s-1smp-p286-1",
+        "sentence": "تَدَرَّبَ اللَّاعِبُونَ فِي الْمَلْعَبِ",
+        "latin": "Tadarraba-laa'ibuuna fil-mal'abi",
+        "meaning": "Para pemain berlatih di lapangan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p286-2",
+    "word": "حَجْمٌ",
+    "latin": "Hajmun",
+    "meaning": "Ukuran / volume",
+    "sentences": [
+      {
+        "id": "s-1smp-p286-2",
+        "sentence": "حَجْمُ هَذَا الصُّنْدُوقِ كَبِيرٌ",
+        "latin": "Hajmu haadzash-shunduuqi kabiirun",
+        "meaning": "Ukuran kotak ini besar"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p286-3",
+    "word": "قُوَّةٌ",
+    "latin": "Quwwatun",
+    "meaning": "Kekuatan",
+    "sentences": [
+      {
+        "id": "s-1smp-p286-3",
+        "sentence": "قُوَّةُ الْإِيمَانِ تُعِينُ عَلَى الصَّعَابِ",
+        "latin": "Quwwatul-iimaani tu'iinu 'alash-shi'aabi",
+        "meaning": "Kekuatan iman membantu menghadapi kesulitan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["ibadah", "akhlak"]
+  },
+  {
+    "id": "w-1smp-p287-1",
+    "word": "حَاوَلَ - يُحَاوِلُ",
+    "latin": "Haawala - Yuhaawilu",
+    "meaning": "Mencoba",
+    "sentences": [
+      {
+        "id": "s-1smp-p287-1",
+        "sentence": "حَاوَلْتُ حَلَّ الْمَسْأَلَةِ مَرَّاتٍ عِدَّةً",
+        "latin": "Haawaltu halla-mas'alati marraatin 'iddatan",
+        "meaning": "Saya mencoba menyelesaikan soal itu beberapa kali"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p287-2",
+    "word": "ضَعْفٌ",
+    "latin": "Dha'fun",
+    "meaning": "Kelemahan",
+    "sentences": [
+      {
+        "id": "s-1smp-p287-2",
+        "sentence": "شَعَرَ الْمَرِيضُ بِالضَّعْفِ بَعْدَ الْمَرَضِ",
+        "latin": "Sya'aral-mariidhu bidh-dhu'fi ba'dal-maradhi",
+        "meaning": "Orang sakit itu merasa lemah setelah sakit"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kesehatan"]
+  },
+  {
+    "id": "w-1smp-p287-3",
+    "word": "حِكْمَةٌ",
+    "latin": "Hikmatun",
+    "meaning": "Kebijaksanaan",
+    "sentences": [
+      {
+        "id": "s-1smp-p287-3",
+        "sentence": "فِي كُلِّ حَادِثَةٍ حِكْمَةٌ لِمَنْ تَدَبَّرَ",
+        "latin": "Fii kulli haaditsatin hikmatun li-man tadabbara",
+        "meaning": "Dalam setiap peristiwa ada hikmah bagi yang merenungkannya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["ibadah", "akhlak"]
+  },
+  {
+    "id": "w-1smp-p288-1",
+    "word": "فَشِلَ - يَفْشَلُ",
+    "latin": "Fasyila - Yafsyalu",
+    "meaning": "Gagal",
+    "sentences": [
+      {
+        "id": "s-1smp-p288-1",
+        "sentence": "فَشِلَ الْفَرِيقُ فِي الْمُبَارَاةِ الْأُولَى",
+        "latin": "Fasyila-fariiqu fil-mubaaratil-uulaa",
+        "meaning": "Tim itu gagal di pertandingan pertama"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p288-2",
+    "word": "يَمِينٌ",
+    "latin": "Yamiinun",
+    "meaning": "Kanan",
+    "sentences": [
+      {
+        "id": "s-1smp-p288-2",
+        "sentence": "أَكْتُبُ بِيَدِي الْيَمِينِ",
+        "latin": "Aktubu bi-yadiil-yamiini",
+        "meaning": "Saya menulis dengan tangan kananku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh", "akademik"]
+  },
+  {
+    "id": "w-1smp-p288-3",
+    "word": "يَسَارٌ",
+    "latin": "Yasaarun",
+    "meaning": "Kiri",
+    "sentences": [
+      {
+        "id": "s-1smp-p288-3",
+        "sentence": "أَحْمِلُ الْحَقِيبَةَ بِيَدِي الْيَسَارِ",
+        "latin": "Ahmilul-haqiibata bi-yadiil-yasaari",
+        "meaning": "Saya membawa tas dengan tangan kiriku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["tubuh", "akademik"]
+  },
+  {
+    "id": "w-1smp-p289-1",
+    "word": "تَصَالَحَ - يَتَصَالَحُ",
+    "latin": "Tashaalaha - Yatashaalahu",
+    "meaning": "Berdamai / berbaikan",
+    "sentences": [
+      {
+        "id": "s-1smp-p289-1",
+        "sentence": "تَصَالَحَ الصَّدِيقَانِ بَعْدَ الْخِلَافِ",
+        "latin": "Tashaalaha-shadiiqaani ba'dal-khilaafi",
+        "meaning": "Kedua sahabat itu berbaikan setelah perselisihan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sosial", "akhlak"]
+  },
+  {
+    "id": "w-1smp-p289-2",
+    "word": "أَمَامٌ",
+    "latin": "Amaamun",
+    "meaning": "Depan",
+    "sentences": [
+      {
+        "id": "s-1smp-p289-2",
+        "sentence": "جَلَسَ الطَّالِبُ أَمَامَ الْمُعَلِّمِ",
+        "latin": "Jalasa-thaalibu amaamal-mu'allimi",
+        "meaning": "Siswa itu duduk di depan guru"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "akademik"]
+  },
+  {
+    "id": "w-1smp-p289-3",
+    "word": "خَلْفٌ",
+    "latin": "Khalfun",
+    "meaning": "Belakang",
+    "sentences": [
+      {
+        "id": "s-1smp-p289-3",
+        "sentence": "اخْتَبَأَ الْقِطُّ خَلْفَ الْبَابِ",
+        "latin": "Ikhtaba'al-qithu khalfal-baabi",
+        "meaning": "Kucing itu bersembunyi di belakang pintu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p290-1",
+    "word": "تَشَاجَرَ - يَتَشَاجَرُ",
+    "latin": "Tasyaajara - Yatasyaajaru",
+    "meaning": "Bertengkar",
+    "sentences": [
+      {
+        "id": "s-1smp-p290-1",
+        "sentence": "تَشَاجَرَ الْأَخَوَانِ عَلَى اللُّعْبَةِ",
+        "latin": "Tasyaajara-akhawaani 'alal-lu'bati",
+        "meaning": "Kedua saudara itu bertengkar karena mainan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p290-2",
+    "word": "وَسَطٌ",
+    "latin": "Wasathun",
+    "meaning": "Tengah",
+    "sentences": [
+      {
+        "id": "s-1smp-p290-2",
+        "sentence": "وَقَفَ الْمُعَلِّمُ وَسَطَ الْفَصْلِ",
+        "latin": "Waqafal-mu'allimu wasathal-fashli",
+        "meaning": "Guru itu berdiri di tengah kelas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "akademik"]
+  },
+  {
+    "id": "w-1smp-p290-3",
+    "word": "بَيْنَ",
+    "latin": "Bayna",
+    "meaning": "Antara",
+    "sentences": [
+      {
+        "id": "s-1smp-p290-3",
+        "sentence": "جَلَسْتُ بَيْنَ صَدِيقَيَّ",
+        "latin": "Jalastu bayna shadiiqayya",
+        "meaning": "Saya duduk di antara kedua temanku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "sosial"]
+  },
+  {
+    "id": "w-1smp-p291-1",
+    "word": "اِخْتَلَسَ - يَخْتَلِسُ النَّظَرَ",
+    "latin": "Ikhtalasa - Yakhtalisun-nazhara",
+    "meaning": "Mengintip",
+    "sentences": [
+      {
+        "id": "s-1smp-p291-1",
+        "sentence": "اخْتَلَسَ الْوَلَدُ النَّظَرَ إِلَى الْهَدِيَّةِ",
+        "latin": "Ikhtalasa-waladun-nazhara ilal-hadiyyati",
+        "meaning": "Anak itu mengintip melihat hadiah tersebut"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p291-2",
+    "word": "جَانِبٌ",
+    "latin": "Jaanibun",
+    "meaning": "Sisi / samping",
+    "sentences": [
+      {
+        "id": "s-1smp-p291-2",
+        "sentence": "وَقَفَ الطَّالِبُ إِلَى جَانِبِ الْبَابِ",
+        "latin": "Waqafa-thaalibu ilaa jaanibil-baabi",
+        "meaning": "Siswa itu berdiri di sisi pintu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p291-3",
+    "word": "زُبْدَةٌ",
+    "latin": "Zubdatun",
+    "meaning": "Mentega",
+    "sentences": [
+      {
+        "id": "s-1smp-p291-3",
+        "sentence": "وَضَعْتُ الزُّبْدَةَ عَلَى الْخُبْزِ",
+        "latin": "Wadha'tuz-zubdata 'alal-khubzi",
+        "meaning": "Saya mengoleskan mentega di atas roti"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan", "dapur"]
+  },
+  {
+    "id": "w-1smp-p292-1",
+    "word": "اِرْتَاحَ - يَرْتَاحُ",
+    "latin": "Irtaaha - Yartaahu",
+    "meaning": "Beristirahat / merasa lega",
+    "sentences": [
+      {
+        "id": "s-1smp-p292-1",
+        "sentence": "ارْتَاحَ الْمُسَافِرُ بَعْدَ رِحْلَةٍ طَوِيلَةٍ",
+        "latin": "Irtaaha-musaafiru ba'da rihlatin thawiilatin",
+        "meaning": "Musafir itu beristirahat setelah perjalanan panjang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["aktivitas"]
+  },
+  {
+    "id": "w-1smp-p292-2",
+    "word": "لَبَنٌ زَبَادِي",
+    "latin": "Labanun Zabaadii",
+    "meaning": "Yogurt",
+    "sentences": [
+      {
+        "id": "s-1smp-p292-2",
+        "sentence": "أَشْرَبُ لَبَنَ الزَّبَادِي بَعْدَ الْغَدَاءِ",
+        "latin": "Asyrabu labanaz-zabaadii ba'dal-ghadaa'i",
+        "meaning": "Saya minum yogurt setelah makan siang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan"]
+  },
+  {
+    "id": "w-1smp-p292-3",
+    "word": "كَعْكَةٌ",
+    "latin": "Ka'katun",
+    "meaning": "Kue",
+    "sentences": [
+      {
+        "id": "s-1smp-p292-3",
+        "sentence": "صَنَعَتْ أُمِّي كَعْكَةً لِعِيدِ مِيلَادِي",
+        "latin": "Shana'at ummii ka'katan li-'iidi miilaadii",
+        "meaning": "Ibuku membuat kue untuk hari ulang tahunku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan", "dapur"]
+  },
+  {
+    "id": "w-1smp-p293-1",
+    "word": "اِسْتَرْخَى - يَسْتَرْخِي",
+    "latin": "Istarkhaa - Yastarkhii",
+    "meaning": "Bersantai",
+    "sentences": [
+      {
+        "id": "s-1smp-p293-1",
+        "sentence": "يَسْتَرْخِي أَبِي عَلَى الْأَرِيكَةِ مَسَاءً",
+        "latin": "Yastarkhii abii 'alal-ariikati masaa'an",
+        "meaning": "Ayahku bersantai di sofa pada sore hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["rumah"]
+  },
+  {
+    "id": "w-1smp-p293-2",
+    "word": "بِسْكَوِيتٌ",
+    "latin": "Biskawiitun",
+    "meaning": "Biskuit",
+    "sentences": [
+      {
+        "id": "s-1smp-p293-2",
+        "sentence": "أَحْمِلُ عُلْبَةَ بِسْكَوِيتٍ فِي حَقِيبَتِي",
+        "latin": "Ahmilu 'ulbata biskawiitin fii haqiibatii",
+        "meaning": "Saya membawa sekotak biskuit di dalam tasku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan"]
+  },
+  {
+    "id": "w-1smp-p293-3",
+    "word": "مُرَبَّى",
+    "latin": "Murabbaa",
+    "meaning": "Selai",
+    "sentences": [
+      {
+        "id": "s-1smp-p293-3",
+        "sentence": "أَضَعُ الْمُرَبَّى عَلَى الْخُبْزِ فِي الصَّبَاحِ",
+        "latin": "Adha'ul-murabbaa 'alal-khubzi fis-shabaahi",
+        "meaning": "Saya mengoleskan selai di atas roti di pagi hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan", "dapur"]
+  },
+  {
+    "id": "w-1smp-p294-1",
+    "word": "اِنْدَمَجَ - يَنْدَمِجُ",
+    "latin": "Indamaja - Yandamiju",
+    "meaning": "Berbaur",
+    "sentences": [
+      {
+        "id": "s-1smp-p294-1",
+        "sentence": "انْدَمَجَ الطَّالِبُ الْجَدِيدُ مَعَ زُمَلَائِهِ",
+        "latin": "Indamaja-thaalibul-jadiidu ma'a zumalaa'ihi",
+        "meaning": "Siswa baru itu berbaur dengan teman-temannya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah", "sosial"]
+  },
+  {
+    "id": "w-1smp-p294-2",
+    "word": "فُلْفُلٌ",
+    "latin": "Fulfulun",
+    "meaning": "Merica",
+    "sentences": [
+      {
+        "id": "s-1smp-p294-2",
+        "sentence": "تَضَعُ أُمِّي الْفُلْفُلَ فِي الطَّعَامِ",
+        "latin": "Tadha'u ummil-fulfula fit-tha'aami",
+        "meaning": "Ibuku menaruh merica di dalam makanan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p294-3",
+    "word": "كُرْكُمٌ",
+    "latin": "Kurkumun",
+    "meaning": "Kunyit",
+    "sentences": [
+      {
+        "id": "s-1smp-p294-3",
+        "sentence": "يُسْتَخْدَمُ الْكُرْكُمُ فِي طَبْخِ الْأُرْزِ",
+        "latin": "Yustakhdamul-kurkumu fii thabkhil-urzi",
+        "meaning": "Kunyit digunakan dalam memasak nasi"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p295-1",
+    "word": "تَعَجَّبَ - يَتَعَجَّبُ",
+    "latin": "Ta'ajjaba - Yata'ajjabu",
+    "meaning": "Heran",
+    "sentences": [
+      {
+        "id": "s-1smp-p295-1",
+        "sentence": "تَعَجَّبْتُ مِنْ سُرْعَةِ الْحِصَانِ",
+        "latin": "Ta'ajjabtu min sur'atil-hishaani",
+        "meaning": "Saya heran melihat kecepatan kuda itu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["emosi"]
+  },
+  {
+    "id": "w-1smp-p295-2",
+    "word": "زَنْجَبِيلٌ",
+    "latin": "Zanjabiilun",
+    "meaning": "Jahe",
+    "sentences": [
+      {
+        "id": "s-1smp-p295-2",
+        "sentence": "أَشْرَبُ شَايَ الزَّنْجَبِيلِ عِنْدَ الْبَرْدِ",
+        "latin": "Asyrabu syaayaz-zanjabiili 'indal-bardi",
+        "meaning": "Saya minum teh jahe saat cuaca dingin"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur", "kesehatan"]
+  },
+  {
+    "id": "w-1smp-p295-3",
+    "word": "قِرْفَةٌ",
+    "latin": "Qirfatun",
+    "meaning": "Kayu manis",
+    "sentences": [
+      {
+        "id": "s-1smp-p295-3",
+        "sentence": "رَائِحَةُ الْقِرْفَةِ جَمِيلَةٌ فِي الطَّعَامِ",
+        "latin": "Raa'ihatul-qirfati jamiilatun fit-tha'aami",
+        "meaning": "Aroma kayu manis harum dalam makanan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p296-1",
+    "word": "اِبْتَهَجَ - يَبْتَهِجُ",
+    "latin": "Ibtahaja - Yabtahiju",
+    "meaning": "Bergembira",
+    "sentences": [
+      {
+        "id": "s-1smp-p296-1",
+        "sentence": "ابْتَهَجَ الْأَطْفَالُ بِالْعِيدِ",
+        "latin": "Ibtahaja-athfaalu bil-'iidi",
+        "meaning": "Anak-anak itu bergembira dengan hari raya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["emosi", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p296-2",
+    "word": "نَخْلَةٌ",
+    "latin": "Nakhlatun",
+    "meaning": "Pohon kurma",
+    "sentences": [
+      {
+        "id": "s-1smp-p296-2",
+        "sentence": "النَّخْلَةُ شَجَرَةٌ مُبَارَكَةٌ فِي بِلَادِ الْعَرَبِ",
+        "latin": "An-nakhlatu syajaratun mubaarakatun fii bilaadil-'arabi",
+        "meaning": "Pohon kurma adalah pohon yang penuh berkah di negeri Arab"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p296-3",
+    "word": "زَيْتُونٌ",
+    "latin": "Zaytuunun",
+    "meaning": "Zaitun",
+    "sentences": [
+      {
+        "id": "s-1smp-p296-3",
+        "sentence": "زَيْتُ الزَّيْتُونِ مُفِيدٌ لِلصِّحَّةِ",
+        "latin": "Zaytuz-zaytuuni mufiidun lish-shihhati",
+        "meaning": "Minyak zaitun bermanfaat bagi kesehatan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan", "kesehatan"]
+  },
+  {
+    "id": "w-1smp-p297-1",
+    "word": "تَحَمَّسَ - يَتَحَمَّسُ",
+    "latin": "Tahammasa - Yatahammasu",
+    "meaning": "Bersemangat",
+    "sentences": [
+      {
+        "id": "s-1smp-p297-1",
+        "sentence": "تَحَمَّسَ الطُّلَّابُ لِلْمُبَارَاةِ",
+        "latin": "Tahammasa-tullaabu lil-mubaaraati",
+        "meaning": "Para siswa bersemangat menghadapi pertandingan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["olahraga", "emosi"]
+  },
+  {
+    "id": "w-1smp-p297-2",
+    "word": "صَنَوْبَرٌ",
+    "latin": "Shanawbarun",
+    "meaning": "Pohon cemara",
+    "sentences": [
+      {
+        "id": "s-1smp-p297-2",
+        "sentence": "يَنْمُو الصَّنَوْبَرُ فِي الْمَنَاطِقِ الْبَارِدَةِ",
+        "latin": "Yanmuush-shanawbaru fil-manaathiqil-baaridati",
+        "meaning": "Pohon cemara tumbuh di daerah yang dingin"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p297-3",
+    "word": "نَبَاتٌ",
+    "latin": "Nabaatun",
+    "meaning": "Tumbuhan",
+    "sentences": [
+      {
+        "id": "s-1smp-p297-3",
+        "sentence": "يَحْتَاجُ النَّبَاتُ إِلَى الْمَاءِ وَالشَّمْسِ",
+        "latin": "Yahtaajun-nabaatu ilal-maa'i wasy-syamsi",
+        "meaning": "Tumbuhan membutuhkan air dan matahari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam", "sains"]
+  },
+  {
+    "id": "w-1smp-p298-1",
+    "word": "يَئِسَ - يَيْأَسُ",
+    "latin": "Ya'isa - Yay'asu",
+    "meaning": "Berputus asa",
+    "sentences": [
+      {
+        "id": "s-1smp-p298-1",
+        "sentence": "لَمْ يَيْأَسِ الطَّالِبُ رَغْمَ الْفَشَلِ",
+        "latin": "Lam yay'asi-thaalibu raghmal-fasyali",
+        "meaning": "Siswa itu tidak berputus asa meskipun gagal"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["motivasi"]
+  },
+  {
+    "id": "w-1smp-p298-2",
+    "word": "جِذْرٌ",
+    "latin": "Jidzrun",
+    "meaning": "Akar",
+    "sentences": [
+      {
+        "id": "s-1smp-p298-2",
+        "sentence": "يَمْتَصُّ جِذْرُ الشَّجَرَةِ الْمَاءَ مِنَ التُّرَابِ",
+        "latin": "Yamtashshu jidzrusy-syajaratil-maa'a minat-turaabi",
+        "meaning": "Akar pohon menyerap air dari tanah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam", "sains"]
+  },
+  {
+    "id": "w-1smp-p298-3",
+    "word": "غُصْنٌ",
+    "latin": "Ghushnun",
+    "meaning": "Ranting",
+    "sentences": [
+      {
+        "id": "s-1smp-p298-3",
+        "sentence": "جَلَسَ الْعُصْفُورُ عَلَى غُصْنِ الشَّجَرَةِ",
+        "latin": "Jalasal-'ushfuuru 'alaa ghushnisy-syajarati",
+        "meaning": "Burung kecil itu hinggap di ranting pohon"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p299-1",
+    "word": "اِطْمَأَنَّ - يَطْمَئِنُّ",
+    "latin": "Ithma'anna - Yathma'innu",
+    "meaning": "Merasa tenang",
+    "sentences": [
+      {
+        "id": "s-1smp-p299-1",
+        "sentence": "اطْمَأَنَّتِ الْأُمُّ بَعْدَ رُؤْيَةِ ابْنِهَا",
+        "latin": "Ithma'annatil-ummu ba'da ru'yati-bnihaa",
+        "meaning": "Ibu itu merasa tenang setelah melihat anaknya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["emosi", "keluarga"]
+  },
+  {
+    "id": "w-1smp-p299-2",
+    "word": "حَبَّةٌ",
+    "latin": "Habbatun",
+    "meaning": "Biji",
+    "sentences": [
+      {
+        "id": "s-1smp-p299-2",
+        "sentence": "زَرَعْتُ حَبَّةَ قَمْحٍ فِي الْحَدِيقَةِ",
+        "latin": "Zara'tu habbata qamhin fil-hadiiqati",
+        "meaning": "Saya menanam sebutir gandum di taman"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pertanian"]
+  },
+  {
+    "id": "w-1smp-p299-3",
+    "word": "قِشْرَةٌ",
+    "latin": "Qisyratun",
+    "meaning": "Kulit (buah/kayu)",
+    "sentences": [
+      {
+        "id": "s-1smp-p299-3",
+        "sentence": "قَشَّرْتُ قِشْرَةَ الْمَوْزِ قَبْلَ الْأَكْلِ",
+        "latin": "Qasysyartu qisyratal-mawzi qablal-akli",
+        "meaning": "Saya mengupas kulit pisang sebelum memakannya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan"]
+  },
+  {
+    "id": "w-1smp-p300-1",
+    "word": "تَوَتَّرَ - يَتَوَتَّرُ",
+    "latin": "Tawattara - Yatawattaru",
+    "meaning": "Merasa tegang",
+    "sentences": [
+      {
+        "id": "s-1smp-p300-1",
+        "sentence": "تَوَتَّرَ الطَّالِبُ قَبْلَ الِامْتِحَانِ",
+        "latin": "Tawattara-thaalibu qablal-imtihaani",
+        "meaning": "Siswa itu merasa tegang sebelum ujian"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["emosi", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p300-2",
+    "word": "مِحْفَظَةٌ",
+    "latin": "Mihfazhatun",
+    "meaning": "Dompet",
+    "sentences": [
+      {
+        "id": "s-1smp-p300-2",
+        "sentence": "وَضَعْتُ نُقُودِي فِي الْمِحْفَظَةِ",
+        "latin": "Wadha'tu nuquudii fil-mihfazhati",
+        "meaning": "Saya meletakkan uangku di dalam dompet"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda"]
+  },
+  {
+    "id": "w-1smp-p300-3",
+    "word": "شَنْطَةٌ",
+    "latin": "Syanthatun",
+    "meaning": "Tas",
+    "sentences": [
+      {
+        "id": "s-1smp-p300-3",
+        "sentence": "حَمَلَتِ الْبِنْتُ شَنْطَةً وَرْدِيَّةً",
+        "latin": "Hamalatil-bintu syanthatan wardiyyatan",
+        "meaning": "Anak perempuan itu membawa tas berwarna merah muda"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda", "pakaian"]
+  },
+  {
+    "id": "w-1smp-p301-1",
+    "word": "اِسْتَغْرَبَ - يَسْتَغْرِبُ",
+    "latin": "Istaghraba - Yastaghribu",
+    "meaning": "Merasa aneh / heran",
+    "sentences": [
+      {
+        "id": "s-1smp-p301-1",
+        "sentence": "اسْتَغْرَبْتُ مِنْ هُدُوءِ الْبَحْرِ",
+        "latin": "Istaghrabtu min huduu'il-bahri",
+        "meaning": "Saya merasa aneh melihat ketenangan laut"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["emosi"]
+  },
+  {
+    "id": "w-1smp-p301-2",
+    "word": "لَصَّاقَةٌ",
+    "latin": "Lashshaaqatun",
+    "meaning": "Stiker",
+    "sentences": [
+      {
+        "id": "s-1smp-p301-2",
+        "sentence": "لَصَقْتُ لَصَّاقَةً عَلَى الدَّفْتَرِ",
+        "latin": "Lashaqtu lashshaaqatan 'alad-daftari",
+        "meaning": "Saya menempelkan stiker di buku tulis"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p301-3",
+    "word": "دَبَّاسَةٌ",
+    "latin": "Dabbaasatun",
+    "meaning": "Stapler",
+    "sentences": [
+      {
+        "id": "s-1smp-p301-3",
+        "sentence": "اسْتَخْدَمَ الطَّالِبُ الدَّبَّاسَةَ لِتَجْمِيعِ الْأَوْرَاقِ",
+        "latin": "Istakhdama-thaalibud-dabbaasata li-tajmii'il-awraaqi",
+        "meaning": "Siswa itu menggunakan stapler untuk menyatukan kertas-kertas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p302-1",
+    "word": "اِبْتَكَرَ - يَبْتَكِرُ",
+    "latin": "Ibtakara - Yabtakiru",
+    "meaning": "Berinovasi / menciptakan",
+    "sentences": [
+      {
+        "id": "s-1smp-p302-1",
+        "sentence": "ابْتَكَرَ الْعَالِمُ آلَةً جَدِيدَةً",
+        "latin": "Ibtakara-'aalimu aalatan jadiidatan",
+        "meaning": "Ilmuwan itu menciptakan alat baru"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sains"]
+  },
+  {
+    "id": "w-1smp-p302-2",
+    "word": "مِشْبَكٌ",
+    "latin": "Misybakun",
+    "meaning": "Penjepit kertas",
+    "sentences": [
+      {
+        "id": "s-1smp-p302-2",
+        "sentence": "جَمَعْتُ الْأَوْرَاقَ بِمِشْبَكٍ",
+        "latin": "Jama'tul-awraaqa bi-misybakin",
+        "meaning": "Saya mengumpulkan kertas-kertas dengan penjepit"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p302-3",
+    "word": "لَوْحَةٌ بَيْضَاءُ",
+    "latin": "Lawhatun Baydhaa'u",
+    "meaning": "Papan tulis putih",
+    "sentences": [
+      {
+        "id": "s-1smp-p302-3",
+        "sentence": "يَكْتُبُ الْأُسْتَاذُ عَلَى اللَّوْحَةِ الْبَيْضَاءِ",
+        "latin": "Yaktubu-ustaadzu 'alal-lawhatil-baydhaa'i",
+        "meaning": "Ustadz menulis di papan tulis putih"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p303-1",
+    "word": "طَوَّرَ - يُطَوِّرُ",
+    "latin": "Thawwara - Yuthawwiru",
+    "meaning": "Mengembangkan",
+    "sentences": [
+      {
+        "id": "s-1smp-p303-1",
+        "sentence": "طَوَّرَ الْمُهَنْدِسُ الْبَرْنَامَجَ",
+        "latin": "Thawwara-muhandisul-barnaamaja",
+        "meaning": "Insinyur itu mengembangkan program tersebut"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["teknologi"]
+  },
+  {
+    "id": "w-1smp-p303-2",
+    "word": "طَبَاشِيرُ",
+    "latin": "Thabaasyiiru",
+    "meaning": "Kapur tulis",
+    "sentences": [
+      {
+        "id": "s-1smp-p303-2",
+        "sentence": "كَسَرَ الْمُعَلِّمُ قِطْعَةَ طَبَاشِيرَ",
+        "latin": "Kasara-mu'allimu qith'ata thabaasyiira",
+        "meaning": "Guru mematahkan sepotong kapur tulis"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p303-3",
+    "word": "حَامِلُ أَقْلَامٍ",
+    "latin": "Haamilu Aqlaamin",
+    "meaning": "Tempat pensil",
+    "sentences": [
+      {
+        "id": "s-1smp-p303-3",
+        "sentence": "أَضَعُ أَقْلَامِي فِي حَامِلِ الْأَقْلَامِ",
+        "latin": "Adha'u aqlaamii fii haamilil-aqlaami",
+        "meaning": "Saya meletakkan pena-penaku di tempat pensil"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p304-1",
+    "word": "حَسَّنَ - يُحَسِّنُ",
+    "latin": "Hassana - Yuhassinu",
+    "meaning": "Memperbaiki / meningkatkan",
+    "sentences": [
+      {
+        "id": "s-1smp-p304-1",
+        "sentence": "حَسَّنَ الطَّالِبُ خَطَّهُ بِالتَّدْرِيبِ",
+        "latin": "Hassana-thaalibu khaththahu bit-tadriibi",
+        "meaning": "Siswa itu memperbaiki tulisan tangannya dengan latihan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p304-2",
+    "word": "بَلَاطٌ",
+    "latin": "Balaathun",
+    "meaning": "Ubin",
+    "sentences": [
+      {
+        "id": "s-1smp-p304-2",
+        "sentence": "الْبَلَاطُ فِي الْمَسْجِدِ نَظِيفٌ وَلَامِعٌ",
+        "latin": "Al-balaathu fil-masjidi nazhiifun wa-laami'un",
+        "meaning": "Ubin di masjid itu bersih dan mengkilap"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["fasilitas"]
+  },
+  {
+    "id": "w-1smp-p304-3",
+    "word": "سِقَالَةٌ",
+    "latin": "Siqaalatun",
+    "meaning": "Perancah",
+    "sentences": [
+      {
+        "id": "s-1smp-p304-3",
+        "sentence": "وَقَفَ الْعَامِلُ عَلَى السِّقَالَةِ لِيَبْنِيَ الْجِدَارَ",
+        "latin": "Waqafal-'aamilu 'alas-siqaalati li-yabniyal-jidaara",
+        "meaning": "Pekerja itu berdiri di atas perancah untuk membangun dinding"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pembangunan"]
+  },
+  {
+    "id": "w-1smp-p305-1",
+    "word": "طَبَّقَ - يُطَبِّقُ",
+    "latin": "Thabbaqa - Yuthabbiqu",
+    "meaning": "Menerapkan",
+    "sentences": [
+      {
+        "id": "s-1smp-p305-1",
+        "sentence": "طَبَّقَ الطَّالِبُ الْقَاعِدَةَ فِي الْجُمْلَةِ",
+        "latin": "Thabbaqa-thaalibul-qaa'idata fil-jumlati",
+        "meaning": "Siswa itu menerapkan kaidah dalam kalimat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p305-2",
+    "word": "مِزْلَاجُ الْبَابِ",
+    "latin": "Mizlaajul-Baabi",
+    "meaning": "Gerendel pintu",
+    "sentences": [
+      {
+        "id": "s-1smp-p305-2",
+        "sentence": "أَغْلَقْتُ مِزْلَاجَ الْبَابِ قَبْلَ النَّوْمِ",
+        "latin": "Aghlaqtu mizlaajal-baabi qablan-nawmi",
+        "meaning": "Saya mengunci gerendel pintu sebelum tidur"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["asrama"]
+  },
+  {
+    "id": "w-1smp-p305-3",
+    "word": "مِفْصَلَةٌ",
+    "latin": "Mifshalatun",
+    "meaning": "Engsel",
+    "sentences": [
+      {
+        "id": "s-1smp-p305-3",
+        "sentence": "مِفْصَلَةُ الْبَابِ تُصْدِرُ صَوْتًا",
+        "latin": "Mifshalatul-baabi tushdiru shawtan",
+        "meaning": "Engsel pintu itu mengeluarkan suara"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda"]
+  },
+  {
+    "id": "w-1smp-p306-1",
+    "word": "اِسْتَعْمَلَ - يَسْتَعْمِلُ",
+    "latin": "Ista'mala - Yasta'milu",
+    "meaning": "Menggunakan / memakai",
+    "sentences": [
+      {
+        "id": "s-1smp-p306-1",
+        "sentence": "اسْتَعْمَلْتُ الْقَامُوسَ لِمَعْرِفَةِ الْمَعْنَى",
+        "latin": "Ista'maltul-qaamuusa li-ma'rifatil-ma'naa",
+        "meaning": "Saya menggunakan kamus untuk mengetahui arti kata"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p306-2",
+    "word": "مِرْوَحَةٌ سَقْفِيَّةٌ",
+    "latin": "Mirwahatun Saqfiyyatun",
+    "meaning": "Kipas langit-langit",
+    "sentences": [
+      {
+        "id": "s-1smp-p306-2",
+        "sentence": "تَدُورُ الْمِرْوَحَةُ السَّقْفِيَّةُ فِي الْفَصْلِ",
+        "latin": "Taduurul-mirwahatus-saqfiyyatu fil-fashli",
+        "meaning": "Kipas langit-langit berputar di dalam kelas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "fasilitas"]
+  },
+  {
+    "id": "w-1smp-p306-3",
+    "word": "غِطَاءٌ",
+    "latin": "Ghithaa'un",
+    "meaning": "Penutup / tudung",
+    "sentences": [
+      {
+        "id": "s-1smp-p306-3",
+        "sentence": "وَضَعْتُ غِطَاءً عَلَى الطَّعَامِ",
+        "latin": "Wadha'tu ghithaa'an 'alat-tha'aami",
+        "meaning": "Saya meletakkan penutup di atas makanan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p307-1",
+    "word": "اِنْتَقَلَ - يَنْتَقِلُ",
+    "latin": "Intaqala - Yantaqilu",
+    "meaning": "Berpindah",
+    "sentences": [
+      {
+        "id": "s-1smp-p307-1",
+        "sentence": "انْتَقَلَتِ الْأُسْرَةُ إِلَى بَيْتٍ جَدِيدٍ",
+        "latin": "Intaqalatil-usratu ilaa baytin jadiidin",
+        "meaning": "Keluarga itu berpindah ke rumah baru"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p307-2",
+    "word": "وِعَاءٌ",
+    "latin": "Wi'aa'un",
+    "meaning": "Wadah",
+    "sentences": [
+      {
+        "id": "s-1smp-p307-2",
+        "sentence": "أَضَعُ الْأُرْزَ فِي وِعَاءٍ كَبِيرٍ",
+        "latin": "Adha'ul-urza fii wi'aa'in kabiirin",
+        "meaning": "Saya menaruh nasi di dalam wadah besar"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p307-3",
+    "word": "حِذَاءٌ رِيَاضِيٌّ",
+    "latin": "Hidzaa'un Riyaadhiyyun",
+    "meaning": "Sepatu olahraga",
+    "sentences": [
+      {
+        "id": "s-1smp-p307-3",
+        "sentence": "أَلْبَسُ حِذَاءً رِيَاضِيًّا عِنْدَ اللَّعِبِ",
+        "latin": "Albasu hidzaa'an riyaadhiyyan 'indal-la'ibi",
+        "meaning": "Saya memakai sepatu olahraga saat bermain"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["olahraga", "pakaian"]
+  },
+  {
+    "id": "w-1smp-p308-1",
+    "word": "اِسْتَقَرَّ - يَسْتَقِرُّ",
+    "latin": "Istaqarra - Yastaqirru",
+    "meaning": "Menetap",
+    "sentences": [
+      {
+        "id": "s-1smp-p308-1",
+        "sentence": "اسْتَقَرَّتِ الْأُسْرَةُ فِي الْقَرْيَةِ",
+        "latin": "Istaqarratil-usratu fil-qaryati",
+        "meaning": "Keluarga itu menetap di desa"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p308-2",
+    "word": "نَعْلٌ",
+    "latin": "Na'lun",
+    "meaning": "Sandal",
+    "sentences": [
+      {
+        "id": "s-1smp-p308-2",
+        "sentence": "أَلْبَسُ النَّعْلَ فِي الْحَمَّامِ",
+        "latin": "Albasun-na'la fil-hammaami",
+        "meaning": "Saya memakai sandal di kamar mandi"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pakaian"]
+  },
+  {
+    "id": "w-1smp-p308-3",
+    "word": "قُفَّازٌ",
+    "latin": "Quffaazun",
+    "meaning": "Sarung tangan",
+    "sentences": [
+      {
+        "id": "s-1smp-p308-3",
+        "sentence": "أَلْبَسُ الْقُفَّازَ فِي الْبَرْدِ",
+        "latin": "Albasul-quffaaza fil-bardi",
+        "meaning": "Saya memakai sarung tangan saat cuaca dingin"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pakaian", "cuaca"]
+  },
+  {
+    "id": "w-1smp-p309-1",
+    "word": "هَاجَرَ - يُهَاجِرُ",
+    "latin": "Haajara - Yuhaajiru",
+    "meaning": "Berhijrah / berpindah negeri",
+    "sentences": [
+      {
+        "id": "s-1smp-p309-1",
+        "sentence": "هَاجَرَ النَّبِيُّ مِنْ مَكَّةَ إِلَى الْمَدِينَةِ",
+        "latin": "Haajaran-nabiyyu min makkata ilal-madiinati",
+        "meaning": "Nabi berhijrah dari Makkah ke Madinah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["ibadah", "sejarah"]
+  },
+  {
+    "id": "w-1smp-p309-2",
+    "word": "وِشَاحٌ",
+    "latin": "Wisyaahun",
+    "meaning": "Syal",
+    "sentences": [
+      {
+        "id": "s-1smp-p309-2",
+        "sentence": "لَفَّتِ الْبِنْتُ الْوِشَاحَ حَوْلَ رَقَبَتِهَا",
+        "latin": "Laffatil-bintul-wisyaaha hawla raqabatihaa",
+        "meaning": "Anak perempuan itu melilitkan syal di lehernya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pakaian"]
+  },
+  {
+    "id": "w-1smp-p309-3",
+    "word": "دَبُّوسٌ",
+    "latin": "Dabbuusun",
+    "meaning": "Peniti / bros",
+    "sentences": [
+      {
+        "id": "s-1smp-p309-3",
+        "sentence": "ثَبَّتَتِ الْمُعَلِّمَةُ الْوَرَقَةَ بِدَبُّوسٍ",
+        "latin": "Tsabbatatil-mu'allimatul-waraqata bi-dabbuusin",
+        "meaning": "Guru itu menempelkan kertas dengan peniti"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p310-1",
+    "word": "عَادَ - يَعُودُ",
+    "latin": "'Aada - Ya'uudu",
+    "meaning": "Kembali",
+    "sentences": [
+      {
+        "id": "s-1smp-p310-1",
+        "sentence": "عَادَ أَبِي مِنَ السَّفَرِ مَسَاءً",
+        "latin": "'Aada abii minas-safari masaa'an",
+        "meaning": "Ayahku kembali dari bepergian pada sore hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p310-2",
+    "word": "إِبْرَةٌ",
+    "latin": "Ibratun",
+    "meaning": "Jarum",
+    "sentences": [
+      {
+        "id": "s-1smp-p310-2",
+        "sentence": "خَاطَتِ الْأُمُّ الثَّوْبَ بِالْإِبْرَةِ وَالْخَيْطِ",
+        "latin": "Khaathatil-ummuts-tsawba bil-ibrati wal-khayti",
+        "meaning": "Ibu menjahit baju dengan jarum dan benang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["rumah"]
+  },
+  {
+    "id": "w-1smp-p310-3",
+    "word": "خَيْطٌ",
+    "latin": "Khaythun",
+    "meaning": "Benang",
+    "sentences": [
+      {
+        "id": "s-1smp-p310-3",
+        "sentence": "رَبَطْتُ الْهَدِيَّةَ بِخَيْطٍ أَحْمَرَ",
+        "latin": "Rabathtul-hadiyyata bi-khaythin ahmara",
+        "meaning": "Saya mengikat hadiah dengan benang merah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda"]
+  },
+  {
+    "id": "w-1smp-p311-1",
+    "word": "اِسْتَعَدَّ - يَسْتَعِدُّ",
+    "latin": "Ista'adda - Yasta'iddu",
+    "meaning": "Bersiap-siap",
+    "sentences": [
+      {
+        "id": "s-1smp-p311-1",
+        "sentence": "اسْتَعَدَّ الطَّالِبُ لِلِامْتِحَانِ",
+        "latin": "Ista'adda-thaalibu lil-imtihaani",
+        "meaning": "Siswa itu bersiap-siap untuk ujian"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p311-2",
+    "word": "غَابَةٌ اسْتِوَائِيَّةٌ",
+    "latin": "Ghaabatun Istiwaa'iyyatun",
+    "meaning": "Hutan tropis",
+    "sentences": [
+      {
+        "id": "s-1smp-p311-2",
+        "sentence": "تَحْتَوِي الْغَابَةُ الِاسْتِوَائِيَّةُ عَلَى حَيَوَانَاتٍ كَثِيرَةٍ",
+        "latin": "Tahtawil-ghaabatul-istiwaa'iyyatu 'alaa hayawaanaatin katsiiratin",
+        "meaning": "Hutan tropis memiliki banyak hewan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p311-3",
+    "word": "فَيَضَانٌ",
+    "latin": "Fayadhaanun",
+    "meaning": "Banjir",
+    "sentences": [
+      {
+        "id": "s-1smp-p311-3",
+        "sentence": "حَدَثَ فَيَضَانٌ كَبِيرٌ بَعْدَ الْمَطَرِ الشَّدِيدِ",
+        "latin": "Hadatsa fayadhaanun kabiirun ba'dal-mathiris-syadiidi",
+        "meaning": "Terjadi banjir besar setelah hujan lebat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["cuaca", "alam"]
+  },
+  {
+    "id": "w-1smp-p312-1",
+    "word": "تَأَخَّرَ - يَتَأَخَّرُ",
+    "latin": "Ta'akhkhara - Yata'akhkharu",
+    "meaning": "Terlambat",
+    "sentences": [
+      {
+        "id": "s-1smp-p312-1",
+        "sentence": "تَأَخَّرَ الْحَافِلَةُ عَنِ الْمَوْعِدِ",
+        "latin": "Ta'akhkharal-haafilatu 'anil-maw'idi",
+        "meaning": "Bus itu terlambat dari jadwalnya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["transportasi"]
+  },
+  {
+    "id": "w-1smp-p312-2",
+    "word": "جَفَافٌ",
+    "latin": "Jafaafun",
+    "meaning": "Kekeringan",
+    "sentences": [
+      {
+        "id": "s-1smp-p312-2",
+        "sentence": "عَانَتِ الْقَرْيَةُ مِنَ الْجَفَافِ فِي الصَّيْفِ",
+        "latin": "'Aanatil-qaryatu minal-jafaafi fish-shayfi",
+        "meaning": "Desa itu menderita kekeringan di musim panas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["cuaca", "alam"]
+  },
+  {
+    "id": "w-1smp-p312-3",
+    "word": "اِنْهِيَارٌ أَرْضِيٌّ",
+    "latin": "Inhiyaarun Ardhiyyun",
+    "meaning": "Tanah longsor",
+    "sentences": [
+      {
+        "id": "s-1smp-p312-3",
+        "sentence": "حَدَثَ انْهِيَارٌ أَرْضِيٌّ بَعْدَ الْأَمْطَارِ الْغَزِيرَةِ",
+        "latin": "Hadatsa inhiyaarun ardhiyyun ba'dal-amthaaril-ghaziirati",
+        "meaning": "Terjadi tanah longsor setelah hujan lebat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["cuaca", "alam"]
+  },
+  {
+    "id": "w-1smp-p313-1",
+    "word": "أَسْرَعَ - يُسْرِعُ",
+    "latin": "Asra'a - Yusri'u",
+    "meaning": "Bergegas / mempercepat",
+    "sentences": [
+      {
+        "id": "s-1smp-p313-1",
+        "sentence": "أَسْرَعَ الطَّالِبُ لِئَلَّا يَتَأَخَّرَ",
+        "latin": "Asra'a-thaalibu li'allaa yata'akhkhara",
+        "meaning": "Siswa itu bergegas agar tidak terlambat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p313-2",
+    "word": "عَاصِفَةٌ",
+    "latin": "'Aasifatun",
+    "meaning": "Badai",
+    "sentences": [
+      {
+        "id": "s-1smp-p313-2",
+        "sentence": "أَغْلَقَ النَّاسُ نَوَافِذَهُمْ قَبْلَ الْعَاصِفَةِ",
+        "latin": "Aghlaqan-naasu nawaafidzahum qablal-'aasifati",
+        "meaning": "Orang-orang menutup jendela mereka sebelum badai"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["cuaca"]
+  },
+  {
+    "id": "w-1smp-p313-3",
+    "word": "إِعْصَارٌ",
+    "latin": "I'shaarun",
+    "meaning": "Angin topan",
+    "sentences": [
+      {
+        "id": "s-1smp-p313-3",
+        "sentence": "دَمَّرَ الْإِعْصَارُ بُيُوتًا كَثِيرَةً",
+        "latin": "Dammaral-i'shaaru buyuutan katsiiratan",
+        "meaning": "Angin topan menghancurkan banyak rumah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["cuaca"]
+  },
+  {
+    "id": "w-1smp-p314-1",
+    "word": "أَبْطَأَ - يُبْطِئُ",
+    "latin": "Abtha'a - Yubthi'u",
+    "meaning": "Memperlambat",
+    "sentences": [
+      {
+        "id": "s-1smp-p314-1",
+        "sentence": "أَبْطَأَ السَّائِقُ عِنْدَ الْمُنْعَطَفِ",
+        "latin": "Abtha'as-saa'iqu 'indal-mun'athafi",
+        "meaning": "Sopir itu memperlambat laju di tikungan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["transportasi"]
+  },
+  {
+    "id": "w-1smp-p314-2",
+    "word": "نَسِيمٌ",
+    "latin": "Nasiimun",
+    "meaning": "Angin sepoi-sepoi",
+    "sentences": [
+      {
+        "id": "s-1smp-p314-2",
+        "sentence": "هَبَّ نَسِيمٌ لَطِيفٌ فِي الصَّبَاحِ",
+        "latin": "Habba nasiimun lathiifun fis-shabaahi",
+        "meaning": "Bertiup angin sepoi-sepoi yang lembut di pagi hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["cuaca"]
+  },
+  {
+    "id": "w-1smp-p314-3",
+    "word": "يَمَامَةٌ",
+    "latin": "Yamaamatun",
+    "meaning": "Perkutut",
+    "sentences": [
+      {
+        "id": "s-1smp-p314-3",
+        "sentence": "تُغَرِّدُ الْيَمَامَةُ فَوْقَ الشَّجَرَةِ",
+        "latin": "Tughurridul-yamaamatu fawqasy-syajarati",
+        "meaning": "Perkutut berkicau di atas pohon"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p315-1",
+    "word": "تَوَقَّعَ - يَتَوَقَّعُ",
+    "latin": "Tawaqqa'a - Yatawaqqa'u",
+    "meaning": "Memperkirakan",
+    "sentences": [
+      {
+        "id": "s-1smp-p315-1",
+        "sentence": "تَوَقَّعْتُ نَجَاحِي فِي الِامْتِحَانِ",
+        "latin": "Tawaqqa'tu najaahii fil-imtihaani",
+        "meaning": "Saya memperkirakan keberhasilanku dalam ujian"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p315-2",
+    "word": "كَرَوَانٌ",
+    "latin": "Karawaanun",
+    "meaning": "Burung kedidi",
+    "sentences": [
+      {
+        "id": "s-1smp-p315-2",
+        "sentence": "يَصِيحُ الْكَرَوَانُ فِي اللَّيْلِ",
+        "latin": "Yashiihul-karawaanu fil-layli",
+        "meaning": "Burung kedidi berbunyi di malam hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p315-3",
+    "word": "عَقْرَبٌ",
+    "latin": "'Aqrabun",
+    "meaning": "Kalajengking",
+    "sentences": [
+      {
+        "id": "s-1smp-p315-3",
+        "sentence": "لَدْغَةُ الْعَقْرَبِ خَطِيرَةٌ",
+        "latin": "Ladghatul-'aqrabi khathiiratun",
+        "meaning": "Sengatan kalajengking itu berbahaya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "kesehatan"]
+  },
+  {
+    "id": "w-1smp-p316-1",
+    "word": "اِسْتَيْقَنَ - يَسْتَيْقِنُ",
+    "latin": "Istayqana - Yastayqinu",
+    "meaning": "Meyakini",
+    "sentences": [
+      {
+        "id": "s-1smp-p316-1",
+        "sentence": "اسْتَيْقَنَ الْمُسْلِمُ بِوَعْدِ اللَّهِ",
+        "latin": "Istayqana-muslimu bi-wa'dillaahi",
+        "meaning": "Muslim itu meyakini janji Allah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["ibadah"]
+  },
+  {
+    "id": "w-1smp-p316-2",
+    "word": "بَعِيرٌ",
+    "latin": "Ba'iirun",
+    "meaning": "Unta (jantan)",
+    "sentences": [
+      {
+        "id": "s-1smp-p316-2",
+        "sentence": "يَحْمِلُ الْبَعِيرُ الْأَمْتِعَةَ فِي الصَّحْرَاءِ",
+        "latin": "Yahmilul-ba'iirul-amti'ata fis-sahraa'i",
+        "meaning": "Unta membawa barang-barang di gurun"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan"]
+  },
+  {
+    "id": "w-1smp-p316-3",
+    "word": "غَنَمٌ",
+    "latin": "Ghanamun",
+    "meaning": "Kambing/domba (kolektif)",
+    "sentences": [
+      {
+        "id": "s-1smp-p316-3",
+        "sentence": "يَرْعَى الرَّاعِي الْغَنَمَ فِي الْمَرْعَى",
+        "latin": "Yar'aar-raa'il-ghanama fil-mar'aa",
+        "meaning": "Penggembala menggembalakan kambing-domba di padang rumput"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["hewan", "pertanian"]
+  },
+  {
+    "id": "w-1smp-p317-1",
+    "word": "صَدَّقَ - يُصَدِّقُ",
+    "latin": "Shaddaqa - Yushaddiqu",
+    "meaning": "Membenarkan / mempercayai",
+    "sentences": [
+      {
+        "id": "s-1smp-p317-1",
+        "sentence": "صَدَّقْتُ كَلَامَ صَدِيقِي الصَّادِقِ",
+        "latin": "Shaddaqtu kalaama shadiiqish-shaadiqi",
+        "meaning": "Saya membenarkan perkataan temanku yang jujur"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak"]
+  },
+  {
+    "id": "w-1smp-p317-2",
+    "word": "حُمَّى",
+    "latin": "Hummaa",
+    "meaning": "Demam",
+    "sentences": [
+      {
+        "id": "s-1smp-p317-2",
+        "sentence": "أَصَابَتْنِي الْحُمَّى فَبَقِيتُ فِي الْبَيْتِ",
+        "latin": "Ashaabatnil-hummaa fa-baqiitu fil-bayti",
+        "meaning": "Saya terkena demam lalu tinggal di rumah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kesehatan"]
+  },
+  {
+    "id": "w-1smp-p317-3",
+    "word": "صُدَاعٌ",
+    "latin": "Shudaa'un",
+    "meaning": "Sakit kepala",
+    "sentences": [
+      {
+        "id": "s-1smp-p317-3",
+        "sentence": "شَعَرْتُ بِصُدَاعٍ بَعْدَ الدِّرَاسَةِ الطَّوِيلَةِ",
+        "latin": "Sya'artu bi-shudaa'in ba'dad-diraasatith-thawiilati",
+        "meaning": "Saya merasakan sakit kepala setelah belajar lama"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kesehatan"]
+  },
+  {
+    "id": "w-1smp-p318-1",
+    "word": "كَذَّبَ - يُكَذِّبُ",
+    "latin": "Kadzdzaba - Yukadzdzibu",
+    "meaning": "Mendustakan",
+    "sentences": [
+      {
+        "id": "s-1smp-p318-1",
+        "sentence": "لَا يُكَذِّبُ الْمُؤْمِنُ إِخْوَانَهُ",
+        "latin": "Laa yukadzdzibul-mu'minu ikhwaanahu",
+        "meaning": "Orang mukmin tidak mendustakan saudara-saudaranya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak"]
+  },
+  {
+    "id": "w-1smp-p318-2",
+    "word": "جُرْحٌ",
+    "latin": "Jurhun",
+    "meaning": "Luka",
+    "sentences": [
+      {
+        "id": "s-1smp-p318-2",
+        "sentence": "عَالَجَتِ الْمُمَرِّضَةُ جُرْحَ الْوَلَدِ",
+        "latin": "'Aalajatil-mumarridhatu jurha-waladi",
+        "meaning": "Perawat mengobati luka anak itu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kesehatan"]
+  },
+  {
+    "id": "w-1smp-p318-3",
+    "word": "ضِمَادَةٌ",
+    "latin": "Dhimaadatun",
+    "meaning": "Perban",
+    "sentences": [
+      {
+        "id": "s-1smp-p318-3",
+        "sentence": "وَضَعَ الطَّبِيبُ ضِمَادَةً عَلَى الْجُرْحِ",
+        "latin": "Wadha'ath-thabiibu dhimaadatan 'alal-jurhi",
+        "meaning": "Dokter memasang perban di atas luka"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kesehatan"]
+  },
+  {
+    "id": "w-1smp-p319-1",
+    "word": "اِعْتَرَفَ - يَعْتَرِفُ",
+    "latin": "I'tarafa - Ya'tarifu",
+    "meaning": "Mengakui",
+    "sentences": [
+      {
+        "id": "s-1smp-p319-1",
+        "sentence": "اعْتَرَفَ الْوَلَدُ بِخَطَئِهِ أَمَامَ وَالِدِهِ",
+        "latin": "I'tarafa-waladu bi-khatha'ihi amaama waalidihi",
+        "meaning": "Anak itu mengakui kesalahannya di hadapan ayahnya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak", "keluarga"]
+  },
+  {
+    "id": "w-1smp-p319-2",
+    "word": "حَقْنَةٌ",
+    "latin": "Haqnatun",
+    "meaning": "Suntikan",
+    "sentences": [
+      {
+        "id": "s-1smp-p319-2",
+        "sentence": "أَعْطَى الطَّبِيبُ الْمَرِيضَ حَقْنَةً",
+        "latin": "A'thaath-thabiibul-mariidha haqnatan",
+        "meaning": "Dokter memberikan suntikan kepada pasien"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kesehatan"]
+  },
+  {
+    "id": "w-1smp-p319-3",
+    "word": "عَدْوَى",
+    "latin": "'Adwaa",
+    "meaning": "Penularan / infeksi",
+    "sentences": [
+      {
+        "id": "s-1smp-p319-3",
+        "sentence": "يَنْتَقِلُ الْمَرَضُ بِالْعَدْوَى بَيْنَ النَّاسِ",
+        "latin": "Yantaqilul-maradhu bil-'adwaa baynan-naasi",
+        "meaning": "Penyakit menular melalui infeksi di antara manusia"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kesehatan"]
+  },
+  {
+    "id": "w-1smp-p320-1",
+    "word": "أَنْكَرَ - يُنْكِرُ",
+    "latin": "Ankara - Yunkiru",
+    "meaning": "Mengingkari",
+    "sentences": [
+      {
+        "id": "s-1smp-p320-1",
+        "sentence": "أَنْكَرَ الطَّالِبُ أَنَّهُ كَسَرَ النَّافِذَةَ",
+        "latin": "Ankara-thaalibu annahu kasaran-naafidzata",
+        "meaning": "Siswa itu mengingkari bahwa ia memecahkan jendela"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p320-2",
+    "word": "حَسَاسِيَّةٌ",
+    "latin": "Hasaasiyyatun",
+    "meaning": "Alergi",
+    "sentences": [
+      {
+        "id": "s-1smp-p320-2",
+        "sentence": "عِنْدِي حَسَاسِيَّةٌ مِنَ الْغُبَارِ",
+        "latin": "'Indii hasaasiyyatun minal-ghubaari",
+        "meaning": "Saya memiliki alergi terhadap debu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kesehatan"]
+  },
+  {
+    "id": "w-1smp-p320-3",
+    "word": "جِيرَانٌ",
+    "latin": "Jiiraanun",
+    "meaning": "Para tetangga",
+    "sentences": [
+      {
+        "id": "s-1smp-p320-3",
+        "sentence": "جِيرَانُنَا طَيِّبُونَ وَمُتَعَاوِنُونَ",
+        "latin": "Jiiraanunaa thayyibuuna wa-muta'aawinuuna",
+        "meaning": "Para tetangga kami baik dan suka bekerja sama"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sosial"]
+  },
+  {
+    "id": "w-1smp-p321-1",
+    "word": "بَرَّأَ - يُبَرِّئُ",
+    "latin": "Barra'a - Yubarri'u",
+    "meaning": "Membebaskan (dari tuduhan)",
+    "sentences": [
+      {
+        "id": "s-1smp-p321-1",
+        "sentence": "بَرَّأَ الْقَاضِي الرَّجُلَ الْبَرِيءَ",
+        "latin": "Barra'al-qaadhir-rajulal-barii'a",
+        "meaning": "Hakim membebaskan orang yang tidak bersalah itu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["hukum"]
+  },
+  {
+    "id": "w-1smp-p321-2",
+    "word": "عَادَةٌ",
+    "latin": "'Aadatun",
+    "meaning": "Kebiasaan / adat",
+    "sentences": [
+      {
+        "id": "s-1smp-p321-2",
+        "sentence": "مِنْ عَادَتِي أَنْ أَقْرَأَ قَبْلَ النَّوْمِ",
+        "latin": "Min 'aadatii an aqra'a qablan-nawmi",
+        "meaning": "Sudah menjadi kebiasaanku membaca sebelum tidur"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akhlak"]
+  },
+  {
+    "id": "w-1smp-p321-3",
+    "word": "لُغَةٌ",
+    "latin": "Lughatun",
+    "meaning": "Bahasa",
+    "sentences": [
+      {
+        "id": "s-1smp-p321-3",
+        "sentence": "اللُّغَةُ وَسِيلَةٌ لِلتَّفَاهُمِ بَيْنَ النَّاسِ",
+        "latin": "Al-lughatu wasiilatun lit-tafaahumi baynan-naasi",
+        "meaning": "Bahasa adalah sarana saling memahami di antara manusia"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p322-1",
+    "word": "نَافَسَ - يُنَافِسُ",
+    "latin": "Naafasa - Yunaafisu",
+    "meaning": "Bersaing",
+    "sentences": [
+      {
+        "id": "s-1smp-p322-1",
+        "sentence": "نَافَسَ الطَّالِبُ زُمَلَاءَهُ فِي الدِّرَاسَةِ",
+        "latin": "Naafasa-thaalibu zumalaa'ahu fid-diraasati",
+        "meaning": "Siswa itu bersaing dengan teman-temannya dalam belajar"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p322-2",
+    "word": "لَهْجَةٌ",
+    "latin": "Lahjatun",
+    "meaning": "Dialek",
+    "sentences": [
+      {
+        "id": "s-1smp-p322-2",
+        "sentence": "لِكُلِّ مَدِينَةٍ لَهْجَةٌ خَاصَّةٌ بِهَا",
+        "latin": "Li-kulli madiinatin lahjatun khaassatun bihaa",
+        "meaning": "Setiap kota memiliki dialek khusus baginya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "bahasa"]
+  },
+  {
+    "id": "w-1smp-p322-3",
+    "word": "أَذَانٌ",
+    "latin": "Adzaanun",
+    "meaning": "Adzan",
+    "sentences": [
+      {
+        "id": "s-1smp-p322-3",
+        "sentence": "سَمِعْتُ الْأَذَانَ فَذَهَبْتُ إِلَى الْمَسْجِدِ",
+        "latin": "Sami'tul-adzaana fa-dzahabtu ilal-masjidi",
+        "meaning": "Saya mendengar adzan lalu pergi ke masjid"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["ibadah"]
+  },
+  {
+    "id": "w-1smp-p323-1",
+    "word": "فَازَ - يَفُوزُ",
+    "latin": "Faaza - Yafuuzu",
+    "meaning": "Menang",
+    "sentences": [
+      {
+        "id": "s-1smp-p323-1",
+        "sentence": "فَازَ فَرِيقُنَا فِي الْمُبَارَاةِ",
+        "latin": "Faaza fariiqunaa fil-mubaaraati",
+        "meaning": "Tim kami menang dalam pertandingan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p323-2",
+    "word": "إِقَامَةٌ",
+    "latin": "Iqaamatun",
+    "meaning": "Iqamah",
+    "sentences": [
+      {
+        "id": "s-1smp-p323-2",
+        "sentence": "قَامَ الْمُؤَذِّنُ بِالْإِقَامَةِ قَبْلَ الصَّلَاةِ",
+        "latin": "Qaamal-mu'adzdzinu bil-iqaamati qablash-shalaati",
+        "meaning": "Muadzin melaksanakan iqamah sebelum shalat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["ibadah"]
+  },
+  {
+    "id": "w-1smp-p323-3",
+    "word": "إِمَامٌ",
+    "latin": "Imaamun",
+    "meaning": "Imam sholat",
+    "sentences": [
+      {
+        "id": "s-1smp-p323-3",
+        "sentence": "صَلَّيْنَا خَلْفَ الْإِمَامِ فِي الْمَسْجِدِ",
+        "latin": "Shallaynaa khalfal-imaami fil-masjidi",
+        "meaning": "Kami sholat di belakang imam di masjid"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["ibadah"]
+  },
+  {
+    "id": "w-1smp-p324-1",
+    "word": "تَعَادَلَ - يَتَعَادَلُ",
+    "latin": "Ta'aadala - Yata'aadalu",
+    "meaning": "Seri / imbang",
+    "sentences": [
+      {
+        "id": "s-1smp-p324-1",
+        "sentence": "تَعَادَلَ الْفَرِيقَانِ بِهَدَفٍ لِهَدَفٍ",
+        "latin": "Ta'aadala-fariiqaani bi-hadafin li-hadafin",
+        "meaning": "Kedua tim itu bermain seri satu gol sama"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p324-2",
+    "word": "مَأْمُومٌ",
+    "latin": "Ma'muumun",
+    "meaning": "Makmum",
+    "sentences": [
+      {
+        "id": "s-1smp-p324-2",
+        "sentence": "يَتَّبِعُ الْمَأْمُومُ حَرَكَاتِ الْإِمَامِ",
+        "latin": "Yattabi'ul-ma'muumu harakaatil-imaami",
+        "meaning": "Makmum mengikuti gerakan-gerakan imam"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["ibadah"]
+  },
+  {
+    "id": "w-1smp-p324-3",
+    "word": "مِنْبَرٌ",
+    "latin": "Minbarun",
+    "meaning": "Mimbar",
+    "sentences": [
+      {
+        "id": "s-1smp-p324-3",
+        "sentence": "صَعِدَ الْخَطِيبُ عَلَى الْمِنْبَرِ",
+        "latin": "Sha'ida-khathiibu 'alal-minbari",
+        "meaning": "Khatib naik ke atas mimbar"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["ibadah"]
+  },
+  {
+    "id": "w-1smp-p325-1",
+    "word": "شَجَّعَ - يُشَجِّعُ",
+    "latin": "Syajja'a - Yusyajji'u",
+    "meaning": "Menyemangati",
+    "sentences": [
+      {
+        "id": "s-1smp-p325-1",
+        "sentence": "شَجَّعَ الْجُمْهُورُ اللَّاعِبِينَ بِحَمَاسٍ",
+        "latin": "Syajja'a-jumhuurul-laa'ibiina bi-hamaasin",
+        "meaning": "Penonton menyemangati para pemain dengan penuh semangat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p325-2",
+    "word": "مِحْرَابٌ",
+    "latin": "Mihraabun",
+    "meaning": "Mihrab",
+    "sentences": [
+      {
+        "id": "s-1smp-p325-2",
+        "sentence": "يَقِفُ الْإِمَامُ فِي الْمِحْرَابِ",
+        "latin": "Yaqifu-imaamu fil-mihraabi",
+        "meaning": "Imam berdiri di mihrab"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["ibadah"]
+  },
+  {
+    "id": "w-1smp-p325-3",
+    "word": "اِسْتِغْفَارٌ",
+    "latin": "Istighfaarun",
+    "meaning": "Istighfar",
+    "sentences": [
+      {
+        "id": "s-1smp-p325-3",
+        "sentence": "الِاسْتِغْفَارُ يَمْحُو الذُّنُوبَ",
+        "latin": "Al-istighfaaru yamhud-dzunuuba",
+        "meaning": "Istighfar menghapus dosa-dosa"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["ibadah"]
+  },
+  {
+    "id": "w-1smp-p326-1",
+    "word": "كَافَأَ - يُكَافِئُ",
+    "latin": "Kaafa'a - Yukaafi'u",
+    "meaning": "Memberi hadiah / imbalan",
+    "sentences": [
+      {
+        "id": "s-1smp-p326-1",
+        "sentence": "كَافَأَ الْأُسْتَاذُ الطَّالِبَ الْمُجْتَهِدَ",
+        "latin": "Kaafaa-ustaadzuth-thaalibal-mujtahida",
+        "meaning": "Ustadz memberi hadiah kepada siswa yang rajin"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p326-2",
+    "word": "صَدَقَةٌ",
+    "latin": "Shadaqatun",
+    "meaning": "Sedekah",
+    "sentences": [
+      {
+        "id": "s-1smp-p326-2",
+        "sentence": "تَصَدَّقْتُ بِبَعْضِ مَصْرُوفِي",
+        "latin": "Tashaddaqtu bi-ba'dhi mashruufii",
+        "meaning": "Saya bersedekah dengan sebagian uang jajanku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["ibadah"]
+  },
+  {
+    "id": "w-1smp-p326-3",
+    "word": "مِنْفَضَةٌ",
+    "latin": "Minfadhatun",
+    "meaning": "Asbak / tempat abu",
+    "sentences": [
+      {
+        "id": "s-1smp-p326-3",
+        "sentence": "وَضَعَ الرَّجُلُ الرَّمَادَ فِي الْمِنْفَضَةِ",
+        "latin": "Wadha'ar-rajulur-ramaada fil-minfadhati",
+        "meaning": "Laki-laki itu meletakkan abu di tempat abu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda"]
+  },
+  {
+    "id": "w-1smp-p327-1",
+    "word": "عَاقَبَ - يُعَاقِبُ",
+    "latin": "'Aaqaba - Yu'aaqibu",
+    "meaning": "Menghukum",
+    "sentences": [
+      {
+        "id": "s-1smp-p327-1",
+        "sentence": "عَاقَبَ الْمُعَلِّمُ الطَّالِبَ الْمُهْمِلَ",
+        "latin": "'Aaqaba-mu'allimuth-thaalibal-muhmila",
+        "meaning": "Guru menghukum siswa yang lalai"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p327-2",
+    "word": "صُنْدُوقُ الْبَرِيدِ",
+    "latin": "Shunduuqul-Bariidi",
+    "meaning": "Kotak pos",
+    "sentences": [
+      {
+        "id": "s-1smp-p327-2",
+        "sentence": "وَضَعْتُ الرِّسَالَةَ فِي صُنْدُوقِ الْبَرِيدِ",
+        "latin": "Wadha'tur-risaalata fii shunduuqil-bariidi",
+        "meaning": "Saya meletakkan surat di kotak pos"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["fasilitas"]
+  },
+  {
+    "id": "w-1smp-p327-3",
+    "word": "بَكَرَةٌ",
+    "latin": "Bakaratun",
+    "meaning": "Katrol / roda kecil",
+    "sentences": [
+      {
+        "id": "s-1smp-p327-3",
+        "sentence": "تَدُورُ الْبَكَرَةُ لِرَفْعِ الدَّلْوِ مِنَ الْبِئْرِ",
+        "latin": "Taduurul-bakaratu li-raf'id-dalwi minal-bi'ri",
+        "meaning": "Katrol berputar untuk mengangkat ember dari sumur"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda"]
+  },
+  {
+    "id": "w-1smp-p328-1",
+    "word": "أَطَاعَ - يُطِيعُ",
+    "latin": "Athaa'a - Yuthii'u",
+    "meaning": "Menaati",
+    "sentences": [
+      {
+        "id": "s-1smp-p328-1",
+        "sentence": "يُطِيعُ الْوَلَدُ الصَّالِحُ وَالِدَيْهِ",
+        "latin": "Yuthii'u-waladush-shaalihu waalidayhi",
+        "meaning": "Anak yang shalih menaati kedua orang tuanya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak", "keluarga"]
+  },
+  {
+    "id": "w-1smp-p328-2",
+    "word": "لَوْحٌ خَشَبِيٌّ",
+    "latin": "Lawhun Khasyabiyyun",
+    "meaning": "Papan kayu",
+    "sentences": [
+      {
+        "id": "s-1smp-p328-2",
+        "sentence": "كَتَبَ الطَّالِبُ اسْمَهُ عَلَى لَوْحٍ خَشَبِيٍّ",
+        "latin": "Kataba-thaalibu-smahu 'alaa lawhin khasyabiyyin",
+        "meaning": "Siswa itu menulis namanya di atas papan kayu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p328-3",
+    "word": "أَوَّلٌ",
+    "latin": "Awwalun",
+    "meaning": "Pertama",
+    "sentences": [
+      {
+        "id": "s-1smp-p328-3",
+        "sentence": "جَاءَ الطَّالِبُ الْأَوَّلُ فِي التَّرْتِيبِ",
+        "latin": "Jaa'a-thaalibul-awwalu fit-tartiibi",
+        "meaning": "Siswa itu datang pertama dalam urutan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p329-1",
+    "word": "عَصَى - يَعْصِي",
+    "latin": "'Ashaa - Ya'shii",
+    "meaning": "Mendurhakai",
+    "sentences": [
+      {
+        "id": "s-1smp-p329-1",
+        "sentence": "لَا يَنْبَغِي أَنْ يَعْصِيَ الْوَلَدُ وَالِدَيْهِ",
+        "latin": "Laa yanbaghii an ya'shiya-waladu waalidayhi",
+        "meaning": "Tidak sepatutnya seorang anak mendurhakai kedua orang tuanya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak"]
+  },
+  {
+    "id": "w-1smp-p329-2",
+    "word": "ثَانٍ",
+    "latin": "Tsaanin",
+    "meaning": "Kedua",
+    "sentences": [
+      {
+        "id": "s-1smp-p329-2",
+        "sentence": "حَصَلْتُ عَلَى الْمَرْكَزِ الثَّانِي فِي الْمُسَابَقَةِ",
+        "latin": "Hashaltu 'alal-markazits-tsaanii fil-musaabaqati",
+        "meaning": "Saya mendapatkan peringkat kedua dalam perlombaan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p329-3",
+    "word": "ثَالِثٌ",
+    "latin": "Tsaalitsun",
+    "meaning": "Ketiga",
+    "sentences": [
+      {
+        "id": "s-1smp-p329-3",
+        "sentence": "هَذَا هُوَ الدَّرْسُ الثَّالِثُ فِي الْكِتَابِ",
+        "latin": "Haadzaa huwad-darsuts-tsaalitsu fil-kitaabi",
+        "meaning": "Ini adalah pelajaran ketiga dalam buku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p330-1",
+    "word": "اِلْتَزَمَ - يَلْتَزِمُ",
+    "latin": "Iltazama - Yaltazimu",
+    "meaning": "Berkomitmen / mematuhi",
+    "sentences": [
+      {
+        "id": "s-1smp-p330-1",
+        "sentence": "الْتَزَمَ الطَّالِبُ بِمَوَاعِيدِ الْمَعْهَدِ",
+        "latin": "Iltazama-thaalibu bi-mawaa'iidil-ma'hadi",
+        "meaning": "Siswa itu mematuhi jadwal-jadwal pondok"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah", "akhlak"]
+  },
+  {
+    "id": "w-1smp-p330-2",
+    "word": "رَابِعٌ",
+    "latin": "Raabi'un",
+    "meaning": "Keempat",
+    "sentences": [
+      {
+        "id": "s-1smp-p330-2",
+        "sentence": "أَنَا فِي الصَّفِّ الرَّابِعِ",
+        "latin": "Anaa fis-shaffir-raabi'i",
+        "meaning": "Saya berada di kelas keempat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p330-3",
+    "word": "خَامِسٌ",
+    "latin": "Khaamisun",
+    "meaning": "Kelima",
+    "sentences": [
+      {
+        "id": "s-1smp-p330-3",
+        "sentence": "هَذَا هُوَ الْيَوْمُ الْخَامِسُ مِنَ الِامْتِحَانِ",
+        "latin": "Haadzaa huwal-yawmul-khaamisu minal-imtihaani",
+        "meaning": "Ini adalah hari kelima dari ujian"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p331-1",
+    "word": "تَجَنَّبَ - يَتَجَنَّبُ",
+    "latin": "Tajannaba - Yatajannabu",
+    "meaning": "Menghindari",
+    "sentences": [
+      {
+        "id": "s-1smp-p331-1",
+        "sentence": "تَجَنَّبِ الْكَذِبَ فِي كُلِّ حَالٍ",
+        "latin": "Tajannabil-kadziba fii kulli haalin",
+        "meaning": "Hindarilah kebohongan dalam setiap keadaan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak"]
+  },
+  {
+    "id": "w-1smp-p331-2",
+    "word": "أَخِيرٌ",
+    "latin": "Akhiirun",
+    "meaning": "Terakhir",
+    "sentences": [
+      {
+        "id": "s-1smp-p331-2",
+        "sentence": "هَذَا هُوَ السُّؤَالُ الْأَخِيرُ فِي الِامْتِحَانِ",
+        "latin": "Haadzaa huwas-su'aalul-akhiiru fil-imtihaani",
+        "meaning": "Ini adalah pertanyaan terakhir dalam ujian"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p331-3",
+    "word": "رَسْمٌ",
+    "latin": "Rasmun",
+    "meaning": "Gambar / lukisan",
+    "sentences": [
+      {
+        "id": "s-1smp-p331-3",
+        "sentence": "عَلَّقْتُ رَسْمِي عَلَى جِدَارِ الْفَصْلِ",
+        "latin": "'Allaqtu rasmii 'alaa jidaaril-fashli",
+        "meaning": "Saya menggantung gambarku di dinding kelas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["seni", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p332-1",
+    "word": "اِحْتَاطَ - يَحْتَاطُ",
+    "latin": "Ihtaatha - Yahtaathu",
+    "meaning": "Berhati-hati / waspada",
+    "sentences": [
+      {
+        "id": "s-1smp-p332-1",
+        "sentence": "احْتَاطَ السَّائِقُ عِنْدَ الْمَطَرِ",
+        "latin": "Ihtaathas-saa'iqu 'indal-mathari",
+        "meaning": "Sopir itu berhati-hati saat hujan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["transportasi"]
+  },
+  {
+    "id": "w-1smp-p332-2",
+    "word": "نَحْتٌ",
+    "latin": "Nahtun",
+    "meaning": "Ukiran / pahatan",
+    "sentences": [
+      {
+        "id": "s-1smp-p332-2",
+        "sentence": "رَأَيْنَا نَحْتًا جَمِيلًا فِي الْمَتْحَفِ",
+        "latin": "Ra'aynaa nahtan jamiilan fil-mat-hafi",
+        "meaning": "Kami melihat ukiran yang indah di museum"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["seni"]
+  },
+  {
+    "id": "w-1smp-p332-3",
+    "word": "لَوْحَةٌ فَنِّيَّةٌ",
+    "latin": "Lawhatun Fanniyyatun",
+    "meaning": "Lukisan (karya seni)",
+    "sentences": [
+      {
+        "id": "s-1smp-p332-3",
+        "sentence": "تُزَيِّنُ اللَّوْحَةُ الْفَنِّيَّةُ جِدَارَ الصَّالَةِ",
+        "latin": "Tuzayyinul-lawhatul-fanniyyatu jidaaras-shaalati",
+        "meaning": "Lukisan itu menghiasi dinding aula"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["seni"]
+  },
+  {
+    "id": "w-1smp-p333-1",
+    "word": "غَامَرَ - يُغَامِرُ",
+    "latin": "Ghaamara - Yughaamiru",
+    "meaning": "Berpetualang / nekat",
+    "sentences": [
+      {
+        "id": "s-1smp-p333-1",
+        "sentence": "غَامَرَ الْمُسْتَكْشِفُ بِدُخُولِ الْغَابَةِ",
+        "latin": "Ghaamara-mustaksyifu bi-dukhuulil-ghaabati",
+        "meaning": "Penjelajah itu nekat memasuki hutan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p333-2",
+    "word": "أُغْنِيَةٌ",
+    "latin": "Ughniyyatun",
+    "meaning": "Lagu",
+    "sentences": [
+      {
+        "id": "s-1smp-p333-2",
+        "sentence": "تُعْجِبُنِي هَذِهِ الْأُغْنِيَةُ الْإِسْلَامِيَّةُ",
+        "latin": "Tu'jibunii haadzihil-ughniyyatul-islaamiyyatu",
+        "meaning": "Saya menyukai lagu Islami ini"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["seni"]
+  },
+  {
+    "id": "w-1smp-p333-3",
+    "word": "لَحْنٌ",
+    "latin": "Lahnun",
+    "meaning": "Melodi",
+    "sentences": [
+      {
+        "id": "s-1smp-p333-3",
+        "sentence": "لَحْنُ هَذَا النَّشِيدِ جَمِيلٌ",
+        "latin": "Lahnu haadzan-nasyiidi jamiilun",
+        "meaning": "Melodi nasyid ini indah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["seni"]
+  },
+  {
+    "id": "w-1smp-p334-1",
+    "word": "اِسْتَكْشَفَ - يَسْتَكْشِفُ",
+    "latin": "Istaksyafa - Yastaksyifu",
+    "meaning": "Menjelajahi",
+    "sentences": [
+      {
+        "id": "s-1smp-p334-1",
+        "sentence": "اسْتَكْشَفَ الْعُلَمَاءُ جَزِيرَةً جَدِيدَةً",
+        "latin": "Istaksyafal-'ulamaau jaziiratan jadiidatan",
+        "meaning": "Para ilmuwan menjelajahi pulau baru"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sains"]
+  },
+  {
+    "id": "w-1smp-p334-2",
+    "word": "مَسْرَحِيَّةٌ",
+    "latin": "Masrahiyyatun",
+    "meaning": "Drama panggung",
+    "sentences": [
+      {
+        "id": "s-1smp-p334-2",
+        "sentence": "قَدَّمَ الطُّلَّابُ مَسْرَحِيَّةً فِي الْحَفْلَةِ",
+        "latin": "Qaddama-tullaabu masrahiyyatan fil-haflati",
+        "meaning": "Para siswa menampilkan drama panggung dalam acara"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["seni", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p334-3",
+    "word": "صُورَةٌ",
+    "latin": "Shuuratun",
+    "meaning": "Foto / gambar",
+    "sentences": [
+      {
+        "id": "s-1smp-p334-3",
+        "sentence": "عَلَّقَتْ أُمِّي صُورَتِي عَلَى الْجِدَارِ",
+        "latin": "'Allaqat ummii shuuratii 'alal-jidaari",
+        "meaning": "Ibuku menggantung fotoku di dinding"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda"]
+  },
+  {
+    "id": "w-1smp-p335-1",
+    "word": "رَحَّبَ - يُرَحِّبُ",
+    "latin": "Rahhaba - Yurahhibu",
+    "meaning": "Menyambut dengan hangat",
+    "sentences": [
+      {
+        "id": "s-1smp-p335-1",
+        "sentence": "رَحَّبَ الْمُعَلِّمُ بِالطُّلَّابِ الْجُدُدِ",
+        "latin": "Rahhaba-mu'allimu bit-tullaabil-juddi",
+        "meaning": "Guru menyambut hangat para siswa baru"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah", "adab"]
+  },
+  {
+    "id": "w-1smp-p335-2",
+    "word": "فِيلْمٌ",
+    "latin": "Fiilmun",
+    "meaning": "Film",
+    "sentences": [
+      {
+        "id": "s-1smp-p335-2",
+        "sentence": "شَاهَدْنَا فِيلْمًا تَعْلِيمِيًّا فِي الْمَدْرَسَةِ",
+        "latin": "Syaahadnaa fiilman ta'liimiyyan fil-madrasati",
+        "meaning": "Kami menonton film edukatif di sekolah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p335-3",
+    "word": "قِصَّةٌ",
+    "latin": "Qishshatun",
+    "meaning": "Kisah / cerita",
+    "sentences": [
+      {
+        "id": "s-1smp-p335-3",
+        "sentence": "قَرَأْتُ قِصَّةً جَمِيلَةً قَبْلَ النَّوْمِ",
+        "latin": "Qara'tu qishshatan jamiilatan qablan-nawmi",
+        "meaning": "Saya membaca kisah yang indah sebelum tidur"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p336-1",
+    "word": "وَدَّ - يَوَدُّ",
+    "latin": "Wadda - Yawaddu",
+    "meaning": "Ingin sekali",
+    "sentences": [
+      {
+        "id": "s-1smp-p336-1",
+        "sentence": "وَدِدْتُ لَوْ زُرْتُ جَدِّي هَذَا الْأُسْبُوعَ",
+        "latin": "Wadidtu law zurtu jaddii haadzal-usbuu'a",
+        "meaning": "Saya sangat ingin mengunjungi kakekku minggu ini"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p336-2",
+    "word": "رِوَايَةٌ",
+    "latin": "Riwaayatun",
+    "meaning": "Novel",
+    "sentences": [
+      {
+        "id": "s-1smp-p336-2",
+        "sentence": "يُحِبُّ أَخِي قِرَاءَةَ الرِّوَايَاتِ",
+        "latin": "Yuhibbu akhii qiraa'atar-riwaayaati",
+        "meaning": "Kakakku suka membaca novel-novel"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p336-3",
+    "word": "قَامُوسٌ",
+    "latin": "Qaamuusun",
+    "meaning": "Kamus",
+    "sentences": [
+      {
+        "id": "s-1smp-p336-3",
+        "sentence": "بَحَثْتُ عَنِ الْكَلِمَةِ فِي الْقَامُوسِ",
+        "latin": "Bahatstu 'anil-kalimati fil-qaamuusi",
+        "meaning": "Saya mencari kata itu di dalam kamus"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p337-1",
+    "word": "اِشْتَاقَ - يَشْتَاقُ",
+    "latin": "Isytaaqa - Yasytaaqu",
+    "meaning": "Merindukan",
+    "sentences": [
+      {
+        "id": "s-1smp-p337-1",
+        "sentence": "اشْتَقْتُ إِلَى أُمِّي كَثِيرًا",
+        "latin": "Isytaqtu ilaa ummii katsiiran",
+        "meaning": "Saya sangat merindukan ibuku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keluarga", "emosi"]
+  },
+  {
+    "id": "w-1smp-p337-2",
+    "word": "مَوْسُوعَةٌ",
+    "latin": "Mawsuu'atun",
+    "meaning": "Ensiklopedia",
+    "sentences": [
+      {
+        "id": "s-1smp-p337-2",
+        "sentence": "فِي الْمَكْتَبَةِ مَوْسُوعَةٌ كَبِيرَةٌ عَنِ الْعِلْمِ",
+        "latin": "Fil-maktabati mawsuu'atun kabiiratun 'anil-'ilmi",
+        "meaning": "Di perpustakaan ada ensiklopedia besar tentang ilmu pengetahuan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p337-3",
+    "word": "جَائِزَةٌ",
+    "latin": "Jaa'izatun",
+    "meaning": "Hadiah / penghargaan",
+    "sentences": [
+      {
+        "id": "s-1smp-p337-3",
+        "sentence": "حَصَلَ الطَّالِبُ عَلَى جَائِزَةٍ فِي الْمُسَابَقَةِ",
+        "latin": "Hashala-thaalibu 'alaa jaa'izatin fil-musaabaqati",
+        "meaning": "Siswa itu mendapatkan hadiah dalam perlombaan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik", "motivasi"]
+  },
+  {
+    "id": "w-1smp-p338-1",
+    "word": "تَمَنَّى - يَتَمَنَّى",
+    "latin": "Tamannaa - Yatamannaa",
+    "meaning": "Berharap / berandai",
+    "sentences": [
+      {
+        "id": "s-1smp-p338-1",
+        "sentence": "تَمَنَّى الطَّالِبُ النَّجَاحَ فِي دِرَاسَتِهِ",
+        "latin": "Tamannaa-thaalibun-najaaha fii diraasatihi",
+        "meaning": "Siswa itu berharap keberhasilan dalam studinya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah", "motivasi"]
+  },
+  {
+    "id": "w-1smp-p338-2",
+    "word": "مِيدَالِيَّةٌ",
+    "latin": "Miidaaliyyatun",
+    "meaning": "Medali",
+    "sentences": [
+      {
+        "id": "s-1smp-p338-2",
+        "sentence": "عَلَّقَ اللَّاعِبُ الْمِيدَالِيَّةَ عَلَى صَدْرِهِ",
+        "latin": "'Allaqal-laa'ibul-miidaaliyyata 'alaa shadrihi",
+        "meaning": "Pemain itu menyematkan medali di dadanya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p338-3",
+    "word": "كَأْسٌ",
+    "latin": "Ka'sun",
+    "meaning": "Piala / cangkir",
+    "sentences": [
+      {
+        "id": "s-1smp-p338-3",
+        "sentence": "رَفَعَ الْفَرِيقُ الْكَأْسَ بَعْدَ الْفَوْزِ",
+        "latin": "Rafa'a-fariiqul-ka'sa ba'dal-fawzi",
+        "meaning": "Tim itu mengangkat piala setelah menang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["olahraga"]
+  },
+  {
+    "id": "w-1smp-p339-1",
+    "word": "طَمِعَ - يَطْمَعُ",
+    "latin": "Thami'a - Yathma'u",
+    "meaning": "Serakah / tamak",
+    "sentences": [
+      {
+        "id": "s-1smp-p339-1",
+        "sentence": "لَا يَنْبَغِي أَنْ يَطْمَعَ الْإِنْسَانُ فِي مَالِ غَيْرِهِ",
+        "latin": "Laa yanbaghii an yathma'al-insaanu fii maali ghayrihi",
+        "meaning": "Tidak sepatutnya manusia tamak terhadap harta orang lain"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak"]
+  },
+  {
+    "id": "w-1smp-p339-2",
+    "word": "طَبَقٌ",
+    "latin": "Thabaqun",
+    "meaning": "Piring saji",
+    "sentences": [
+      {
+        "id": "s-1smp-p339-2",
+        "sentence": "قَدَّمَتْ أُمِّي طَبَقًا مِنَ الْأُرْزِ",
+        "latin": "Qaddamat ummii thabaqan minal-urzi",
+        "meaning": "Ibuku menyajikan sepiring nasi"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur", "makanan"]
+  },
+  {
+    "id": "w-1smp-p339-3",
+    "word": "إِبْرِيقُ الشَّايِ",
+    "latin": "Ibriiqusy-Syaayi",
+    "meaning": "Teko teh",
+    "sentences": [
+      {
+        "id": "s-1smp-p339-3",
+        "sentence": "سَكَبْتُ الشَّايَ مِنْ إِبْرِيقِ الشَّايِ",
+        "latin": "Sakabtusy-syaaya min ibriiqisy-syaayi",
+        "meaning": "Saya menuangkan teh dari teko teh"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p340-1",
+    "word": "قَنِعَ - يَقْنَعُ",
+    "latin": "Qani'a - Yaqna'u",
+    "meaning": "Merasa cukup / qana'ah",
+    "sentences": [
+      {
+        "id": "s-1smp-p340-1",
+        "sentence": "قَنِعَ الرَّجُلُ بِمَا رَزَقَهُ اللَّهُ",
+        "latin": "Qani'ar-rajulu bimaa razaqahullaahu",
+        "meaning": "Laki-laki itu merasa cukup dengan apa yang Allah rezekikan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p340-2",
+    "word": "مِغْرَفَةٌ",
+    "latin": "Mighrafatun",
+    "meaning": "Sendok sup",
+    "sentences": [
+      {
+        "id": "s-1smp-p340-2",
+        "sentence": "سَكَبَتِ الطَّبَّاخَةُ الْحَسَاءَ بِالْمِغْرَفَةِ",
+        "latin": "Sakabatith-thabbaakhatul-hasaa'a bil-mighrafati",
+        "meaning": "Juru masak menuangkan sup dengan sendok sup"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p340-3",
+    "word": "سِلَّةٌ",
+    "latin": "Sillatun",
+    "meaning": "Keranjang",
+    "sentences": [
+      {
+        "id": "s-1smp-p340-3",
+        "sentence": "وَضَعْتُ الْفَوَاكِهَ فِي السِّلَّةِ",
+        "latin": "Wadha'tul-fawaakiha fis-sillati",
+        "meaning": "Saya meletakkan buah-buahan di keranjang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p341-1",
+    "word": "زَهِدَ - يَزْهَدُ",
+    "latin": "Zahida - Yazhadu",
+    "meaning": "Zuhud / tidak tamak dunia",
+    "sentences": [
+      {
+        "id": "s-1smp-p341-1",
+        "sentence": "زَهِدَ الْعَالِمُ فِي زِينَةِ الدُّنْيَا",
+        "latin": "Zahida-'aalimu fii ziinatid-dunyaa",
+        "meaning": "Ulama itu zuhud terhadap perhiasan dunia"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p341-2",
+    "word": "صُنْدُوقُ الْقُمَامَةِ",
+    "latin": "Shunduuqul-Qumaamati",
+    "meaning": "Tempat sampah",
+    "sentences": [
+      {
+        "id": "s-1smp-p341-2",
+        "sentence": "رَمَيْتُ الْوَرَقَةَ فِي صُنْدُوقِ الْقُمَامَةِ",
+        "latin": "Ramaytul-waraqata fii shunduuqil-qumaamati",
+        "meaning": "Saya membuang kertas ke tempat sampah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kebersihan"]
+  },
+  {
+    "id": "w-1smp-p341-3",
+    "word": "عُكَّازٌ",
+    "latin": "'Ukkaazun",
+    "meaning": "Tongkat (bantu jalan)",
+    "sentences": [
+      {
+        "id": "s-1smp-p341-3",
+        "sentence": "يَمْشِي جَدِّي بِمُسَاعَدَةِ الْعُكَّازِ",
+        "latin": "Yamsyii jaddii bi-musaa'adatil-'ukkaazi",
+        "meaning": "Kakekku berjalan dengan bantuan tongkat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kesehatan", "keluarga"]
+  },
+  {
+    "id": "w-1smp-p342-1",
+    "word": "تَوَاضَعَ - يَتَوَاضَعُ",
+    "latin": "Tawaadha'a - Yatawaadha'u",
+    "meaning": "Rendah hati",
+    "sentences": [
+      {
+        "id": "s-1smp-p342-1",
+        "sentence": "تَوَاضَعَ الْعَالِمُ رَغْمَ عِلْمِهِ الْغَزِيرِ",
+        "latin": "Tawaadha'a-'aalimu raghma 'ilmihil-ghaziiri",
+        "meaning": "Ulama itu rendah hati meskipun ilmunya luas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak"]
+  },
+  {
+    "id": "w-1smp-p342-2",
+    "word": "كُرْسِيٌّ مُتَحَرِّكٌ",
+    "latin": "Kursiyyun Mutaharrikun",
+    "meaning": "Kursi roda",
+    "sentences": [
+      {
+        "id": "s-1smp-p342-2",
+        "sentence": "يَجْلِسُ الْمَرِيضُ عَلَى كُرْسِيٍّ مُتَحَرِّكٍ",
+        "latin": "Yajlisul-mariidhu 'alaa kursiyyin mutaharrikin",
+        "meaning": "Pasien itu duduk di kursi roda"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kesehatan"]
+  },
+  {
+    "id": "w-1smp-p342-3",
+    "word": "نَظَّارَةٌ شَمْسِيَّةٌ",
+    "latin": "Nazhzhaaratun Syamsiyyatun",
+    "meaning": "Kacamata hitam",
+    "sentences": [
+      {
+        "id": "s-1smp-p342-3",
+        "sentence": "أَلْبَسُ نَظَّارَةً شَمْسِيَّةً فِي الصَّيْفِ",
+        "latin": "Albasu nazhzhaaratan syamsiyyatan fish-shayfi",
+        "meaning": "Saya memakai kacamata hitam di musim panas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pakaian", "cuaca"]
+  },
+  {
+    "id": "w-1smp-p343-1",
+    "word": "تَكَبَّرَ - يَتَكَبَّرُ",
+    "latin": "Takabbara - Yatakabbaru",
+    "meaning": "Sombong",
+    "sentences": [
+      {
+        "id": "s-1smp-p343-1",
+        "sentence": "لَا يُحِبُّ اللَّهُ مَنْ يَتَكَبَّرُ عَلَى النَّاسِ",
+        "latin": "Laa yuhibbullaahu man yatakabbaru 'alan-naasi",
+        "meaning": "Allah tidak menyukai orang yang sombong terhadap manusia"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak"]
+  },
+  {
+    "id": "w-1smp-p343-2",
+    "word": "سَاعَةٌ حَائِطِيَّةٌ",
+    "latin": "Saa'atun Haa'ithiyyatun",
+    "meaning": "Jam dinding",
+    "sentences": [
+      {
+        "id": "s-1smp-p343-2",
+        "sentence": "عَلَّقْنَا سَاعَةً حَائِطِيَّةً فِي الْفَصْلِ",
+        "latin": "'Allaqnaa saa'atan haa'ithiyyatan fil-fashli",
+        "meaning": "Kami menggantung jam dinding di kelas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "waktu"]
+  },
+  {
+    "id": "w-1smp-p343-3",
+    "word": "بَطَّانِيَّةٌ",
+    "latin": "Baththaaniyyatun",
+    "meaning": "Selimut tebal",
+    "sentences": [
+      {
+        "id": "s-1smp-p343-3",
+        "sentence": "أَتَغَطَّى بِبَطَّانِيَّةٍ سَمِيكَةٍ فِي الشِّتَاءِ",
+        "latin": "Ataghaththaa bi-baththaaniyyatin samiikatin fisy-syitaa'i",
+        "meaning": "Saya menyelimuti diri dengan selimut tebal di musim dingin"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["asrama", "cuaca"]
+  },
+  {
+    "id": "w-1smp-p344-1",
+    "word": "اِفْتَرَى - يَفْتَرِي",
+    "latin": "Iftaraa - Yaftarii",
+    "meaning": "Memfitnah",
+    "sentences": [
+      {
+        "id": "s-1smp-p344-1",
+        "sentence": "لَا يَجُوزُ أَنْ يَفْتَرِيَ الْمَرْءُ عَلَى غَيْرِهِ",
+        "latin": "Laa yajuuzu an yaftariyal-mar'u 'alaa ghayrihi",
+        "meaning": "Tidak boleh seseorang memfitnah orang lain"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak"]
+  },
+  {
+    "id": "w-1smp-p344-2",
+    "word": "مِخَدَّةٌ",
+    "latin": "Mikhaddatun",
+    "meaning": "Bantal (variasi)",
+    "sentences": [
+      {
+        "id": "s-1smp-p344-2",
+        "sentence": "وَضَعَ رَأْسَهُ عَلَى الْمِخَدَّةِ",
+        "latin": "Wadha'a ra'sahu 'alal-mikhaddati",
+        "meaning": "Ia meletakkan kepalanya di atas bantal"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["asrama"]
+  },
+  {
+    "id": "w-1smp-p344-3",
+    "word": "دُخَانٌ",
+    "latin": "Dukhaanun",
+    "meaning": "Asap",
+    "sentences": [
+      {
+        "id": "s-1smp-p344-3",
+        "sentence": "خَرَجَ الدُّخَانُ مِنَ الْمَطْبَخِ",
+        "latin": "Kharajad-dukhaanu minal-mathbakhi",
+        "meaning": "Asap keluar dari dapur"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p345-1",
+    "word": "غَشَّ - يَغُشُّ",
+    "latin": "Ghasysya - Yaghusysyu",
+    "meaning": "Berbuat curang",
+    "sentences": [
+      {
+        "id": "s-1smp-p345-1",
+        "sentence": "لَا يَغُشُّ التَّاجِرُ الْأَمِينُ زَبَائِنَهُ",
+        "latin": "Laa yaghusysyut-taajirul-amiinu zabaa'inahu",
+        "meaning": "Pedagang yang jujur tidak menipu para pelanggannya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akhlak", "ekonomi"]
+  },
+  {
+    "id": "w-1smp-p345-2",
+    "word": "رَمَادٌ",
+    "latin": "Ramaadun",
+    "meaning": "Abu",
+    "sentences": [
+      {
+        "id": "s-1smp-p345-2",
+        "sentence": "جَمَعَ الْعَامِلُ الرَّمَادَ بَعْدَ الْحَرِيقِ",
+        "latin": "Jama'al-'aamilur-ramaada ba'dal-hariiqi",
+        "meaning": "Pekerja mengumpulkan abu setelah kebakaran"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda"]
+  },
+  {
+    "id": "w-1smp-p345-3",
+    "word": "لَهَبٌ",
+    "latin": "Lahabun",
+    "meaning": "Api / kobaran",
+    "sentences": [
+      {
+        "id": "s-1smp-p345-3",
+        "sentence": "ارْتَفَعَ اللَّهَبُ مِنَ الْمَوْقِدِ",
+        "latin": "Irtafa'al-lahabu minal-mawqidi",
+        "meaning": "Api berkobar naik dari tungku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p346-1",
+    "word": "أَنْصَفَ - يُنْصِفُ",
+    "latin": "Anshafa - Yunshifu",
+    "meaning": "Berlaku adil",
+    "sentences": [
+      {
+        "id": "s-1smp-p346-1",
+        "sentence": "أَنْصَفَ الْقَاضِي بَيْنَ الْخَصْمَيْنِ",
+        "latin": "Anshafal-qaadhii baynal-khashmayni",
+        "meaning": "Hakim itu berlaku adil di antara dua pihak yang bersengketa"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["hukum"]
+  },
+  {
+    "id": "w-1smp-p346-2",
+    "word": "فَحْمٌ",
+    "latin": "Fahmun",
+    "meaning": "Arang",
+    "sentences": [
+      {
+        "id": "s-1smp-p346-2",
+        "sentence": "يُشْعِلُ أَبِي الْفَحْمَ لِلشَّوَاءِ",
+        "latin": "Yusy'ilu abil-fahma lisy-syiwaa'i",
+        "meaning": "Ayahku menyalakan arang untuk memanggang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p346-3",
+    "word": "شَمْعَةٌ",
+    "latin": "Syam'atun",
+    "meaning": "Lilin",
+    "sentences": [
+      {
+        "id": "s-1smp-p346-3",
+        "sentence": "أَضَأْتُ شَمْعَةً عِنْدَمَا انْقَطَعَتِ الْكَهْرَبَاءُ",
+        "latin": "Adha'tu syam'atan 'indamaanqatha'atil-kahrabaa'u",
+        "meaning": "Saya menyalakan lilin ketika listrik padam"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda"]
+  },
+  {
+    "id": "w-1smp-p347-1",
+    "word": "ضَحَّى - يُضَحِّي",
+    "latin": "Dhahhaa - Yudhahhii",
+    "meaning": "Berkorban",
+    "sentences": [
+      {
+        "id": "s-1smp-p347-1",
+        "sentence": "ضَحَّى الْمُسْلِمُونَ بِالْأَنْعَامِ فِي الْعِيدِ",
+        "latin": "Dhahhaal-muslimuuna bil-an'aami fil-'iidi",
+        "meaning": "Umat Islam berkurban dengan hewan ternak di hari raya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["ibadah"]
+  },
+  {
+    "id": "w-1smp-p347-2",
+    "word": "كِبْرِيتٌ",
+    "latin": "Kibriitun",
+    "meaning": "Korek api",
+    "sentences": [
+      {
+        "id": "s-1smp-p347-2",
+        "sentence": "أَشْعَلَ أَبِي عُودَ الْكِبْرِيتِ",
+        "latin": "Asy'ala abii 'uudal-kibriiti",
+        "meaning": "Ayahku menyalakan sebatang korek api"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["benda"]
+  },
+  {
+    "id": "w-1smp-p347-3",
+    "word": "غَازٌ",
+    "latin": "Ghaazun",
+    "meaning": "Gas",
+    "sentences": [
+      {
+        "id": "s-1smp-p347-3",
+        "sentence": "نَطْبُخُ الطَّعَامَ عَلَى مَوْقِدِ الْغَازِ",
+        "latin": "Nathbukhut-tha'aama 'alaa mawqidil-ghaazi",
+        "meaning": "Kami memasak makanan di atas kompor gas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p348-1",
+    "word": "جَاهَدَ - يُجَاهِدُ",
+    "latin": "Jaahada - Yujaahidu",
+    "meaning": "Bersungguh-sungguh / berjihad",
+    "sentences": [
+      {
+        "id": "s-1smp-p348-1",
+        "sentence": "جَاهَدَ الطَّالِبُ فِي طَلَبِ الْعِلْمِ",
+        "latin": "Jaahada-thaalibu fii thalabil-'ilmi",
+        "meaning": "Siswa itu bersungguh-sungguh dalam menuntut ilmu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["ibadah", "sekolah"]
+  },
+  {
+    "id": "w-1smp-p348-2",
+    "word": "كَهْرَبَاءُ",
+    "latin": "Kahrabaa'u",
+    "meaning": "Listrik",
+    "sentences": [
+      {
+        "id": "s-1smp-p348-2",
+        "sentence": "انْقَطَعَتِ الْكَهْرَبَاءُ فِي اللَّيْلِ",
+        "latin": "Inqatha'atil-kahrabaa'u fil-layli",
+        "meaning": "Listrik padam di malam hari"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["fasilitas"]
+  },
+  {
+    "id": "w-1smp-p348-3",
+    "word": "حَمَّامٌ",
+    "latin": "Hammaamun",
+    "meaning": "Kamar mandi",
+    "sentences": [
+      {
+        "id": "s-1smp-p348-3",
+        "sentence": "أَغْتَسِلُ فِي الْحَمَّامِ كُلَّ صَبَاحٍ",
+        "latin": "Aghtasilu fil-hammaami kulla shabaahin",
+        "meaning": "Saya mandi di kamar mandi setiap pagi"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["asrama", "kebersihan"]
+  },
+  {
+    "id": "w-1smp-p349-1",
+    "word": "صَابَرَ - يُصَابِرُ",
+    "latin": "Shaabara - Yushaabiru",
+    "meaning": "Bersabar (bersama)",
+    "sentences": [
+      {
+        "id": "s-1smp-p349-1",
+        "sentence": "صَابَرَ الْمُجَاهِدُونَ فِي سَبِيلِ الْحَقِّ",
+        "latin": "Shaabara-mujaahiduuna fii sabiilil-haqqi",
+        "meaning": "Para pejuang itu bersabar bersama di jalan kebenaran"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["ibadah"]
+  },
+  {
+    "id": "w-1smp-p349-2",
+    "word": "دُشٌّ",
+    "latin": "Dusysyun",
+    "meaning": "Shower / pancuran",
+    "sentences": [
+      {
+        "id": "s-1smp-p349-2",
+        "sentence": "أَسْتَحِمُّ تَحْتَ الدُّشِّ بِمَاءٍ دَافِئٍ",
+        "latin": "Astahimmu tahtad-dusysyi bi-maa'in daafi'in",
+        "meaning": "Saya mandi di bawah shower dengan air hangat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kebersihan"]
+  },
+  {
+    "id": "w-1smp-p349-3",
+    "word": "حَوْضُ اسْتِحْمَامٍ",
+    "latin": "Hawdhu Istihmaamin",
+    "meaning": "Bak mandi",
+    "sentences": [
+      {
+        "id": "s-1smp-p349-3",
+        "sentence": "يَسْتَحِمُّ الطِّفْلُ فِي حَوْضِ الِاسْتِحْمَامِ",
+        "latin": "Yastahimmut-tiflu fii hawdhil-istihmaami",
+        "meaning": "Anak kecil itu mandi di bak mandi"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kebersihan"]
+  },
+  {
+    "id": "w-1smp-p350-1",
+    "word": "رَاقَبَ - يُرَاقِبُ",
+    "latin": "Raaqaba - Yuraaqibu",
+    "meaning": "Mengawasi",
+    "sentences": [
+      {
+        "id": "s-1smp-p350-1",
+        "sentence": "رَاقَبَتِ الْأُمُّ طِفْلَهَا وَهُوَ يَلْعَبُ",
+        "latin": "Raaqabatil-ummu thiflahaa wa huwa yal'abu",
+        "meaning": "Ibu itu mengawasi anaknya yang sedang bermain"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p350-2",
+    "word": "مِزْمَارٌ",
+    "latin": "Mizmaarun",
+    "meaning": "Terompet",
+    "sentences": [
+      {
+        "id": "s-1smp-p350-2",
+        "sentence": "عَزَفَ الرَّاعِي عَلَى الْمِزْمَارِ",
+        "latin": "'Azafar-raa'ii 'alal-mizmaari",
+        "meaning": "Penggembala memainkan terompet"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["seni"]
+  },
+  {
+    "id": "w-1smp-p350-3",
+    "word": "بُوقٌ",
+    "latin": "Buuqun",
+    "meaning": "Klakson / terompet",
+    "sentences": [
+      {
+        "id": "s-1smp-p350-3",
+        "sentence": "سَمِعْتُ بُوقَ السَّيَّارَةِ فِي الشَّارِعِ",
+        "latin": "Sami'tu buuqas-sayyaarati fisy-syaari'i",
+        "meaning": "Saya mendengar klakson mobil di jalan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["transportasi"]
+  },
+  {
+    "id": "w-1smp-p351-1",
+    "word": "فَتَّشَ - يُفَتِّشُ",
+    "latin": "Fattasya - Yufattisyu",
+    "meaning": "Memeriksa / menggeledah",
+    "sentences": [
+      {
+        "id": "s-1smp-p351-1",
+        "sentence": "فَتَّشَ الْحَارِسُ الْحَقَائِبَ عِنْدَ الْبَوَّابَةِ",
+        "latin": "Fattasyal-haarisul-haqaa'iba 'indal-bawwaabati",
+        "meaning": "Penjaga memeriksa tas-tas di gerbang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keamanan"]
+  },
+  {
+    "id": "w-1smp-p351-2",
+    "word": "جَرَسُ الْبَابِ",
+    "latin": "Jarasul-Baabi",
+    "meaning": "Bel pintu",
+    "sentences": [
+      {
+        "id": "s-1smp-p351-2",
+        "sentence": "رَنَّ جَرَسُ الْبَابِ فَفَتَحْتُ الْبَابَ",
+        "latin": "Ranna jarasul-baabi fa-fatahtul-baaba",
+        "meaning": "Bel pintu berbunyi lalu saya membuka pintu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["rumah"]
+  },
+  {
+    "id": "w-1smp-p351-3",
+    "word": "مِفْتَاحُ الضَّوْءِ",
+    "latin": "Miftaahudh-Dhaw'i",
+    "meaning": "Saklar lampu",
+    "sentences": [
+      {
+        "id": "s-1smp-p351-3",
+        "sentence": "ضَغَطْتُ عَلَى مِفْتَاحِ الضَّوْءِ لِأُطْفِئَهُ",
+        "latin": "Dhaghatthu 'alaa miftaahidh-dhaw'i li-uthfi'ahu",
+        "meaning": "Saya menekan saklar lampu untuk mematikannya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["asrama"]
+  },
+  {
+    "id": "w-1smp-p352-1",
+    "word": "تَحَقَّقَ - يَتَحَقَّقُ",
+    "latin": "Tahaqqaqa - Yatahaqqaqu",
+    "meaning": "Memverifikasi / terwujud",
+    "sentences": [
+      {
+        "id": "s-1smp-p352-1",
+        "sentence": "تَحَقَّقَ حُلْمُ الطَّالِبِ بَعْدَ الِاجْتِهَادِ",
+        "latin": "Tahaqqaqa hulmuth-thaalibi ba'dal-ijtihaadi",
+        "meaning": "Impian siswa itu terwujud setelah bersungguh-sungguh"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["motivasi"]
+  },
+  {
+    "id": "w-1smp-p352-2",
+    "word": "أَنْبُوبٌ",
+    "latin": "Unbuubun",
+    "meaning": "Pipa",
+    "sentences": [
+      {
+        "id": "s-1smp-p352-2",
+        "sentence": "يَجْرِي الْمَاءُ دَاخِلَ الْأَنْبُوبِ",
+        "latin": "Yajril-maa'u daakhilal-unbuubi",
+        "meaning": "Air mengalir di dalam pipa"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["fasilitas"]
+  },
+  {
+    "id": "w-1smp-p352-3",
+    "word": "صُنْبُورٌ",
+    "latin": "Shunbuurun",
+    "meaning": "Keran air",
+    "sentences": [
+      {
+        "id": "s-1smp-p352-3",
+        "sentence": "فَتَحْتُ الصُّنْبُورَ لِأَغْسِلَ يَدَيَّ",
+        "latin": "Fatahtus-shunbuura li-aghsila yadayya",
+        "meaning": "Saya membuka keran untuk mencuci kedua tanganku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kebersihan"]
+  },
+  {
+    "id": "w-1smp-p353-1",
+    "word": "اِسْتَنْبَطَ - يَسْتَنْبِطُ",
+    "latin": "Istanbatha - Yastanbithu",
+    "meaning": "Menyimpulkan (hukum)",
+    "sentences": [
+      {
+        "id": "s-1smp-p353-1",
+        "sentence": "اسْتَنْبَطَ الْفَقِيهُ حُكْمًا مِنَ النَّصِّ",
+        "latin": "Istanbatha-faqiihu hukman minan-nashshi",
+        "meaning": "Ahli fikih itu menyimpulkan hukum dari nash"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akademik", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p353-2",
+    "word": "مَصْعَدٌ",
+    "latin": "Mash'adun",
+    "meaning": "Lift",
+    "sentences": [
+      {
+        "id": "s-1smp-p353-2",
+        "sentence": "صَعِدْنَا إِلَى الدَّوْرِ الْعَاشِرِ بِالْمَصْعَدِ",
+        "latin": "Sha'idnaa ilad-dawril-'aasyiri bil-mash'adi",
+        "meaning": "Kami naik ke lantai sepuluh dengan lift"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["fasilitas"]
+  },
+  {
+    "id": "w-1smp-p353-3",
+    "word": "مُوَلِّدٌ",
+    "latin": "Muwallidun",
+    "meaning": "Genset / generator",
+    "sentences": [
+      {
+        "id": "s-1smp-p353-3",
+        "sentence": "يَعْمَلُ الْمُوَلِّدُ عِنْدَ انْقِطَاعِ الْكَهْرَبَاءِ",
+        "latin": "Ya'malul-muwallidu 'inda inqithaa'il-kahrabaa'i",
+        "meaning": "Genset bekerja ketika listrik padam"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["fasilitas"]
+  },
+  {
+    "id": "w-1smp-p354-1",
+    "word": "اِسْتَشَارَ - يَسْتَشِيرُ",
+    "latin": "Istasyaara - Yastasyiiru",
+    "meaning": "Berkonsultasi / bermusyawarah",
+    "sentences": [
+      {
+        "id": "s-1smp-p354-1",
+        "sentence": "اسْتَشَارَ الشَّابُّ وَالِدَهُ قَبْلَ الْقَرَارِ",
+        "latin": "Istasyaarasy-syaabbu waalidahu qablal-qaraari",
+        "meaning": "Pemuda itu bermusyawarah dengan ayahnya sebelum mengambil keputusan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keluarga", "akhlak"]
+  },
+  {
+    "id": "w-1smp-p354-2",
+    "word": "مَحْصُولٌ",
+    "latin": "Mahshuulun",
+    "meaning": "Hasil panen",
+    "sentences": [
+      {
+        "id": "s-1smp-p354-2",
+        "sentence": "جَمَعَ الْفَلَّاحُ الْمَحْصُولَ بَعْدَ شُهُورٍ مِنَ الْعَمَلِ",
+        "latin": "Jama'al-fallaahul-mahshuula ba'da syuhuurin minal-'amali",
+        "meaning": "Petani mengumpulkan hasil panen setelah beberapa bulan bekerja"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pertanian"]
+  },
+  {
+    "id": "w-1smp-p354-3",
+    "word": "سَمَادٌ",
+    "latin": "Samaadun",
+    "meaning": "Pupuk",
+    "sentences": [
+      {
+        "id": "s-1smp-p354-3",
+        "sentence": "وَضَعَ الْفَلَّاحُ السَّمَادَ فِي التُّرَابِ",
+        "latin": "Wadha'al-fallaahus-samaada fit-turaabi",
+        "meaning": "Petani menaruh pupuk di dalam tanah"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pertanian"]
+  },
+  {
+    "id": "w-1smp-p355-1",
+    "word": "أَشَارَ - يُشِيرُ",
+    "latin": "Asyaara - Yusyiiru",
+    "meaning": "Menunjuk / memberi isyarat",
+    "sentences": [
+      {
+        "id": "s-1smp-p355-1",
+        "sentence": "أَشَارَ الْمُعَلِّمُ إِلَى السَّبُّورَةِ",
+        "latin": "Asyaara-mu'allimu ilas-sabbuurati",
+        "meaning": "Guru menunjuk ke papan tulis"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p355-2",
+    "word": "مِرَشَّةٌ",
+    "latin": "Mirasysyatun",
+    "meaning": "Alat penyiram",
+    "sentences": [
+      {
+        "id": "s-1smp-p355-2",
+        "sentence": "سَقَيْتُ الْأَزْهَارَ بِالْمِرَشَّةِ",
+        "latin": "Saqaytul-azhaara bil-mirasysyati",
+        "meaning": "Saya menyiram bunga-bunga dengan alat penyiram"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pertanian"]
+  },
+  {
+    "id": "w-1smp-p355-3",
+    "word": "جَرَّارٌ",
+    "latin": "Jarraarun",
+    "meaning": "Traktor",
+    "sentences": [
+      {
+        "id": "s-1smp-p355-3",
+        "sentence": "يَحْرُثُ الْفَلَّاحُ الْأَرْضَ بِالْجَرَّارِ",
+        "latin": "Yahrutsul-fallaahul-ardha bil-jarraari",
+        "meaning": "Petani membajak tanah dengan traktor"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pertanian"]
+  },
+  {
+    "id": "w-1smp-p356-1",
+    "word": "أَوْمَأَ - يُومِئُ",
+    "latin": "Awma'a - Yuumi'u",
+    "meaning": "Memberi isyarat (kepala)",
+    "sentences": [
+      {
+        "id": "s-1smp-p356-1",
+        "sentence": "أَوْمَأَ الطَّالِبُ بِرَأْسِهِ مُوَافِقًا",
+        "latin": "Awma'a-thaalibu bi-ra'sihi muwaafiqan",
+        "meaning": "Siswa itu mengangguk setuju"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p356-2",
+    "word": "مَخْزَنٌ",
+    "latin": "Makhzanun",
+    "meaning": "Gudang",
+    "sentences": [
+      {
+        "id": "s-1smp-p356-2",
+        "sentence": "خَزَّنَ الْفَلَّاحُ الْحُبُوبَ فِي الْمَخْزَنِ",
+        "latin": "Khazzanal-fallaahul-huduba fil-makhzani",
+        "meaning": "Petani menyimpan biji-bijian di dalam gudang"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["pertanian"]
+  },
+  {
+    "id": "w-1smp-p356-3",
+    "word": "طَحِينٌ",
+    "latin": "Thahiinun",
+    "meaning": "Tepung",
+    "sentences": [
+      {
+        "id": "s-1smp-p356-3",
+        "sentence": "اشْتَرَتْ أُمِّي كِيسًا مِنَ الطَّحِينِ",
+        "latin": "Isytarat ummii kiisan minat-tahiini",
+        "meaning": "Ibuku membeli sekantong tepung"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p357-1",
+    "word": "حَذَّرَ - يُحَذِّرُ",
+    "latin": "Hadzdzara - Yuhadzdziru",
+    "meaning": "Memperingatkan",
+    "sentences": [
+      {
+        "id": "s-1smp-p357-1",
+        "sentence": "حَذَّرَنِي أَبِي مِنَ السِّبَاحَةِ فِي الْبَحْرِ الْهَائِجِ",
+        "latin": "Hadzdzaranii abii minas-sibaahati fil-bahril-haa'iji",
+        "meaning": "Ayahku memperingatkanku dari berenang di laut yang ganas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["keselamatan"]
+  },
+  {
+    "id": "w-1smp-p357-2",
+    "word": "خَمِيرَةٌ",
+    "latin": "Khamiiratun",
+    "meaning": "Ragi",
+    "sentences": [
+      {
+        "id": "s-1smp-p357-2",
+        "sentence": "تَضَعُ أُمِّي الْخَمِيرَةَ فِي عَجِينِ الْخُبْزِ",
+        "latin": "Tadha'u ummil-khamiirata fii 'ajiinil-khubzi",
+        "meaning": "Ibuku menaruh ragi di adonan roti"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p357-3",
+    "word": "نَشَاءٌ",
+    "latin": "Nasyaa'un",
+    "meaning": "Kanji / pati",
+    "sentences": [
+      {
+        "id": "s-1smp-p357-3",
+        "sentence": "يُسْتَخْدَمُ النَّشَاءُ فِي تَثْخِينِ الْحَسَاءِ",
+        "latin": "Yustakhdamun-nasyaa'u fii tatskhiinil-hasaa'i",
+        "meaning": "Kanji digunakan untuk mengentalkan sup"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["dapur"]
+  },
+  {
+    "id": "w-1smp-p358-1",
+    "word": "أَنْذَرَ - يُنْذِرُ",
+    "latin": "Andzara - Yundziru",
+    "meaning": "Memperingatkan (bahaya)",
+    "sentences": [
+      {
+        "id": "s-1smp-p358-1",
+        "sentence": "أَنْذَرَ الْمُذِيعُ النَّاسَ مِنَ الْعَاصِفَةِ",
+        "latin": "Andzaral-mudzii'un-naasa minal-'aasifati",
+        "meaning": "Penyiar itu memperingatkan orang-orang akan badai"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["cuaca", "media"]
+  },
+  {
+    "id": "w-1smp-p358-2",
+    "word": "شُوكُولَاتَةٌ",
+    "latin": "Syuukuulaatatun",
+    "meaning": "Cokelat",
+    "sentences": [
+      {
+        "id": "s-1smp-p358-2",
+        "sentence": "يُحِبُّ الْأَطْفَالُ الشُّوكُولَاتَةَ كَثِيرًا",
+        "latin": "Yuhibbul-athfaalusy-syuukuulaataka tsiiran",
+        "meaning": "Anak-anak sangat menyukai cokelat"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan"]
+  },
+  {
+    "id": "w-1smp-p358-3",
+    "word": "آيْسْكِرِيمْ",
+    "latin": "Aayskiriim",
+    "meaning": "Es krim",
+    "sentences": [
+      {
+        "id": "s-1smp-p358-3",
+        "sentence": "أَكَلْنَا الْآيْسْكِرِيمَ فِي يَوْمٍ حَارٍّ",
+        "latin": "Akalnal-aayskiriima fii yawmin haarrin",
+        "meaning": "Kami makan es krim di hari yang panas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan", "cuaca"]
+  },
+  {
+    "id": "w-1smp-p359-1",
+    "word": "أَغْرَى - يُغْرِي",
+    "latin": "Aghraa - Yughrii",
+    "meaning": "Menggoda / merayu",
+    "sentences": [
+      {
+        "id": "s-1smp-p359-1",
+        "sentence": "أَغْرَتِ الْحَلْوَى الطِّفْلَ لِيَأْكُلَهَا",
+        "latin": "Aghratil-halwaat-tifla li-ya'kulahaa",
+        "meaning": "Manisan itu menggoda anak kecil untuk memakannya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["makanan"]
+  },
+  {
+    "id": "w-1smp-p359-2",
+    "word": "فَشَارٌ",
+    "latin": "Fasyaarun",
+    "meaning": "Popcorn",
+    "sentences": [
+      {
+        "id": "s-1smp-p359-2",
+        "sentence": "نَأْكُلُ الْفَشَارَ عِنْدَ مُشَاهَدَةِ الْفِيلْمِ",
+        "latin": "Na'kulul-fasyaara 'inda musyaahadatil-fiilmi",
+        "meaning": "Kami makan popcorn saat menonton film"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan"]
+  },
+  {
+    "id": "w-1smp-p359-3",
+    "word": "كَعْكُ الْعِيدِ",
+    "latin": "Ka'kul-'Iidi",
+    "meaning": "Kue lebaran",
+    "sentences": [
+      {
+        "id": "s-1smp-p359-3",
+        "sentence": "صَنَعَتِ الْجَدَّةُ كَعْكَ الْعِيدِ لِلضُّيُوفِ",
+        "latin": "Shana'atil-jaddatu ka'kal-'iidi lidh-dhuyuufi",
+        "meaning": "Nenek membuat kue lebaran untuk para tamu"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["makanan", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p360-1",
+    "word": "أَقْنَعَ - يُقْنِعُ",
+    "latin": "Aqna'a - Yuqni'u",
+    "meaning": "Meyakinkan",
+    "sentences": [
+      {
+        "id": "s-1smp-p360-1",
+        "sentence": "أَقْنَعَ الطَّالِبُ زُمَلَاءَهُ بِفِكْرَتِهِ",
+        "latin": "Aqna'a-thaalibu zumalaa'ahu bi-fikratihi",
+        "meaning": "Siswa itu meyakinkan teman-temannya dengan idenya"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p360-2",
+    "word": "اِسْتِرَاحَةٌ",
+    "latin": "Istiraahatun",
+    "meaning": "Waktu istirahat",
+    "sentences": [
+      {
+        "id": "s-1smp-p360-2",
+        "sentence": "نَأْخُذُ اسْتِرَاحَةً بَعْدَ الدَّرْسِ الثَّانِي",
+        "latin": "Na'khudzu istiraahatan ba'dad-darsits-tsaanii",
+        "meaning": "Kami mengambil waktu istirahat setelah pelajaran kedua"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p360-3",
+    "word": "دَوَامٌ",
+    "latin": "Dawaamun",
+    "meaning": "Jam kerja / masuk",
+    "sentences": [
+      {
+        "id": "s-1smp-p360-3",
+        "sentence": "يَبْدَأُ الدَّوَامُ فِي السَّاعَةِ السَّابِعَةِ",
+        "latin": "Yabda'ud-dawaamu fis-saa'atis-saabi'ati",
+        "meaning": "Jam masuk dimulai pukul tujuh"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah", "waktu"]
+  },
+  {
+    "id": "w-1smp-p361-1",
+    "word": "اِسْتَغَلَّ - يَسْتَغِلُّ",
+    "latin": "Istaghalla - Yastaghillu",
+    "meaning": "Memanfaatkan",
+    "sentences": [
+      {
+        "id": "s-1smp-p361-1",
+        "sentence": "اسْتَغَلَّ الطَّالِبُ وَقْتَ الْفَرَاغِ لِلْمُذَاكَرَةِ",
+        "latin": "Istaghallal-thaalibu waqtal-faraaghi lil-mudzaakarati",
+        "meaning": "Siswa itu memanfaatkan waktu luang untuk belajar"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p361-2",
+    "word": "عُطْلَةٌ",
+    "latin": "'Uthlatun",
+    "meaning": "Libur",
+    "sentences": [
+      {
+        "id": "s-1smp-p361-2",
+        "sentence": "نَنْتَظِرُ الْعُطْلَةَ بِفَرَحٍ",
+        "latin": "Nantazhirul-'uthlata bi-farahin",
+        "meaning": "Kami menunggu libur dengan gembira"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p361-3",
+    "word": "إِجَازَةٌ",
+    "latin": "Ijaazatun",
+    "meaning": "Cuti / libur",
+    "sentences": [
+      {
+        "id": "s-1smp-p361-3",
+        "sentence": "أَخَذَ أَبِي إِجَازَةً مِنَ الْعَمَلِ",
+        "latin": "Akhadza abii ijaazatan minal-'amali",
+        "meaning": "Ayahku mengambil cuti dari pekerjaan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["keluarga"]
+  },
+  {
+    "id": "w-1smp-p362-1",
+    "word": "اِسْتَفَادَ - يَسْتَفِيدُ",
+    "latin": "Istafaada - Yastafiidu",
+    "meaning": "Mendapat manfaat",
+    "sentences": [
+      {
+        "id": "s-1smp-p362-1",
+        "sentence": "اسْتَفَدْتُ كَثِيرًا مِنْ نَصِيحَةِ أُسْتَاذِي",
+        "latin": "Istafadtu katsiiran min nashiihati ustaadzii",
+        "meaning": "Saya mendapat banyak manfaat dari nasihat ustadzku"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["sekolah"]
+  },
+  {
+    "id": "w-1smp-p362-2",
+    "word": "غُبَارٌ",
+    "latin": "Ghubaarun",
+    "meaning": "Debu (halus)",
+    "sentences": [
+      {
+        "id": "s-1smp-p362-2",
+        "sentence": "غَطَّى الْغُبَارُ سَطْحَ الطَّاوِلَةِ",
+        "latin": "Ghaththal-ghubaaru sathat-thaawilati",
+        "meaning": "Debu menutupi permukaan meja"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["kebersihan"]
+  },
+  {
+    "id": "w-1smp-p362-3",
+    "word": "طِينٌ",
+    "latin": "Thiinun",
+    "meaning": "Lumpur",
+    "sentences": [
+      {
+        "id": "s-1smp-p362-3",
+        "sentence": "لَعِبَ الْأَطْفَالُ بِالطِّينِ بَعْدَ الْمَطَرِ",
+        "latin": "La'ibal-athfaalu bit-tiini ba'dal-mathari",
+        "meaning": "Anak-anak bermain lumpur setelah hujan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p363-1",
+    "word": "أَفَادَ - يُفِيدُ",
+    "latin": "Afaada - Yufiidu",
+    "meaning": "Memberi manfaat",
+    "sentences": [
+      {
+        "id": "s-1smp-p363-1",
+        "sentence": "أَفَادَنِي الْكِتَابُ فَائِدَةً عَظِيمَةً",
+        "latin": "Afaadanil-kitaabu faa'idatan 'azhiimatan",
+        "meaning": "Buku itu memberiku manfaat yang besar"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akademik"]
+  },
+  {
+    "id": "w-1smp-p363-2",
+    "word": "صَخْرَةٌ",
+    "latin": "Shakhratun",
+    "meaning": "Batu karang besar",
+    "sentences": [
+      {
+        "id": "s-1smp-p363-2",
+        "sentence": "جَلَسْنَا عَلَى صَخْرَةٍ كَبِيرَةٍ عِنْدَ الشَّاطِئِ",
+        "latin": "Jalasnaa 'alaa shakhratin kabiiratin 'indasy-syaathi'i",
+        "meaning": "Kami duduk di atas batu karang besar di pinggir pantai"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p363-3",
+    "word": "كَثِيبٌ",
+    "latin": "Katsiibun",
+    "meaning": "Bukit pasir",
+    "sentences": [
+      {
+        "id": "s-1smp-p363-3",
+        "sentence": "تَسَلَّقَ الْأَوْلَادُ كَثِيبَ الرَّمْلِ",
+        "latin": "Tasallaqal-awlaadu katsiibar-ramli",
+        "meaning": "Anak-anak mendaki bukit pasir"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p364-1",
+    "word": "ضَرَّ - يَضُرُّ",
+    "latin": "Dharra - Yadhurru",
+    "meaning": "Membahayakan / merugikan",
+    "sentences": [
+      {
+        "id": "s-1smp-p364-1",
+        "sentence": "يَضُرُّ التَّدْخِينُ بِالصِّحَّةِ",
+        "latin": "Yadhurrut-tadkhiinu bish-shihhati",
+        "meaning": "Merokok membahayakan kesehatan"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["kesehatan"]
+  },
+  {
+    "id": "w-1smp-p364-2",
+    "word": "مُنْحَدَرٌ",
+    "latin": "Munhadarun",
+    "meaning": "Lereng",
+    "sentences": [
+      {
+        "id": "s-1smp-p364-2",
+        "sentence": "نَزَلْنَا مِنَ الْمُنْحَدَرِ بِحَذَرٍ",
+        "latin": "Nazalnaa minal-munhadari bi-hadzarin",
+        "meaning": "Kami turun dari lereng dengan hati-hati"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p364-3",
+    "word": "قِمَّةٌ",
+    "latin": "Qimmatun",
+    "meaning": "Puncak",
+    "sentences": [
+      {
+        "id": "s-1smp-p364-3",
+        "sentence": "وَصَلَ الْمُتَسَلِّقُونَ إِلَى قِمَّةِ الْجَبَلِ",
+        "latin": "Washala-mutasalliquuna ilaa qimmatil-jabali",
+        "meaning": "Para pendaki tiba di puncak gunung"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p365-1",
+    "word": "نَفَعَ - يَنْفَعُ",
+    "latin": "Nafa'a - Yanfa'u",
+    "meaning": "Bermanfaat",
+    "sentences": [
+      {
+        "id": "s-1smp-p365-1",
+        "sentence": "يَنْفَعُ الْعِلْمُ صَاحِبَهُ وَغَيْرَهُ",
+        "latin": "Yanfa'ul-'ilmu shaahibahu wa ghayrahu",
+        "meaning": "Ilmu bermanfaat bagi pemiliknya dan orang lain"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "fiil",
+    "tags": ["akademik", "ibadah"]
+  },
+  {
+    "id": "w-1smp-p365-2",
+    "word": "أُفُقٌ",
+    "latin": "Ufuqun",
+    "meaning": "Cakrawala",
+    "sentences": [
+      {
+        "id": "s-1smp-p365-2",
+        "sentence": "رَأَيْنَا الشَّمْسَ تَغْرُبُ عِنْدَ الْأُفُقِ",
+        "latin": "Ra'aynaasy-syamsa taghrubu 'indal-ufuqi",
+        "meaning": "Kami melihat matahari terbenam di cakrawala"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["alam"]
+  },
+  {
+    "id": "w-1smp-p365-3",
+    "word": "نُقْطَةٌ",
+    "latin": "Nuqthatun",
+    "meaning": "Titik",
+    "sentences": [
+      {
+        "id": "s-1smp-p365-3",
+        "sentence": "رَسَمَ الطَّالِبُ نُقْطَةً صَغِيرَةً عَلَى الْوَرَقَةِ",
+        "latin": "Rasama-thaalibu nuqthatan shaghiiratan 'alal-waraqati",
+        "meaning": "Siswa itu menggambar titik kecil di atas kertas"
+      }
+    ],
+    "originLevel": "1SMP",
+    "difficulty": 1,
+    "type": "ism",
+    "tags": ["akademik"]
   }
 
 ]
